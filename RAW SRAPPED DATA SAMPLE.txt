@@ -1,0 +1,50 @@
+RAW SRAPPED DATA SAMPLE:
+
+
+{
+  "search_query": "iPhone 12",
+  "total_reviews": 255,
+  "Overall_rating": "4.6",
+  "Total_ratings": "2,12,184 Ratings &",
+  "reviews": [
+    { "User_Rating": "5",
+      "Title": "Mind-blowing purchase",
+      "Comment": "This is my 1st Apple product and I must say it's a beast of a device 🔥\nIt handle everything in a very smooth ways, it's buttery smooth 😌\nI'm just loving this device and I must say iphones have something unique in them which everyone must try out❤️\n\nI will write my detailed review after using it for 2 months.",
+...
+...
+...
+]
+       
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+CLEANED DATA SAMPLE
+
+{
+  "product": "iPhone 12",
+  "total_initial_review_count": 255,
+  "total_final_review_count": 102,
+  "overall_rating": 4.6,
+  "total_ratings_count": 212184,
+  "cleaned_reviews": [
+  
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "This is my 1st Apple product and I must say it's a beast of a device 🔥\nIt handle everything in a very smooth ways, it's buttery smooth 😌\nI'm just loving this device and I must say iphones have something unique in them which everyone must try out❤️\n\nI will write my detailed review after using it for 2 months.",
+      "cleaned_comment": "this is my 1st apple product and i must say it's a beast of a device it handle everything in a very smooth ways, it's buttery smooth i'm just loving this device and i must say iphones have something unique in them which everyone must try out i will write my detailed review after using it for 2 months."
+    },
+...
+...
+...
+		]
+}
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+Example of the "summary" field added to data using the Gemini API to create a labeled dataset
+
+  "summary": "The iPhone 12 is overwhelmingly praised by customers for its exceptional camera system, delivering outstanding photo quality, excellent night mode performance, and superior video stabilization. Users consistently highlight its top-tier performance, driven by the A14 Bionic chip, which ensures a super-smooth, lag-free experience in daily use and demanding applications. The premium, lightweight design with its flat edges and vibrant OLED display is also a major highlight. While most users find the battery life sufficient for a full day of moderate use, some heavy users find it average and note the phone can heat up during intensive tasks. The most significant and common complaint is Apple's decision to exclude a charger and earphones from the box. Overall, the iPhone 12 is considered a fantastic, reliable flagship, especially for those prioritizing camera quality and fast performance, though potential buyers should be aware of the battery life under heavy use and the need to purchase accessories separately."
