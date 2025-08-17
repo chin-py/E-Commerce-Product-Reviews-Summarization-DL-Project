@@ -1,0 +1,74 @@
+{
+  "product": "iPhone 16e",
+  "total_initial_review_count": 74,
+  "total_final_review_count": 13,
+  "overall_rating": 4.6,
+  "total_ratings_count": 1294,
+  "cleaned_reviews": [
+    {
+      "title": "excellent",
+      "raw_comment": "Upgraded from SE(2020),, 5 more years to go with this too",
+      "cleaned_comment": "upgraded from se(2020),, 5 more years to go with this too"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "5.7 inch would be sweet spot , 6 inch got extra spaces in screen",
+      "cleaned_comment": "5.7 inch would be sweet spot , 6 inch got extra spaces in screen"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Let us ask ourselves, whether we need a show off phone or a trueblue utility device. If you opt for the latter, then 16e is for you. This is an absolute marvel with a minimalistic presence. Love it or hate it, this is an Apple product for India.",
+      "cleaned_comment": "let us ask ourselves, whether we need a show off phone or a trueblue utility device. if you opt for the latter, then 16e is for you. this is an absolute marvel with a minimalistic presence. love it or hate it, this is an apple product for india."
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Excellent phone at an affordable price. Got a great exchange deal for my Iphone11 and the extra discount for the card. The phone is top notch in terms of performance and feel and off course the battery back up, camera and audio quality pepping it nicely, Thank you Flipkart for a great deal!!!",
+      "cleaned_comment": "excellent phone at an affordable price. got a great exchange deal for my iphone11 and the extra discount for the card. the phone is top notch in terms of performance and feel and off course the battery back up, camera and audio quality pepping it nicely, thank you flipkart for a great deal!!!"
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "If the camera had the wide angle feature in the portrait mode, it would be the better than iPhone 15.",
+      "cleaned_comment": "if the camera had the wide angle feature in the portrait mode, it would be the better than iphone 15."
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Bought this 16e because of its battery life , connectivity ( even low singal areas) and Apple security.\nFor photography and entertainment I have seperate gadjets.\nFlipkart's offer clubbed with bank offer is a good deal for flipkarters",
+      "cleaned_comment": "bought this 16e because of its battery life , connectivity ( even low singal areas) and apple security. for photography and entertainment i have seperate gadjets. flipkart's offer clubbed with bank offer is a good deal for flipkarters"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "The performance of the phone is excellent. Those who need a phone for your daily rigorous work, this is an appropriate phone for them. Camera is not the strongest part of this phone, but other than that it's quite good.",
+      "cleaned_comment": "the performance of the phone is excellent. those who need a phone for your daily rigorous work, this is an appropriate phone for them. camera is not the strongest part of this phone, but other than that it's quite good."
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "All is well, perform 10/10, ￼ camera 10/10, battery back up 10/10, display10/9 , audio quality10/10 , doable ,￼ compact 👍 in budget, hundred percent command by me👍💐￼",
+      "cleaned_comment": "all is well, perform 1010, camera 1010, battery back up 1010, display109 , audio quality1010 , doable , compact in budget, hundred percent command by me"
+    },
+    {
+      "title": "super!",
+      "raw_comment": "Awesome phone with beautiful design, if you are not a digital creator, then this phone is for you, it can perform all the activities you want, no problem with 60hz refresh rate you will not feel it at all , awesome display and software experience",
+      "cleaned_comment": "awesome phone with beautiful design, if you are not a digital creator, then this phone is for you, it can perform all the activities you want, no problem with 60hz refresh rate you will not feel it at all , awesome display and software experience"
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "Battery life improve\niPhone 11 to 16e switch\nGood iPhone 16e",
+      "cleaned_comment": "battery life improve iphone 11 to 16e switch good iphone 16e"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Great phone so far!. Delivers beautifully on good battery and performance!",
+      "cleaned_comment": "great phone so far!. delivers beautifully on good battery and performance!"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "The device works flawlessly like any other iPhone minus the camera department.",
+      "cleaned_comment": "the device works flawlessly like any other iphone minus the camera department."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Nice product and got it for a good price from Flipkart.",
+      "cleaned_comment": "nice product and got it for a good price from flipkart."
+    }
+  ]
+}

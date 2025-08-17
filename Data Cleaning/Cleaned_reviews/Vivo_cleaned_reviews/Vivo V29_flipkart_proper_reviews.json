@@ -1,0 +1,84 @@
+{
+  "product": "Vivo V29",
+  "total_initial_review_count": 100,
+  "total_final_review_count": 15,
+  "overall_rating": 4.5,
+  "total_ratings_count": 3038,
+  "cleaned_reviews": [
+    {
+      "title": "wonderful",
+      "raw_comment": "Very nice phone,The product is fantastic with this price range. Basically it's design and camera and build quality is fantastic.",
+      "cleaned_comment": "very nice phone,the product is fantastic with this price range. basically it's design and camera and build quality is fantastic."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "The product is fantastic with this price range. Basically it's design and camera and build quality is fantastic. Only thing that lacking is earphone plug slot....",
+      "cleaned_comment": "the product is fantastic with this price range. basically it's design and camera and build quality is fantastic. only thing that lacking is earphone plug slot."
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "I have used it for the past 2 months . Everything is fine , but charging is very slow it's not 80W it's 8W",
+      "cleaned_comment": "i have used it for the past 2 months . everything is fine , but charging is very slow it's not 80w it's 8w"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Very nice phone and battery backup very strong and aura light mobile phone than very actravtibh",
+      "cleaned_comment": "very nice phone and battery backup very strong and aura light mobile phone than very actravtibh"
+    },
+    {
+      "title": "worth the money",
+      "raw_comment": "Simple awesome smartphone by Vivo .. night mode .. camere quality... Specially portrait mode awesome.. Battery backup very good ....",
+      "cleaned_comment": "simple awesome smartphone by vivo . night mode . camere quality. specially portrait mode awesome. battery backup very good ."
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "Camera is good,design is also nice, but the battery drain very fast,and it gets heated up while using",
+      "cleaned_comment": "camera is good,design is also nice, but the battery drain very fast,and it gets heated up while using"
+    },
+    {
+      "title": "does the job",
+      "raw_comment": "This pure camera centric phone and nice design also.\nAfter a month of usage I feel it's the best phone Vivo designed.\nCamera 4/5\nDesign 4/5\nPerformance 4/5\nDisplay 5/5",
+      "cleaned_comment": "this pure camera centric phone and nice design also. after a month of usage i feel it's the best phone vivo designed. camera 45 design 45 performance 45 display 55"
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "I really like this phone.only disadvantage is battery drain while using internet.otherwise it is best phone.Ram Rom Camera and Superb fast charging.",
+      "cleaned_comment": "i really like this phone.only disadvantage is battery drain while using internet.otherwise it is best phone.ram rom camera and superb fast charging."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "The built quality of this phone is too good and the camera quality is awesome. It's fast charging system very helpful.\nI am completely satisfied with this phone.",
+      "cleaned_comment": "the built quality of this phone is too good and the camera quality is awesome. it's fast charging system very helpful. i am completely satisfied with this phone."
+    },
+    {
+      "title": "nice",
+      "raw_comment": "Good camera\nBattery life is good\nFast charging is super.\nSound and display is decent.\nHaptics are poor",
+      "cleaned_comment": "good camera battery life is good fast charging is super. sound and display is decent. haptics are poor"
+    },
+    {
+      "title": "very good",
+      "raw_comment": "I liked it especially mobile design camera performance are awesome but problem is charging is discharge fastly no coming fully day overall it's worth for money for camera design",
+      "cleaned_comment": "i liked it especially mobile design camera performance are awesome but problem is charging is discharge fastly no coming fully day overall it's worth for money for camera design"
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "1. Design looks good. Light weight..\n2. Performance is good\n3. Display looks amazing\n4 battery stays for 24 hrs with light use .\n5. Price is high with the available specs",
+      "cleaned_comment": "1. design looks good. light weight. 2. performance is good 3. display looks amazing 4 battery stays for 24 hrs with light use . 5. price is high with the available specs"
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Portrait mode of camera is really awesome, after a year of purchasing, camera quality is same. No lag, in 12 gb variant. Good speed of 5g network. Overall good performance",
+      "cleaned_comment": "portrait mode of camera is really awesome, after a year of purchasing, camera quality is same. no lag, in 12 gb variant. good speed of 5g network. overall good performance"
+    },
+    {
+      "title": "very poor",
+      "raw_comment": "Vivo V29 is not good, charging is less and Dish does not return quickly and Flipkart also returns, so please think carefully before buying any other phone.",
+      "cleaned_comment": "vivo v29 is not good, charging is less and dish does not return quickly and flipkart also returns, so please think carefully before buying any other phone."
+    },
+    {
+      "title": "don't waste your money",
+      "raw_comment": "Worst phone forever...\nDon't buy it battery performance is too low and it gets heated within 30 min\nHeating problem is toooooo muchhhhh",
+      "cleaned_comment": "worst phone forever. don't buy it battery performance is too low and it gets heated within 30 min heating problem is toooooo muchhhhh"
+    }
+  ]
+}

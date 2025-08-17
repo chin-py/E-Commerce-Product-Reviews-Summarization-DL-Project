@@ -1,0 +1,64 @@
+{
+  "product": "Samsung Galaxy Z Fold 5",
+  "total_initial_review_count": 35,
+  "total_final_review_count": 11,
+  "overall_rating": 4.5,
+  "total_ratings_count": 595,
+  "cleaned_reviews": [
+    {
+      "title": "must buy!",
+      "raw_comment": "The phone is an actual testament of Ultra, Pro, and Max. You get it right. Feels so good in hand. People with shorter hands please avoid. Buy only if you can leverage on professional front with a lot of multitasking and note writing. Don't forget to buy S pen case for fold 5 via Samsung Shop or offline stores, works like magic, I got mine delivered before the phone 😀\n\nA TRUE 5 Star performance, camera and display 👏",
+      "cleaned_comment": "the phone is an actual testament of ultra, pro, and max. you get it right. feels so good in hand. people with shorter hands please avoid. buy only if you can leverage on professional front with a lot of multitasking and note writing. don't forget to buy s pen case for fold 5 via samsung shop or offline stores, works like magic, i got mine delivered before the phone a true 5 star performance, camera and display"
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Excellent mobile with awesome performance. Battery should be better but its performance killer.",
+      "cleaned_comment": "excellent mobile with awesome performance. battery should be better but its performance killer."
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "Great performance\nBest camera pictures like DSLR\nVery premium classy design\nFeel luxurious 👌\nSamsung never disappointed\nI highly recommend Samsung",
+      "cleaned_comment": "great performance best camera pictures like dslr very premium classy design feel luxurious samsung never disappointed i highly recommend samsung"
+    },
+    {
+      "title": "super!",
+      "raw_comment": "Hinge is good and phone is handy\nCG glass Victus is good\nDisplay is good\n\nNo fast charging",
+      "cleaned_comment": "hinge is good and phone is handy cg glass victus is good display is good no fast charging"
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "It gives awesome premium look , great camera , great UI",
+      "cleaned_comment": "it gives awesome premium look , great camera , great ui"
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "Nice looking ND battery performance is good but camera is not a good",
+      "cleaned_comment": "nice looking nd battery performance is good but camera is not a good"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Superb Flagship product by Samsung and flip kart with great design 👌",
+      "cleaned_comment": "superb flagship product by samsung and flip kart with great design"
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Very good phone + very good delivery by Flipkart and delivery person was so good, humble and helpfull",
+      "cleaned_comment": "very good phone very good delivery by flipkart and delivery person was so good, humble and helpfull"
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "Really Nice Phone, Defines Luxury as rarely people will be able to use its features",
+      "cleaned_comment": "really nice phone, defines luxury as rarely people will be able to use its features"
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "Nice phone with multifunctionality. It suits almost everyone - Gamer , Reader, Artist. You name it ,you have it.",
+      "cleaned_comment": "nice phone with multifunctionality. it suits almost everyone - gamer , reader, artist. you name it ,you have it."
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Great product. Front screen is sufficient for work and all the apps perfectly fits there.\n\nBig screen is awesome to watch. Good, quality product from samsung.",
+      "cleaned_comment": "great product. front screen is sufficient for work and all the apps perfectly fits there. big screen is awesome to watch. good, quality product from samsung."
+    }
+  ]
+}

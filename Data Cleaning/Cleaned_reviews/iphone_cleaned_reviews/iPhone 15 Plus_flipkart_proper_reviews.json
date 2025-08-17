@@ -1,0 +1,419 @@
+{
+  "product": "iPhone 15 Plus",
+  "total_initial_review_count": 327,
+  "total_final_review_count": 82,
+  "overall_rating": 4.6,
+  "total_ratings_count": 45602,
+  "cleaned_reviews": [
+    {
+      "title": "terrific",
+      "raw_comment": "The I phone 15 plus is just amazing the camera quality is waooo display is smooth to use worth the money",
+      "cleaned_comment": "the i phone 15 plus is just amazing the camera quality is waooo display is smooth to use worth the money"
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "Camera:\nQuality and features are awesome. You will love the pictures and videos and its quality.\n\nCharging and Battery:\nFast charging works but battery could have been atleast 4500/5000 MaH since the size of the phone is big.\nI still wonder how people use iPhone and Iphone pro (except plus and pro max) as those phones drains out the battery faster because those ones have got the lesser battery capacity.\nCan charge iPhone plus with any C-type charger for now (branded chargers are recommended ...\nREAD MORE",
+      "cleaned_comment": "camera: quality and features are awesome. you will love the pictures and videos and its quality. charging and battery: fast charging works but battery could have been atleast 45005000 mah since the size of the phone is big. i still wonder how people use iphone and iphone pro (except plus and pro max) as those phones drains out the battery faster because those ones have got the lesser battery capacity. can charge iphone plus with any c-type charger for now (branded chargers are."
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "Worth purchasing\nGreat camera\nMonster performance\nSpeakers are superbly loud and clear\nOverall a perfect phone",
+      "cleaned_comment": "worth purchasing great camera monster performance speakers are superbly loud and clear overall a perfect phone"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Camera is just like DSLR and battery backup is superb. You can definitely go for it . its a beast phone",
+      "cleaned_comment": "camera is just like dslr and battery backup is superb. you can definitely go for it . its a beast phone"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "The iPhone 15 Plus is a remarkable device that pushes the boundaries of technology. With its stunning design and powerful features, it's a true flagship in every sense. The large, vibrant OLED display provides an immersive visual experience, while the A15X chip ensures lightning-fast performance for any task. The camera system excels in photography and videography, offering impressive low-light capabilities and exceptional image stabilization. The battery life is outstanding, easily lasting a...\nREAD MORE",
+      "cleaned_comment": "the iphone 15 plus is a remarkable device that pushes the boundaries of technology. with its stunning design and powerful features, it's a true flagship in every sense. the large, vibrant oled display provides an immersive visual experience, while the a15x chip ensures lightning-fast performance for any task. the camera system excels in photography and videography, offering impressive low-light capabilities and exceptional image stabilization. the battery life is outstanding, easily lasting."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "I should appreciate it efforts apple giving battery for iPhone 15 plus\nI last charged 95% Sat 9 PM and and battery at came to 4% in Monday 10PM totally give battery back up 49 hours\nThanx apple",
+      "cleaned_comment": "i should appreciate it efforts apple giving battery for iphone 15 plus i last charged 95% sat 9 pm and and battery at came to 4% in monday 10pm totally give battery back up 49 hours thanx apple"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "iphone 15 plus\n\ncamera - 4.7 star\nperformance- 5 star\ndisplay - 4.5 star\nBody material - 4 star\ndesing - 5 star\nsound - 5 star\nbattery - 4.8 star\ncharging speed - 4 star",
+      "cleaned_comment": "iphone 15 plus camera - 4.7 star performance- 5 star display - 4.5 star body material - 4 star desing - 5 star sound - 5 star battery - 4.8 star charging speed - 4 star"
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "Heating while charging the phone. People who are interested in buying an iphone 15plus, I suggest you wait for some days till the heating issue is resolved.\nGood camera and Dynamic island",
+      "cleaned_comment": "heating while charging the phone. people who are interested in buying an iphone 15plus, i suggest you wait for some days till the heating issue is resolved. good camera and dynamic island"
+    },
+    {
+      "title": "worst experience ever!",
+      "raw_comment": "Apple Phone is best as always but Flipkart is bad or flop to provide on time delivery and for exchanging old mobile flipkart service is very poor.",
+      "cleaned_comment": "apple phone is best as always but flipkart is bad or flop to provide on time delivery and for exchanging old mobile flipkart service is very poor."
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Great camera ,long lasting battery, great display but without 120hz or pro-motion is a little nitpicky and performance is top notch",
+      "cleaned_comment": "great camera ,long lasting battery, great display but without 120hz or pro-motion is a little nitpicky and performance is top notch"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "The best thing of this device is battery. Really I never experience a device with this level of battery capability. Also the performance is top notch. As I don't care about the refresh rate the 60hz is enough.\nReally love this device.",
+      "cleaned_comment": "the best thing of this device is battery. really i never experience a device with this level of battery capability. also the performance is top notch. as i don't care about the refresh rate the 60hz is enough. really love this device."
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "Review after 6 Months of use\n\nBattery- 100% Battery Health After 221 Cycle\nGaming - No Lag ,BGMI 60FPS smooth gaming and almost 15% battery drain in 1 hour bgmi gaming\nCamera- Best Portrait photos and video recording\nDisplay - Smooth animations despite being 60Hz display\n\nBuy 256gb variant for longer use.",
+      "cleaned_comment": "review after 6 months of use battery- 100% battery health after 221 cycle gaming - no lag ,bgmi 60fps smooth gaming and almost 15% battery drain in 1 hour bgmi gaming camera- best portrait photos and video recording display - smooth animations despite being 60hz display buy 256gb variant for longer use."
+    },
+    {
+      "title": "its just another iphone.",
+      "raw_comment": "Coming from iPhone 12, the iPhone 15 Plus is seriously an update. However, the feel good factor of owning an iPhone wasn't that exciting as was when i owned the iPhone 12. The display size and the overall dimensions of the iPhone 15 Plus took time for me to get used to. It is seriously big for my normal palm size. Its hefty compared to 12.\n\nExcept for the island cutout instead of the infamous notch on the top, i don't see much of a difference. Yes, the battery last very long. It easily outrun...\nREAD MORE",
+      "cleaned_comment": "coming from iphone 12, the iphone 15 plus is seriously an update. however, the feel good factor of owning an iphone wasn't that exciting as was when i owned the iphone 12. the display size and the overall dimensions of the iphone 15 plus took time for me to get used to. it is seriously big for my normal palm size. its hefty compared to 12. except for the island cutout instead of the infamous notch on the top, i don't see much of a difference. yes, the battery last very long. it easily."
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "Seems great! Little bit of heating on first startup. Battery is good, if you are switching from a 6000 mAh battery, then you will find it little bit less but it still does the work. Again, camera is great. You need to have to tweak some of the settings and you are good to go! Heating is too too dangerous when editing videos in 4k 60fps HDR though an option for 4k is given.",
+      "cleaned_comment": "seems great! little bit of heating on first startup. battery is good, if you are switching from a 6000 mah battery, then you will find it little bit less but it still does the work. again, camera is great. you need to have to tweak some of the settings and you are good to go! heating is too too dangerous when editing videos in 4k 60fps hdr though an option for 4k is given."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "BEAST IN THE PLUS SERIES LINEUP\nHAVING GREAT CAMERA WITH 48mp and 2x TELEPHOTO FEATURE FOR NOW IN PORTRAITS",
+      "cleaned_comment": "beast in the plus series lineup having great camera with 48mp and 2x telephoto feature for now in portraits"
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "People who are looking to purchase pro model is only for pro's, but whoever is looking for regular use and big iphone experience should definitely opt this. The specs in this phone are having same specs of iphone 14 pro max except the telephoto camera but who wants to zoom and shoot all the time?",
+      "cleaned_comment": "people who are looking to purchase pro model is only for pro's, but whoever is looking for regular use and big iphone experience should definitely opt this. the specs in this phone are having same specs of iphone 14 pro max except the telephoto camera but who wants to zoom and shoot all the time?"
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "For photo it is not as good as Samsung\nBut the video quality is excellent not other can compete with it. If you are going for videograpy or vloging than this phone is just awesome\nBut if you want a phone for photography than must go for s23/24 which is excellent.\nI have both s23/ s24 and iphone 15 plus so it is my opinion after used.",
+      "cleaned_comment": "for photo it is not as good as samsung but the video quality is excellent not other can compete with it. if you are going for videograpy or vloging than this phone is just awesome but if you want a phone for photography than must go for s2324 which is excellent. i have both s23 s24 and iphone 15 plus so it is my opinion after used."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "After 8 years of using Android. Now I am shifted to IPhone and I purchase this phone. Amazing phone. If you want to buy a big screen IPhone not having budget of pro max just go for this phone without any single thought. Good experience with IPhone 15 Plus.",
+      "cleaned_comment": "after 8 years of using android. now i am shifted to iphone and i purchase this phone. amazing phone. if you want to buy a big screen iphone not having budget of pro max just go for this phone without any single thought. good experience with iphone 15 plus."
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Amazing one, if ur confused with iPhone 15 and 15 plus just go for 15 plus 💯",
+      "cleaned_comment": "amazing one, if ur confused with iphone 15 and 15 plus just go for 15 plus"
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Its been 5 days of using this phone,and its a great phone nice battery backup I use optimised battery and that charges maximum 80% nd its sufficient for all the day fr me but phn. Gets a lil bit warm while using utube and on the charging also. but this isnt a big issue hope apple will solve this in coming updates.Decent camera quality .Amazing dual stereo speakers☺️\nGo for it .🍏💚😍",
+      "cleaned_comment": "its been 5 days of using this phone,and its a great phone nice battery backup i use optimised battery and that charges maximum 80% nd its sufficient for all the day fr me but phn. gets a lil bit warm while using utube and on the charging also. but this isnt a big issue hope apple will solve this in coming updates.decent camera quality .amazing dual stereo speakers go for it ."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Very good phone but only 60hz refresh rate some times you will feel the difference while scrolling. Overall its a good purchase",
+      "cleaned_comment": "very good phone but only 60hz refresh rate some times you will feel the difference while scrolling. overall its a good purchase"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Very nice quality nice one of the best choice and compare with other mobiles this is the best🙏🏻🙏🏻🙏🏻",
+      "cleaned_comment": "very nice quality nice one of the best choice and compare with other mobiles this is the best"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Well I would definitely like to say one thing because it is an iPhone so what feedback can one give on iPhone, it is a great phone.",
+      "cleaned_comment": "well i would definitely like to say one thing because it is an iphone so what feedback can one give on iphone, it is a great phone."
+    },
+    {
+      "title": "does the job",
+      "raw_comment": "I purchased this for my wife for the reason one very well understand. I personally using S-22 ultra so I don't find i-phone as compatible and user friendly as other Android phones. Camera and Video quality may be good but with little difference as compared to other premium Android phones. Data transfer from Android to i-phone is not at all easy as claimed by Apple. Overall I still think it's a show off phone with this price one can have other premium phones in Android with loaded features.",
+      "cleaned_comment": "i purchased this for my wife for the reason one very well understand. i personally using s-22 ultra so i don't find i-phone as compatible and user friendly as other android phones. camera and video quality may be good but with little difference as compared to other premium android phones. data transfer from android to i-phone is not at all easy as claimed by apple. overall i still think it's a show off phone with this price one can have other premium phones in android with loaded features."
+    },
+    {
+      "title": "super!",
+      "raw_comment": "Loved the performance of this phone. First time iPhone user, took little bit time to shift from android ecosystem. It has flawless performance and superb processing power as well as fantastic camera.",
+      "cleaned_comment": "loved the performance of this phone. first time iphone user, took little bit time to shift from android ecosystem. it has flawless performance and superb processing power as well as fantastic camera."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "I am writing this review after using this device for about 1 and a half months. The battery just keeps going on and on.\nThe visibility of the display is great even in bright sunlight.",
+      "cleaned_comment": "i am writing this review after using this device for about 1 and a half months. the battery just keeps going on and on. the visibility of the display is great even in bright sunlight."
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Customers like the smoothness, appearance, battery life, and value of the cellular phone. They mention that it's a masterpiece of design and engineering, with a nice look and amazing battery life. They are also happy with ease of use, build quality, and performance. That said, some complain about the heating issue.",
+      "cleaned_comment": "customers like the smoothness, appearance, battery life, and value of the cellular phone. they mention that it's a masterpiece of design and engineering, with a nice look and amazing battery life. they are also happy with ease of use, build quality, and performance. that said, some complain about the heating issue."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Such a nice phone\ncamera is good\nDisplay is good\nDesign is good\nThe sound is very good\nThe mic and speaker are good\nBattery is average\nTotal 4.5/5",
+      "cleaned_comment": "such a nice phone camera is good display is good design is good the sound is very good the mic and speaker are good battery is average total 4.55"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Amazing device. Good battery, nice camera and beast performance. Would definitely recommend to heavy users cause this is a giant of a device. Very happy !",
+      "cleaned_comment": "amazing device. good battery, nice camera and beast performance. would definitely recommend to heavy users cause this is a giant of a device. very happy !"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "I have upgraded from iPhone 13 to 15 plus. Thanks flipkart for the genuine product and express delivery.\n\nPros:\n1. I should appreciate Apple for giving the best battery life in iPhone 15 plus. The battery is far better than many android flagship phones.\n2. Camera is on top notch and worth every penny\n3. 6.7 inch larger and wider display for the big display lovers\n4. Dynamic Island at its perfection and very much useful especially during cricket scores, timer and calls\n5. Speakers at top notch...\nREAD MORE",
+      "cleaned_comment": "i have upgraded from iphone 13 to 15 plus. thanks flipkart for the genuine product and express delivery. pros: 1. i should appreciate apple for giving the best battery life in iphone 15 plus. the battery is far better than many android flagship phones. 2. camera is on top notch and worth every penny 3. 6.7 inch larger and wider display for the big display lovers 4. dynamic island at its perfection and very much useful especially during cricket scores, timer and calls 5. speakers at top."
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "After a thousand considerations, I finally purchased an iPhone 15 Plus. My friend uses a 15 Plus, so I had some experience with it already. After only one day of use, I have already had an amazing experience. You can actually feel the build quality difference if you are coming from an Android phone. There are many negatives and comparisons going on right now. However, an iPhone is an iPhone. You cannot get that experience if you use a Samsung phone or any other phone for that matter. As a beg...\nREAD MORE",
+      "cleaned_comment": "after a thousand considerations, i finally purchased an iphone 15 plus. my friend uses a 15 plus, so i had some experience with it already. after only one day of use, i have already had an amazing experience. you can actually feel the build quality difference if you are coming from an android phone. there are many negatives and comparisons going on right now. however, an iphone is an iphone. you cannot get that experience if you use a samsung phone or any other phone for that matter. as a."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Actually it's a very good and high quality smartphone under this price segment. It's specially good for iPhone lovers who wants to upgrade from lower models to higher. I am using this since more than one month and there was no an issues and also I am playing heavy games on it there was no any lag issues frame drops. It's a good smartphone for photography also. I am giving this 10 out of 10.",
+      "cleaned_comment": "actually it's a very good and high quality smartphone under this price segment. it's specially good for iphone lovers who wants to upgrade from lower models to higher. i am using this since more than one month and there was no an issues and also i am playing heavy games on it there was no any lag issues frame drops. it's a good smartphone for photography also. i am giving this 10 out of 10."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "I have upgraded from Android to IOS and this is my first IPhone, Camera and battery life is very good. Overall performance is really very great especially the dynamic island feature and the C-type port, the only thing missing is the refresh rate which should be more than 60 Hz, apart from this the phone is worth every penny.Thank you Flipkart for the great service and on time delivery of product.",
+      "cleaned_comment": "i have upgraded from android to ios and this is my first iphone, camera and battery life is very good. overall performance is really very great especially the dynamic island feature and the c-type port, the only thing missing is the refresh rate which should be more than 60 hz, apart from this the phone is worth every penny.thank you flipkart for the great service and on time delivery of product."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "i have been a IOS user and Android user too ! Mostly , In IOS ecosystem hence why IOS is comfortable to me . I come from Iphone 12 Background and Upgrading to this device exactly fills the gap which i had ! i wanted bigger yet comfortable display with latest software and features . Hence this one fits it perfectly neither way too much neither too short ! The display feels fresh compared to 12 , Sound quality , Microphone is awesome ! battery back up feels much better than 12 ! design and in h...\nREAD MORE",
+      "cleaned_comment": "i have been a ios user and android user too ! mostly , in ios ecosystem hence why ios is comfortable to me . i come from iphone 12 background and upgrading to this device exactly fills the gap which i had ! i wanted bigger yet comfortable display with latest software and features . hence this one fits it perfectly neither way too much neither too short ! the display feels fresh compared to 12 , sound quality , microphone is awesome ! battery back up feels much better than 12 ! design and in."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "I was using android for last 12 years and now switching to ios was totally worth it",
+      "cleaned_comment": "i was using android for last 12 years and now switching to ios was totally worth it"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Do i need to say anything? These pics alone fine i guess. First time experiencing iphone and made a right decision. First class mobile",
+      "cleaned_comment": "do i need to say anything? these pics alone fine i guess. first time experiencing iphone and made a right decision. first class mobile"
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "This is my first iPhone, one of the best display, camera, battery and performance.. thanks to Flipkart for giving me a good deal😍",
+      "cleaned_comment": "this is my first iphone, one of the best display, camera, battery and performance. thanks to flipkart for giving me a good deal"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Love this product If you are planning to purchas to buy don't wait ga and purchase now",
+      "cleaned_comment": "love this product if you are planning to purchas to buy don't wait ga and purchase now"
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "Phone was good some times animations lags only 60Hz display. Battery was good. Software was average with lot of bugs. Upgraded from 12 still facing same software bugs in this phone also",
+      "cleaned_comment": "phone was good some times animations lags only 60hz display. battery was good. software was average with lot of bugs. upgraded from 12 still facing same software bugs in this phone also"
+    },
+    {
+      "title": "good quality product",
+      "raw_comment": "Pros:\nStunning Display: Super Retina XDR with vibrant colors.\nPowerful Performance: A16 Bionic chip for smooth operation.\nExcellent Camera: Great low-light and photography features.\nLong Battery Life: Lasts all day.\nUSB-C Charging: Versatile charging options.\nCons:\nDisplay: Only 60Hz refresh rate.\nPricey: Premium cost may not fit all budgets.\nNo Major Design Change: Similar to previous models.",
+      "cleaned_comment": "pros: stunning display: super retina xdr with vibrant colors. powerful performance: a16 bionic chip for smooth operation. excellent camera: great low-light and photography features. long battery life: lasts all day. usb-c charging: versatile charging options. cons: display: only 60hz refresh rate. pricey: premium cost may not fit all budgets. no major design change: similar to previous models."
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "Heating while charging the phone. People who are interested in buying an iphone 15plus, I suggest you wait for some days till the heating issue is resolved.\nGood camera and Dynamic island",
+      "cleaned_comment": "heating while charging the phone. people who are interested in buying an iphone 15plus, i suggest you wait for some days till the heating issue is resolved. good camera and dynamic island"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Apple is known for its performance. This device also does not disappoint in that domain. Picture quality seems nice at least to me in all kind and colours of photographic features. As far as infamous heating issue is concerned, I have faced it when we do consistent photography for like 10-15 minutes. Obviously, discharging also gets faster during such relatively heavy task. Although I did not face heating issue during charging that was quoted by most (fortunately).\nOverall a good phone for pe...\nREAD MORE",
+      "cleaned_comment": "apple is known for its performance. this device also does not disappoint in that domain. picture quality seems nice at least to me in all kind and colours of photographic features. as far as infamous heating issue is concerned, i have faced it when we do consistent photography for like 10-15 minutes. obviously, discharging also gets faster during such relatively heavy task. although i did not face heating issue during charging that was quoted by most (fortunately). overall a good phone for."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "My first iPhone 15+, after 4 days use my personal opinion this mobile is mind blowing. All rating 5 star.",
+      "cleaned_comment": "my first iphone 15, after 4 days use my personal opinion this mobile is mind blowing. all rating 5 star."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "One of the most battery backup mobile in iphones. Daylight shots is amazing. Performance is very good. Camera rating 9.8/10",
+      "cleaned_comment": "one of the most battery backup mobile in iphones. daylight shots is amazing. performance is very good. camera rating 9.810"
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "iPhone 15 plus 😍 camera 5 star, battery 5 star, display 5 star, performance 5 star after use 1 month.",
+      "cleaned_comment": "iphone 15 plus camera 5 star, battery 5 star, display 5 star, performance 5 star after use 1 month."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Got an authentic product. checked for activation date in device and apple support as well .\nDelivery guy for quick and very cooperative .\nPacking was good.",
+      "cleaned_comment": "got an authentic product. checked for activation date in device and apple support as well . delivery guy for quick and very cooperative . packing was good."
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "THE CAMERA IS VERY NICE AND IT IS LOOKING VERY FANTASTIC.\nTHE CHARGING PERFORMANCE IS VERY NICE\nTHE DISPLAY SIZE IS BIG TO LOOK",
+      "cleaned_comment": "the camera is very nice and it is looking very fantastic. the charging performance is very nice the display size is big to look"
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "All over phone features is good\nBut back side logo is hide from light blue colour\nLogo not show properly.",
+      "cleaned_comment": "all over phone features is good but back side logo is hide from light blue colour logo not show properly."
+    },
+    {
+      "title": "super!",
+      "raw_comment": "The iPhone 15 Plus is a masterpiece of design and engineering that redefines what a smartphone can be. With its stunning design, immersive display, unparalleled performance, and advanced camera capabilities, the iPhone 15 Plus sets a new benchmark for excellence in the smartphone industry. Whether you're a power user, a photography enthusiast, or simply someone who appreciates the finer things in life, the iPhone 15 Plus delivers an unparalleled experience that is sure to impress.",
+      "cleaned_comment": "the iphone 15 plus is a masterpiece of design and engineering that redefines what a smartphone can be. with its stunning design, immersive display, unparalleled performance, and advanced camera capabilities, the iphone 15 plus sets a new benchmark for excellence in the smartphone industry. whether you're a power user, a photography enthusiast, or simply someone who appreciates the finer things in life, the iphone 15 plus delivers an unparalleled experience that is sure to impress."
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "This divice was a gift from a premium Android user to another Android user\n\nPositive\n1.It's got great build and finish as expected\n2. Battery life is just unmatched\n3. Obvious advantages about the ecosystem and perceived value of the brand\n\nNegative\n1. UI experience seems outdated for 2023, the fonts and the definition of the various icons is just bland\n2. The display and resolution is extremely underwhelming for anyone who is used to a modern Android device at a much lower price range,...\nREAD MORE",
+      "cleaned_comment": "this divice was a gift from a premium android user to another android user positive 1.it's got great build and finish as expected 2. battery life is just unmatched 3. obvious advantages about the ecosystem and perceived value of the brand negative 1. ui experience seems outdated for 2023, the fonts and the definition of the various icons is just bland 2. the display and resolution is extremely underwhelming for anyone who is used to a modern android device at a much lower price range,. read more"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "What a beauty of iphone 15 plus, in terms of camera, look, body weight distribution, haptic feedback, battery, video quality, Oled display, and 80% charge limit as per manual setting. Switched from android to iphone. Its mind blowing, specially the music output from dual stereo speakers. We cant miss to comment on dynamic island as well.",
+      "cleaned_comment": "what a beauty of iphone 15 plus, in terms of camera, look, body weight distribution, haptic feedback, battery, video quality, oled display, and 80% charge limit as per manual setting. switched from android to iphone. its mind blowing, specially the music output from dual stereo speakers. we cant miss to comment on dynamic island as well."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Will not Regret it! Just Go for it!\nLooks Premium and Classy, Battery life is Superb and amazing photo and video quality, Superb Performance! What else do you even want!",
+      "cleaned_comment": "will not regret it! just go for it! looks premium and classy, battery life is superb and amazing photo and video quality, superb performance! what else do you even want!"
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "This is a very good iPhone. If you want an iPhone which have long lasting battery back up you just go ahead. For me I do charging in the morning upto 85-90% and till night 10pm I use to have charging around 30-40% so no need to worry about battery back up",
+      "cleaned_comment": "this is a very good iphone. if you want an iphone which have long lasting battery back up you just go ahead. for me i do charging in the morning upto 85-90% and till night 10pm i use to have charging around 30-40% so no need to worry about battery back up"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "After using it for more than 1 month i can definitely say that iphone 15plus is amazing in every aspects whether its about camera,processor,battery life,display and etc.",
+      "cleaned_comment": "after using it for more than 1 month i can definitely say that iphone 15plus is amazing in every aspects whether its about camera,processor,battery life,display and etc."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Camera Quality, very good\n￼ Battery quality, strong\nDisplay all android phone to high-quality display is iPhone display\n\n￼ Phone quality very good ￼",
+      "cleaned_comment": "camera quality, very good battery quality, strong display all android phone to high-quality display is iphone display phone quality very good"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "This is my first iPhone and its works like beast\nThe camera quality is so amazing\nThe performance is like rocket\nI love this iPhone",
+      "cleaned_comment": "this is my first iphone and its works like beast the camera quality is so amazing the performance is like rocket i love this iphone"
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "My first iPhone after years of using Android and I've been loving it so far. The camera is sublime under moderate-to -well conditions. The battery life has been very good, the display is top-drawer and the speakers are of supreme quality. Really good first impressions after about ten days of usage. The dynamic island is really cool, especially for music. Would recommend going for the Plus version instead of the base one if you have about 10k more to spare.",
+      "cleaned_comment": "my first iphone after years of using android and i've been loving it so far. the camera is sublime under moderate-to -well conditions. the battery life has been very good, the display is top-drawer and the speakers are of supreme quality. really good first impressions after about ten days of usage. the dynamic island is really cool, especially for music. would recommend going for the plus version instead of the base one if you have about 10k more to spare."
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "Look is awesome, camera clarity is super, feel of mobile in hand is like butter very smooth and premium and above all this discount is mind blowing.👍🏻",
+      "cleaned_comment": "look is awesome, camera clarity is super, feel of mobile in hand is like butter very smooth and premium and above all this discount is mind blowing."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "I love it a lot. I was hesitant at first about buying phone from online but Flipkart open box delivery proved me wrong. Thanks Flipkart!",
+      "cleaned_comment": "i love it a lot. i was hesitant at first about buying phone from online but flipkart open box delivery proved me wrong. thanks flipkart!"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "awesome photos captured by my new i phone 15 plus battery last for 24 hours super fast charging little bit of heating while charging . overall go for it",
+      "cleaned_comment": "awesome photos captured by my new i phone 15 plus battery last for 24 hours super fast charging little bit of heating while charging . overall go for it"
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "I trust flipkart genuine product I bought iPhone 15plus big billion day i received a original product thanks to flipkart",
+      "cleaned_comment": "i trust flipkart genuine product i bought iphone 15plus big billion day i received a original product thanks to flipkart"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "iPhone 15 plus is very best choice battery 🔋 backup is really good 👍 and dynamic iland is good 👍 overall good but 60 hz refresh rate is not good for this\nCamera 📷 10/10\nBattery 🔋 10/10\nDisplay 10/10\nDesign 10/10\nPerformance 10/10",
+      "cleaned_comment": "iphone 15 plus is very best choice battery backup is really good and dynamic iland is good overall good but 60 hz refresh rate is not good for this camera 1010 battery 1010 display 1010 design 1010 performance 1010"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Bought it during the BBD at 61k. Excellent phone. I was initially scared of getting a refurbished/fake phone, but it's original. A good deal",
+      "cleaned_comment": "bought it during the bbd at 61k. excellent phone. i was initially scared of getting a refurbishedfake phone, but it's original. a good deal"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Seriously this is same to same and camera quality , display, size, colour, perfect 👌🏻\n\nThank you ☺️",
+      "cleaned_comment": "seriously this is same to same and camera quality , display, size, colour, perfect thank you"
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "It is beautiful. Bought it for my younger brother. Thank you flipkart for a good discount.",
+      "cleaned_comment": "it is beautiful. bought it for my younger brother. thank you flipkart for a good discount."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "First of all thanks flipkart for on time delivery.... And to be honest the thoughts of ordering gadgets from Flipkart is really very good... Because they deliver it on time and their delivery executive are also very perfect regarding their jobs....\n\nNow talking about the device, it's very awesome... It's my first iPhone I have bought... So smooth and camera quality is excellent...",
+      "cleaned_comment": "first of all thanks flipkart for on time delivery. and to be honest the thoughts of ordering gadgets from flipkart is really very good. because they deliver it on time and their delivery executive are also very perfect regarding their jobs. now talking about the device, it's very awesome. it's my first iphone i have bought. so smooth and camera quality is excellent."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "I recently purchased the iPhone 15 Plus in blue, and I must say, the in-hand feel is exceptional. The large screen, impressive battery life, and powerful Bionic processor have all contributed to a great experience. Although it lacks some features found in Android devices, I wanted to experience the iPhone for myself, and I'm glad I did.\n\nMy experience with the iPhone 15 Plus has been exceptional. I had always envisioned owning an iPhone one day, and now that I do, the performance and in-hand ...\nREAD MORE",
+      "cleaned_comment": "i recently purchased the iphone 15 plus in blue, and i must say, the in-hand feel is exceptional. the large screen, impressive battery life, and powerful bionic processor have all contributed to a great experience. although it lacks some features found in android devices, i wanted to experience the iphone for myself, and i'm glad i did. my experience with the iphone 15 plus has been exceptional. i had always envisioned owning an iphone one day, and now that i do, the performance and in-hand . read more"
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "This is my first iOS experience and its better than any phones i have used so far. The stunning looks, camera, durability, battery, performance and iOS everything is just amazing. There is a reason why iPhone device are so expansive. I am totally satisfied with the product, its worth it.",
+      "cleaned_comment": "this is my first ios experience and its better than any phones i have used so far. the stunning looks, camera, durability, battery, performance and ios everything is just amazing. there is a reason why iphone device are so expansive. i am totally satisfied with the product, its worth it."
+    },
+    {
+      "title": "hated it!",
+      "raw_comment": "Phone is overheating during call/while using. While charging it is very hot. In Flipkart there is no system where I can return it",
+      "cleaned_comment": "phone is overheating during callwhile using. while charging it is very hot. in flipkart there is no system where i can return it"
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "Phone is really good and yes going for the plus will give you a big screen which you will really like unlike normal i phone 15 screen is small compared to plus ✌️",
+      "cleaned_comment": "phone is really good and yes going for the plus will give you a big screen which you will really like unlike normal i phone 15 screen is small compared to plus"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Not value for money though, but if you are ready to spend some good amount of money this phone shall never disappoint you.",
+      "cleaned_comment": "not value for money though, but if you are ready to spend some good amount of money this phone shall never disappoint you."
+    },
+    {
+      "title": "super!",
+      "raw_comment": "For Indian users, iphone plus is the best VFM in the 15 series. Flipkart offers me a fantastic deal for the same. I am upgrading from Xr to 15+",
+      "cleaned_comment": "for indian users, iphone plus is the best vfm in the 15 series. flipkart offers me a fantastic deal for the same. i am upgrading from xr to 15"
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "I don't like Iphones compared to android phones but tried to use it twice reading reviews and listening to its fan base but found it be cumbersome. Samsung ultra phones are much better and easy to use.All of my friends have the similar opinion who use phones beyond calling ,camera and entertainment.",
+      "cleaned_comment": "i don't like iphones compared to android phones but tried to use it twice reading reviews and listening to its fan base but found it be cumbersome. samsung ultra phones are much better and easy to use.all of my friends have the similar opinion who use phones beyond calling ,camera and entertainment."
+    },
+    {
+      "title": "worth the money",
+      "raw_comment": "iPhone 15 plus seems to be a minor leap in the feature as a phone. iPhone 15 plus has not a lot of features different to its precedents . But I still love the iPhone very much",
+      "cleaned_comment": "iphone 15 plus seems to be a minor leap in the feature as a phone. iphone 15 plus has not a lot of features different to its precedents . but i still love the iphone very much"
+    },
+    {
+      "title": "good",
+      "raw_comment": "Touch is behaving abnormally sometimes and display is not so clear. I doubt if i got first copy of iphone",
+      "cleaned_comment": "touch is behaving abnormally sometimes and display is not so clear. i doubt if i got first copy of iphone"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "15plus is most attractive look, Camera quality is excellent, battery is much better than other I phone",
+      "cleaned_comment": "15plus is most attractive look, camera quality is excellent, battery is much better than other i phone"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Do i need to say anything? These pics alone fine i guess. First time experiencing iphone and made a right decision. First class mobile",
+      "cleaned_comment": "do i need to say anything? these pics alone fine i guess. first time experiencing iphone and made a right decision. first class mobile"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Large display, matchless battery backup and Apple's premium feel. For those who don't want to be pro with photography but have moments to capture with a phone which doesn't want to carry charger everywhere...Iphone 15 plus is made for them, You just can't fine the flaw of refresh rate to be 120 Hz.",
+      "cleaned_comment": "large display, matchless battery backup and apple's premium feel. for those who don't want to be pro with photography but have moments to capture with a phone which doesn't want to carry charger everywhere. iphone 15 plus is made for them, you just can't fine the flaw of refresh rate to be 120 hz."
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Best battery backup\nGreat camera\nScreen in great better in hand feel\nIf you are looking for battery camera and Apple without doubt go for it",
+      "cleaned_comment": "best battery backup great camera screen in great better in hand feel if you are looking for battery camera and apple without doubt go for it"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Comparedbto iphone 13 iphone 15 plus is a value upgrade in terms of all aspect camera is good..battery backup is excellent and all previous pro features in normal cost.",
+      "cleaned_comment": "comparedbto iphone 13 iphone 15 plus is a value upgrade in terms of all aspect camera is good. battery backup is excellent and all previous pro features in normal cost."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Such a nice phone\ncamera is good\nDisplay is good\nDesign is good\nThe sound is very good\nThe mic and speaker are good\nBattery is average\nTotal 4.5/5",
+      "cleaned_comment": "such a nice phone camera is good display is good design is good the sound is very good the mic and speaker are good battery is average total 4.55"
+    },
+    {
+      "title": "does the job",
+      "raw_comment": "I have never seen iPhone getting hang\nPerformance is delayed and mainly while receiving calls some time I am unable to pickup the call as scroll button will not work.",
+      "cleaned_comment": "i have never seen iphone getting hang performance is delayed and mainly while receiving calls some time i am unable to pickup the call as scroll button will not work."
+    }
+  ]
+}

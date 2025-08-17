@@ -1,0 +1,39 @@
+{
+  "product": "Vivo iQOO Z9 lite",
+  "total_initial_review_count": 186,
+  "total_final_review_count": 6,
+  "overall_rating": 4.3,
+  "total_ratings_count": 4747,
+  "cleaned_reviews": [
+    {
+      "title": "good quality product",
+      "raw_comment": "The battery of this phone is very good but the performance is a bit average and the battery is quite good but it takes some time to charge and the game BGMI runs in it but it does not run so well 40fps",
+      "cleaned_comment": "the battery of this phone is very good but the performance is a bit average and the battery is quite good but it takes some time to charge and the game bgmi runs in it but it does not run so well 40fps"
+    },
+    {
+      "title": "good choice",
+      "raw_comment": "The product is nice but the camera is not that much good according to the price?",
+      "cleaned_comment": "the product is nice but the camera is not that much good according to the price?"
+    },
+    {
+      "title": "good choice",
+      "raw_comment": "iQOO smartphones provide excellent performance, appealing designs, and solid battery life, making them a great choice for users looking for high-spec devices at competitive prices. However, software experience may not appeal to everyone.",
+      "cleaned_comment": "iqoo smartphones provide excellent performance, appealing designs, and solid battery life, making them a great choice for users looking for high-spec devices at competitive prices. however, software experience may not appeal to everyone."
+    },
+    {
+      "title": "very good",
+      "raw_comment": "This phone is only for daily use and now I am using this phone from last 1 month and no any problem I was phased and the last think this phone is value for money",
+      "cleaned_comment": "this phone is only for daily use and now i am using this phone from last 1 month and no any problem i was phased and the last think this phone is value for money"
+    },
+    {
+      "title": "does the job",
+      "raw_comment": "Overall, I'm satisfied with my purchase, but one drawback is the slow charging speed. The 15W charger takes over 2.5 hours to fully charge the phone. Since the return option is no longer available, I'll have to make do. However, for those prioritizing fast charging, this might not be the best choice. If you're looking for a phone without this charging issue, you might want to consider other options.",
+      "cleaned_comment": "overall, i'm satisfied with my purchase, but one drawback is the slow charging speed. the 15w charger takes over 2.5 hours to fully charge the phone. since the return option is no longer available, i'll have to make do. however, for those prioritizing fast charging, this might not be the best choice. if you're looking for a phone without this charging issue, you might want to consider other options."
+    },
+    {
+      "title": "utterly disappointed",
+      "raw_comment": "Internet connectivity is very slow, vibration is not working,unable to delete loaded videos from memory,camera is not good, battery performance is not good.touch is not working sometimes.",
+      "cleaned_comment": "internet connectivity is very slow, vibration is not working,unable to delete loaded videos from memory,camera is not good, battery performance is not good.touch is not working sometimes."
+    }
+  ]
+}

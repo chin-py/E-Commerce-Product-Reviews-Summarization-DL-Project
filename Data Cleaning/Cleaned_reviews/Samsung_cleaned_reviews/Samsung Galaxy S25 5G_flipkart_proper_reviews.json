@@ -1,0 +1,359 @@
+{
+  "product": "Samsung Galaxy S25 5G",
+  "total_initial_review_count": 170,
+  "total_final_review_count": 70,
+  "overall_rating": 4.6,
+  "total_ratings_count": 2028,
+  "cleaned_reviews": [
+    {
+      "title": "perfect product!",
+      "raw_comment": "Snapdragon 8 elite with UFS 4 storage is ultra fast. 75mb application takes below 1 sec for installation on this device. One UI7 feels butter smooth on this device. No such heating issues. Battery lasts 1.2 day with normal usage. Happy with the purchase.",
+      "cleaned_comment": "snapdragon 8 elite with ufs 4 storage is ultra fast. 75mb application takes below 1 sec for installation on this device. one ui7 feels butter smooth on this device. no such heating issues. battery lasts 1.2 day with normal usage. happy with the purchase."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Samsung Galaxy S25 is Powerful Phone 📱\nI'm Very Happy 😊\nCamera is so Better.\nProformance is great 👍 .",
+      "cleaned_comment": "samsung galaxy s25 is powerful phone i'm very happy camera is so better. proformance is great ."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "A compact Phone with beast performance, great camera and a decent battery .. over-all a good choice ..",
+      "cleaned_comment": "a compact phone with beast performance, great camera and a decent battery . over-all a good choice ."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Just loving it. the mobile in hand feels very nice. very good user interface.\nBattery and Camera not upto the mark.\nPerformance is Excellent..",
+      "cleaned_comment": "just loving it. the mobile in hand feels very nice. very good user interface. battery and camera not upto the mark. performance is excellent."
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "Here's a short review:\n\n_My Samsung Galaxy S25 Experience: 5/5 Stars!_\n\nI'm loving S25! The performance is lightning-fast, camera is amazing (especially in low light), and battery life is impressive. The display is stunning. Highly recommend for heavy users, gamers, and photography enthusiasts!",
+      "cleaned_comment": "here's a short review: _my samsung galaxy s25 experience: 55 stars!_ i'm loving s25! the performance is lightning-fast, camera is amazing (especially in low light), and battery life is impressive. the display is stunning. highly recommend for heavy users, gamers, and photography enthusiasts!"
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Pre-ordered on 29th Jan got this device on 04th Feb using from 4 days. One of the best phone I've ever used.\nPerformance, battery,looks and specially camera is top notch.",
+      "cleaned_comment": "pre-ordered on 29th jan got this device on 04th feb using from 4 days. one of the best phone i've ever used. performance, battery,looks and specially camera is top notch."
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "Everything is Great just don't expect Extraordinary Battery Life...\nBattery Life is good,\nYou'll last a day in a charge.\nCamera is good\nPerformance is top-notch",
+      "cleaned_comment": "everything is great just don't expect extraordinary battery life. battery life is good, you'll last a day in a charge. camera is good performance is top-notch"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Its been a week since the purchase. I would like to summerize my review concisely.\nPrior to this i used iphone 13 pro max for one year and 14 pro for one year and i exchanged my 14 pro with s25.\nAnd prior to 13 pro max, i was using samsung s21+ which was a very amazing phone.\nAfter using iphone for 2 years and now coming back to samsung.\nIts the camera that i am the most dissappointed with. I was very skeptical about battery before the purchase as previous smaller samsung phones did not...\nREAD MORE",
+      "cleaned_comment": "its been a week since the purchase. i would like to summerize my review concisely. prior to this i used iphone 13 pro max for one year and 14 pro for one year and i exchanged my 14 pro with s25. and prior to 13 pro max, i was using samsung s21 which was a very amazing phone. after using iphone for 2 years and now coming back to samsung. its the camera that i am the most dissappointed with. i was very skeptical about battery before the purchase as previous smaller samsung phones did."
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "The camera captures vibrant, sharp photos, even in low light. The 6.1-inch AMOLED display is stunning with smooth 120Hz refresh rate. Performance is fast, handling multitasking and gaming with ease. Battery life is solid and charges quickly. Highly recommend!",
+      "cleaned_comment": "the camera captures vibrant, sharp photos, even in low light. the 6.1-inch amoled display is stunning with smooth 120hz refresh rate. performance is fast, handling multitasking and gaming with ease. battery life is solid and charges quickly. highly recommend!"
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "Superb phone but camera simmiler s23 so why gone custmer purchase high range 93K so but Samsung quality is batter",
+      "cleaned_comment": "superb phone but camera simmiler s23 so why gone custmer purchase high range 93k so but samsung quality is batter"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "I have doubt about battery but it surprised me..giving 6 to 7 hrs sot..camera ai display and build quality is great",
+      "cleaned_comment": "i have doubt about battery but it surprised me. giving 6 to 7 hrs sot. camera ai display and build quality is great"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "I purchased this by selling heater iphone 15. Only reason I skipped Samsung just for exynos processor but first time S series with Snapdragon elite in India is best. No heating issue and excellent display and battery back up as well. Compact and beautiful phone. Loved 😍 it",
+      "cleaned_comment": "i purchased this by selling heater iphone 15. only reason i skipped samsung just for exynos processor but first time s series with snapdragon elite in india is best. no heating issue and excellent display and battery back up as well. compact and beautiful phone. loved it"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "4000 mAh is too low in 2025, decent camera. Performance is excellent, slight heating issue while data transferring.\nRest One UI is smooth in first 2 days of use.",
+      "cleaned_comment": "4000 mah is too low in 2025, decent camera. performance is excellent, slight heating issue while data transferring. rest one ui is smooth in first 2 days of use."
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "The phone is just awesome. Best phone I have ever used in my life. It is compact handy. phone is small in size but have all the powerfull features in it and One UI 7 makes this phone more beautiful and smooth. Superb superb superb. Will recomend this phone to everyone. Thanks samsung.",
+      "cleaned_comment": "the phone is just awesome. best phone i have ever used in my life. it is compact handy. phone is small in size but have all the powerfull features in it and one ui 7 makes this phone more beautiful and smooth. superb superb superb. will recomend this phone to everyone. thanks samsung."
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Amazing overall initial experience. Butter smooth, compact phone in an era of heavy bricks. Upgraded from LG G7+ ThinQ after using it for more than 6 years and really liking this one. Will update more after using it for a month or more.",
+      "cleaned_comment": "amazing overall initial experience. butter smooth, compact phone in an era of heavy bricks. upgraded from lg g7 thinq after using it for more than 6 years and really liking this one. will update more after using it for a month or more."
+    },
+    {
+      "title": "good phone but exhange value is very less",
+      "raw_comment": "Delivery on time.\nThe phone is very good.\nThe exchange value I got is much less compared to what they estimated while ordering,",
+      "cleaned_comment": "delivery on time. the phone is very good. the exchange value i got is much less compared to what they estimated while ordering,"
+    },
+    {
+      "title": "good choice",
+      "raw_comment": "Its good compact phone, I am already using S23 and bought it for wife, got good deal with exchange bonus and card discount so overall good deal at fourty six aftee exchange.. camera is good, battery yet to review,",
+      "cleaned_comment": "its good compact phone, i am already using s23 and bought it for wife, got good deal with exchange bonus and card discount so overall good deal at fourty six aftee exchange. camera is good, battery yet to review,"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Very good handy compact mobile, display camera performance is excellent, battery is average it should be a little more",
+      "cleaned_comment": "very good handy compact mobile, display camera performance is excellent, battery is average it should be a little more"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "The sleek design of this new phone is truly captivating. Its advanced camera features promise stunning photos and videos. The powerful processor ensures smooth multitasking and a lag-free experience. The vibrant display offers immersive visuals for all content.\nIt's definitely a device that pushes the boundaries of mobile technology.\n\nThe battery last for full day need to charge only once\nThere is no heating issue even if we use during sunlight hot day\n\nI Pre-ordered this phone after ex...\nREAD MORE",
+      "cleaned_comment": "the sleek design of this new phone is truly captivating. its advanced camera features promise stunning photos and videos. the powerful processor ensures smooth multitasking and a lag-free experience. the vibrant display offers immersive visuals for all content. it's definitely a device that pushes the boundaries of mobile technology. the battery last for full day need to charge only once there is no heating issue even if we use during sunlight hot day i pre-ordered this phone after."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Awesome Phone with Fast speed...\nCamera is Aweosme and AI integration is wow..\nBattery performance is best\nMust go for it...\nHappy with the usage and writing after 4 days of usage",
+      "cleaned_comment": "awesome phone with fast speed. camera is aweosme and ai integration is wow. battery performance is best must go for it. happy with the usage and writing after 4 days of usage"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Excellent compact mobile,battery backup is about 24 hrs average user.no heating issue for playing BGMI about 2 hr continuously.camera is good but Samsung can do more better about the camera of Galaxy S25.",
+      "cleaned_comment": "excellent compact mobile,battery backup is about 24 hrs average user.no heating issue for playing bgmi about 2 hr continuously.camera is good but samsung can do more better about the camera of galaxy s25."
+    },
+    {
+      "title": "does the job",
+      "raw_comment": "Very Bad Battery Back up , Please fix it by some Update, I will update my review when backup time will increase after update.",
+      "cleaned_comment": "very bad battery back up , please fix it by some update, i will update my review when backup time will increase after update."
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "For an compact phone fan, it's the the best smartphone. I'm enjoying the smoothness in the display. Camera eye catching photos. Good battery life for non gamer. Only mild heating during charging. You can't expect drastic change in the design for next two three years.",
+      "cleaned_comment": "for an compact phone fan, it's the the best smartphone. i'm enjoying the smoothness in the display. camera eye catching photos. good battery life for non gamer. only mild heating during charging. you can't expect drastic change in the design for next two three years."
+    },
+    {
+      "title": "great mobile",
+      "raw_comment": "Upgraded from my Pixel 7 to Samsung S25. My experience with Pixel was bittersweet to say, while I was happy with stock android great camera's but the phone had problems like heating issue, battery life due to poorly optimized Tensor chip.\n\nGot a crazy exchange deal in Flipkart so went ahead with S25, my requirement was a compact phone with long support for android update and repairability easiness. S25 checked all the boxes, the battery life is something I'm yet to see how S25 perform consid...\nREAD MORE",
+      "cleaned_comment": "upgraded from my pixel 7 to samsung s25. my experience with pixel was bittersweet to say, while i was happy with stock android great camera's but the phone had problems like heating issue, battery life due to poorly optimized tensor chip. got a crazy exchange deal in flipkart so went ahead with s25, my requirement was a compact phone with long support for android update and repairability easiness. s25 checked all the boxes, the battery life is something i'm yet to see how s25 perform."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "Exceptional performance across all aspects, including camera quality, design, performance, aesthetics, and materials. I express my sincere gratitude to Flipkart for facilitating this upgrade, providing a superior exchange value for my previous mobile device.",
+      "cleaned_comment": "exceptional performance across all aspects, including camera quality, design, performance, aesthetics, and materials. i express my sincere gratitude to flipkart for facilitating this upgrade, providing a superior exchange value for my previous mobile device."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Everything is perfect with discount and exchange value given by flipkart. The phone is simply amazing",
+      "cleaned_comment": "everything is perfect with discount and exchange value given by flipkart. the phone is simply amazing"
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "The Best Compact Smartphone Of 2025.\nPerformance Top Notch 💪\nBattery Life - 85 % Full charge Gives Me Full one day( 24 hrs.) Backup and Still 20-25 % Battery remaining after this and This is Moderate Uses for the phone.\nFull 100 % Charge Gives One and Half Day Battery backup And Still Battery Remaining At 25 % For Moderate uses of phone\n\nSometimes It gives Less Battery backup when I used Camera and GPS for Whole day but Other Scenario Battery Life is Awsm 🤟.\n\nCamera Performance Is Also Ve...\nREAD MORE",
+      "cleaned_comment": "the best compact smartphone of 2025. performance top notch battery life - 85 % full charge gives me full one day( 24 hrs.) backup and still 20-25 % battery remaining after this and this is moderate uses for the phone. full 100 % charge gives one and half day battery backup and still battery remaining at 25 % for moderate uses of phone sometimes it gives less battery backup when i used camera and gps for whole day but other scenario battery life is awsm . camera performance is also."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Really nice phone... switched fro. Iphone 13 to android but in hand feel is same, actually better than Iphone. Camera is awesome.. screen visibility is greates of all time.",
+      "cleaned_comment": "really nice phone. switched fro. iphone 13 to android but in hand feel is same, actually better than iphone. camera is awesome. screen visibility is greates of all time."
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Camera- Almost Perfect.\n\nBattery - just awesome it's too much for social media usage and calls and stuff like that single charge will last whole day.\n\nDesign - feels Luxurious in hand and more imp comfortable.\n\nPerformance - Best in Class, even 4k video editing in few minutes.\n\nDisplay - just Awesome, Best in Class.\n\nOne hand use - So easy to use with one hand.\n\nHeating issue - even after such powerful processor it heat only minimal that is normal only.\n\nNetwork - No network issue till now, i...\nREAD MORE",
+      "cleaned_comment": "camera- almost perfect. battery - just awesome it's too much for social media usage and calls and stuff like that single charge will last whole day. design - feels luxurious in hand and more imp comfortable. performance - best in class, even 4k video editing in few minutes. display - just awesome, best in class. one hand use - so easy to use with one hand. heating issue - even after such powerful processor it heat only minimal that is normal only. network - no network issue till now,."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Loving it so far, getting about 12 hrs battery with medium use (no gaming) mostly on wifi .",
+      "cleaned_comment": "loving it so far, getting about 12 hrs battery with medium use (no gaming) mostly on wifi ."
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Got it for 53k with exchange of my samsung s20 fe. (Exchange bonus 16k) And bank offers.\nOne u.i 7 software experience is top notch.\nBattery will last for one day. Better to shift to 4G and 60 hz display to make it last longer.\nCamera is best 👌\nNo heat issues. Compact device and it's fast.\nPerformance is excellent.",
+      "cleaned_comment": "got it for 53k with exchange of my samsung s20 fe. (exchange bonus 16k) and bank offers. one u.i 7 software experience is top notch. battery will last for one day. better to shift to 4g and 60 hz display to make it last longer. camera is best no heat issues. compact device and it's fast. performance is excellent."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "I have used iPhones for 6 years until i changed to Android in 2023 with the Samsung S21FE. I upgraded from S21FE to S25. One of the finest upgrade I must say. I am staying with Samsung.",
+      "cleaned_comment": "i have used iphones for 6 years until i changed to android in 2023 with the samsung s21fe. i upgraded from s21fe to s25. one of the finest upgrade i must say. i am staying with samsung."
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "A great phone. I have shifted from poco to samsung and feel that it's a great decision. No lag, no heating, great performance. Camera quality is great. UI is also good and AI features are also great. I feel charging is a bit slow. It takes almost 1 hour 15 minutes to reach 90 to 100% . But I feel it's good for longer battery life. Rest are great. Biggest advantage of the phone is really handy. If you want to buy a charger buy a charger with PPS.\nFingerprint also works good, however after putt...\nREAD MORE",
+      "cleaned_comment": "a great phone. i have shifted from poco to samsung and feel that it's a great decision. no lag, no heating, great performance. camera quality is great. ui is also good and ai features are also great. i feel charging is a bit slow. it takes almost 1 hour 15 minutes to reach 90 to 100% . but i feel it's good for longer battery life. rest are great. biggest advantage of the phone is really handy. if you want to buy a charger buy a charger with pps. fingerprint also works good, however after."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Awesome phone the best thing is that the set is so handy and the battery is ultimate....lov it",
+      "cleaned_comment": "awesome phone the best thing is that the set is so handy and the battery is ultimate. lov it"
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "Nice phone, Camera 8K is awesome, processing speed excellent, very light weight compact size but battery 4000 mah is not sufficient for while day.",
+      "cleaned_comment": "nice phone, camera 8k is awesome, processing speed excellent, very light weight compact size but battery 4000 mah is not sufficient for while day."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "I am in love with this phone. Getting so much compliment from everyone. While visiting banks, employees are asking me about the phone. 🥰😍",
+      "cleaned_comment": "i am in love with this phone. getting so much compliment from everyone. while visiting banks, employees are asking me about the phone."
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "I switched from apple ecosystem to samsung just because the latest tech , performance and camera. After using Apple for so long,i still believe that samsung is far ahead of it. So relieved to be back with samsung. Its just wow.",
+      "cleaned_comment": "i switched from apple ecosystem to samsung just because the latest tech , performance and camera. after using apple for so long,i still believe that samsung is far ahead of it. so relieved to be back with samsung. its just wow."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Upgraded from 14 pro to this cuz apple decided to kill baterry life in 18.3 , good phone overall pretty smooth",
+      "cleaned_comment": "upgraded from 14 pro to this cuz apple decided to kill baterry life in 18.3 , good phone overall pretty smooth"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "The phone is a true flagship packed in such a compact handy size. Love the camera and UI. Played 120fps smooth in BGMI.\n\nOnly wish it supported atleast 45W charging",
+      "cleaned_comment": "the phone is a true flagship packed in such a compact handy size. love the camera and ui. played 120fps smooth in bgmi. only wish it supported atleast 45w charging"
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "If you are worrying about battery life, don't. This one easily gives 6 to 7 hours of screen on time. Incredible efficiency for such a small battery. Camera however is not that great for the price. Still decent. Everything else is just excellent. If you want a small Android phone that has the best of everything, this is the one to go for.",
+      "cleaned_comment": "if you are worrying about battery life, don't. this one easily gives 6 to 7 hours of screen on time. incredible efficiency for such a small battery. camera however is not that great for the price. still decent. everything else is just excellent. if you want a small android phone that has the best of everything, this is the one to go for."
+    },
+    {
+      "title": "good",
+      "raw_comment": "Samsung should recall the devices and a more powerful battery should be placed in the device to make it a satisfactory experience. I firmly believe that most of the customers are of the same opinion.",
+      "cleaned_comment": "samsung should recall the devices and a more powerful battery should be placed in the device to make it a satisfactory experience. i firmly believe that most of the customers are of the same opinion."
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "If you're looking for a great compact phone, this is an excellent choice. It features a good screen and impressive battery life.",
+      "cleaned_comment": "if you're looking for a great compact phone, this is an excellent choice. it features a good screen and impressive battery life."
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "Performance and comfort is outstanding..\nBut camera is not upto mark..its below average..\nMy friends s23 also takes same image quality as s25...in 60k range many phones take better image quality...so camera is worst as price range... although samsung 30-40k range phones capture same image quality..",
+      "cleaned_comment": "performance and comfort is outstanding. but camera is not upto mark. its below average. my friends s23 also takes same image quality as s25. in 60k range many phones take better image quality. so camera is worst as price range. although samsung 30-40k range phones capture same image quality."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Exchanged with iphone 15 ,got excellent deal\nOverall is a better phone than iPhone 15 except camera\nDisplay os battery in hand feel is excellent just camera needs update",
+      "cleaned_comment": "exchanged with iphone 15 ,got excellent deal overall is a better phone than iphone 15 except camera display os battery in hand feel is excellent just camera needs update"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "The phone as expected delivers top notch performance, gorgeous display and unexpectedly good battery life as well. Glad I took the decision of going for samsung instead of an iphone. Loving it ❤️",
+      "cleaned_comment": "the phone as expected delivers top notch performance, gorgeous display and unexpectedly good battery life as well. glad i took the decision of going for samsung instead of an iphone. loving it"
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "This phone has superb performance, a beautiful screen, and strong battery life. camera delivers good results, though it may not capture the same level of detail or color accuracy as an iPhone. Still, it is an excellent all-rounder.",
+      "cleaned_comment": "this phone has superb performance, a beautiful screen, and strong battery life. camera delivers good results, though it may not capture the same level of detail or color accuracy as an iphone. still, it is an excellent all-rounder."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "This is perfect smartphone for travelling purpose. IT is so comfortable and compact to carry on with great camera and performance.",
+      "cleaned_comment": "this is perfect smartphone for travelling purpose. it is so comfortable and compact to carry on with great camera and performance."
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Camera could added bit more features though it perform good for all occasion uses.\nBattery is awesome..\nDisplay very smooth..\nDesign is sleek..\nAs I not a gammer its Performance is good till date..\nIn terms of security it could be more sensitive in various factors.\n\nOverall its good to buy..",
+      "cleaned_comment": "camera could added bit more features though it perform good for all occasion uses. battery is awesome. display very smooth. design is sleek. as i not a gammer its performance is good till date. in terms of security it could be more sensitive in various factors. overall its good to buy."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "One of best smartphone in every segment great camera\nSuper smooth performance snapdragon 8 elite\nAnd one of the best and smooth display",
+      "cleaned_comment": "one of best smartphone in every segment great camera super smooth performance snapdragon 8 elite and one of the best and smooth display"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Fantastic phone, it is an pocket rocket. No heating issue. Battery is adequate, you can squeeze out a day. Display is great as expected. Performance is great, with good software. Camera is good.",
+      "cleaned_comment": "fantastic phone, it is an pocket rocket. no heating issue. battery is adequate, you can squeeze out a day. display is great as expected. performance is great, with good software. camera is good."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Performance is blazing fast with Snapdragon 8 elite❤️Butter smooth❤️ No Heating issue till now.\nBattery backup is awesome🫡\nDisplay is As usual fab❤️\nCamera is Amazing😘",
+      "cleaned_comment": "performance is blazing fast with snapdragon 8 elitebutter smooth no heating issue till now. battery backup is awesome display is as usual fab camera is amazing"
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Simply awesome. The best part is its very light weight yet gives whole day long battery backup for normal usage. Fabulous camera.",
+      "cleaned_comment": "simply awesome. the best part is its very light weight yet gives whole day long battery backup for normal usage. fabulous camera."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "It was my dream to buy S series from Samsung. Finally my dream phone is in my hands. Phone was very good. Great Performance but there are very little changes and features when compared to S24 Series. Hope S26 will get more updates and features 🙏",
+      "cleaned_comment": "it was my dream to buy s series from samsung. finally my dream phone is in my hands. phone was very good. great performance but there are very little changes and features when compared to s24 series. hope s26 will get more updates and features"
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "Galaxy S25: A Powerful Camera and Buttery Smooth Performance\nI've been using the Galaxy S25 for a while now, and I'm incredibly impressed with its camera and performance. The camera takes stunning photos with vibrant colors and sharp details, even in low light. The performance is also top-notch, with the phone handling demanding tasks and games with ease. The interface is buttery smooth, making for a seamless user experience. Overall, the Galaxy S25 is a fantastic phone that excels in the are...\nREAD MORE",
+      "cleaned_comment": "galaxy s25: a powerful camera and buttery smooth performance i've been using the galaxy s25 for a while now, and i'm incredibly impressed with its camera and performance. the camera takes stunning photos with vibrant colors and sharp details, even in low light. the performance is also top-notch, with the phone handling demanding tasks and games with ease. the interface is buttery smooth, making for a seamless user experience. overall, the galaxy s25 is a fantastic phone that excels in the."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Far better than Google pixel 9. Battery backup is good. camera performance is amazing. Overall I love the phone. ￼",
+      "cleaned_comment": "far better than google pixel 9. battery backup is good. camera performance is amazing. overall i love the phone."
+    },
+    {
+      "title": "pretty good",
+      "raw_comment": "Samsung did an outstanding job with this mobile however the battery backup of this mobile is questionable in 2025 standards as the battery drain during standby is huge which can be addressed with software optimization apart from the battery issues this device is a beast",
+      "cleaned_comment": "samsung did an outstanding job with this mobile however the battery backup of this mobile is questionable in 2025 standards as the battery drain during standby is huge which can be addressed with software optimization apart from the battery issues this device is a beast"
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "This compact mobile device offers exceptional performance. The camera, display, design, weight, and user interface are all superior.",
+      "cleaned_comment": "this compact mobile device offers exceptional performance. the camera, display, design, weight, and user interface are all superior."
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Best samsung flagship ever , even better than iphone 16 in terms of camera , display, performance and ONe UI is like waaooo😍",
+      "cleaned_comment": "best samsung flagship ever , even better than iphone 16 in terms of camera , display, performance and one ui is like waaooo"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Amazing display, design, performance but battery could have been better, it's fine and will last for 5-6 hrs of screen on time on daily uses.",
+      "cleaned_comment": "amazing display, design, performance but battery could have been better, it's fine and will last for 5-6 hrs of screen on time on daily uses."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Very smooth..long battery life..i switched from iPhone 14 to S25..i am fully satisfied",
+      "cleaned_comment": "very smooth. long battery life. i switched from iphone 14 to s25. i am fully satisfied"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "The phone is really sleek,\ngreat in hand feel,\nCamera is awesome,\nBattery life is good if not great some were getting 6hr screen on time every day with 20% battery remaining.\nWith SD 8 elite, performance is top notch very smooth.\nCan't ask more.\n\nCharging speed could have been better considering I will use the phone for next 2-3 years.",
+      "cleaned_comment": "the phone is really sleek, great in hand feel, camera is awesome, battery life is good if not great some were getting 6hr screen on time every day with 20% battery remaining. with sd 8 elite, performance is top notch very smooth. can't ask more. charging speed could have been better considering i will use the phone for next 2-3 years."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "One of the best mobile I ever used before\nI m iPhone user 1St time I brought samsung and\nThis was my best decision love it so smooth\nDesign look just awesome perfect for one hand users",
+      "cleaned_comment": "one of the best mobile i ever used before i m iphone user 1st time i brought samsung and this was my best decision love it so smooth design look just awesome perfect for one hand users"
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "Very compact phone , decent battery backup , good camera and one ui 7 buttery smooth ,useful ai features ,got this with good offers ..and silver shadow looks very premium..if you are heavy user go for s25+",
+      "cleaned_comment": "very compact phone , decent battery backup , good camera and one ui 7 buttery smooth ,useful ai features ,got this with good offers . and silver shadow looks very premium. if you are heavy user go for s25"
+    },
+    {
+      "title": "just okay",
+      "raw_comment": "Phone is working good overall but while we are opening gmails or drives or uploading any pics in internet. The phone is hanging for a while and it is taking to recover.",
+      "cleaned_comment": "phone is working good overall but while we are opening gmails or drives or uploading any pics in internet. the phone is hanging for a while and it is taking to recover."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Reviewing after 7 day use ..\nNice and handy phone with 6.2 display Compact size.\nCamera is mind blowing..\nBattery life is ok , Display is amazing with victous glass protection which is best in market For normal use its a best phone with amazing features and customisation...",
+      "cleaned_comment": "reviewing after 7 day use . nice and handy phone with 6.2 display compact size. camera is mind blowing. battery life is ok , display is amazing with victous glass protection which is best in market for normal use its a best phone with amazing features and customisation."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Pre ordered it. I shifted from iOS to Android with this phone. Here is the experience post 45 days usage -\n\nPros -\nDisplay is very smooth and almost entire screen feels display.\n\nBattery is much better than expected. Coming from iOS, I was worried about Battery but it lasts more than a day with single charge.\n\nPhone is very fast, no lag or slowness, nothing.\n\nIf you are switching from iOS, you will feel the freedom. All the apps available, Any Bluetooth Earphones connect quick. Hotspot i...\nREAD MORE",
+      "cleaned_comment": "pre ordered it. i shifted from ios to android with this phone. here is the experience post 45 days usage - pros - display is very smooth and almost entire screen feels display. battery is much better than expected. coming from ios, i was worried about battery but it lasts more than a day with single charge. phone is very fast, no lag or slowness, nothing. if you are switching from ios, you will feel the freedom. all the apps available, any bluetooth earphones connect quick. hotspot."
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "Best ever Samsung galaxy I have ever used.\nI am Samsung galaxy fan from galaxy y series.\nBelieve me this is beast 💪. Battery should have increased.",
+      "cleaned_comment": "best ever samsung galaxy i have ever used. i am samsung galaxy fan from galaxy y series. believe me this is beast . battery should have increased."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Iam using the galaxy S25 for 4 months now. So here iam mentioning all the pros and cons after the use of 4 months.\n\nPros\n\n1. The phone is handy and compact size and looking good in our hand.\n2. The display is fantastic.\n3. The camera quality is lightly better than S24.\nAnd all features and AI are more powerful in S25 compared to other phones and especially S24.\n\nCons\n\n1. The battery backup is so bad. While in a normal use I only get in between 5hrs of screen on time. Samsung should make bett...\nREAD MORE",
+      "cleaned_comment": "iam using the galaxy s25 for 4 months now. so here iam mentioning all the pros and cons after the use of 4 months. pros 1. the phone is handy and compact size and looking good in our hand. 2. the display is fantastic. 3. the camera quality is lightly better than s24. and all features and ai are more powerful in s25 compared to other phones and especially s24. cons 1. the battery backup is so bad. while in a normal use i only get in between 5hrs of screen on time. samsung should make."
+    },
+    {
+      "title": "not good",
+      "raw_comment": "There is no sim but the signal is visible, there is a connectivity problem, and the sound is not very loud, the camera is also not that good, the iPhone is a better mobile than this",
+      "cleaned_comment": "there is no sim but the signal is visible, there is a connectivity problem, and the sound is not very loud, the camera is also not that good, the iphone is a better mobile than this"
+    },
+    {
+      "title": "hated it!",
+      "raw_comment": "Build quality is so poor becouse camara ring is detached by the camara, and comparing S23 camara 3x is not so good.",
+      "cleaned_comment": "build quality is so poor becouse camara ring is detached by the camara, and comparing s23 camara 3x is not so good."
+    }
+  ]
+}

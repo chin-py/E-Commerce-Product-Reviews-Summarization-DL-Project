@@ -1,0 +1,74 @@
+{
+  "product": "Vivo V40",
+  "total_initial_review_count": 102,
+  "total_final_review_count": 13,
+  "overall_rating": 4.5,
+  "total_ratings_count": 902,
+  "cleaned_reviews": [
+    {
+      "title": "perfect product!",
+      "raw_comment": "Excellent phone, camera is outstanding, excellent battery backup, display and performance. It takes around 40-45 mins charging from 20-100%. Just look at its zoom quality (pic of water tank), you will get to know how excellent its camera is.",
+      "cleaned_comment": "excellent phone, camera is outstanding, excellent battery backup, display and performance. it takes around 40-45 mins charging from 20-100%. just look at its zoom quality (pic of water tank), you will get to know how excellent its camera is."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Nice battery 10/10\nDisplay 10/10\nPerformance 10/10\nDesign 10/10\nCamera 10/10\nMoney 10/10\nTotal Flipkart service only 2days delivery my mobile so good product 100%",
+      "cleaned_comment": "nice battery 1010 display 1010 performance 1010 design 1010 camera 1010 money 1010 total flipkart service only 2days delivery my mobile so good product 100%"
+    },
+    {
+      "title": "good",
+      "raw_comment": "Network issue, It show 4g network internet speed slow while same company sim in Motorola showing 5g network and getting good internet speed\nNetwork catching capacity is low in 5g, voice also drops",
+      "cleaned_comment": "network issue, it show 4g network internet speed slow while same company sim in motorola showing 5g network and getting good internet speed network catching capacity is low in 5g, voice also drops"
+    },
+    {
+      "title": "super!",
+      "raw_comment": "Superb... phone is the best in its class.... Did exceeded all the expectations. updated from v11 pro to V40 pro. This is the best decision to choose this phone.\n\nIf you are looking for the best camera, decent battery and good performance then this is the best one.",
+      "cleaned_comment": "superb. phone is the best in its class. did exceeded all the expectations. updated from v11 pro to v40 pro. this is the best decision to choose this phone. if you are looking for the best camera, decent battery and good performance then this is the best one."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "Didn't explore the camera much yet. Will share the review later. However performance and battery backup is great.",
+      "cleaned_comment": "didn't explore the camera much yet. will share the review later. however performance and battery backup is great."
+    },
+    {
+      "title": "good quality product",
+      "raw_comment": "Phone camera is awesome, and the performance rocks. No problem with high quality gaming, but the battery drains a little quick for 5500 mah. But it's not a big deal. One of the best mobile if you want camera and performance with a decent battery.",
+      "cleaned_comment": "phone camera is awesome, and the performance rocks. no problem with high quality gaming, but the battery drains a little quick for 5500 mah. but it's not a big deal. one of the best mobile if you want camera and performance with a decent battery."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "The Phone is outstanding\nThe photos clicked gives feel of a DSLR picture\nBattery life is Great",
+      "cleaned_comment": "the phone is outstanding the photos clicked gives feel of a dslr picture battery life is great"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Camera is good Vivo is promising day by day . battery is great . overall is",
+      "cleaned_comment": "camera is good vivo is promising day by day . battery is great . overall is"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "My dream mobile it's come true.may 2 awesome camera super quality and battery condition is good..\nPerformance is good and ok\nIfor Vivo mobile...by srirenu",
+      "cleaned_comment": "my dream mobile it's come true.may 2 awesome camera super quality and battery condition is good. performance is good and ok ifor vivo mobile. by srirenu"
+    },
+    {
+      "title": "good",
+      "raw_comment": "Very nice product.\nAll rounder phone.some features of flagship phones are missing\n1.No wireless charging\n2.UI is not user friendly as compared to iphone/MIUI",
+      "cleaned_comment": "very nice product. all rounder phone.some features of flagship phones are missing 1.no wireless charging 2.ui is not user friendly as compared to iphonemiui"
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "Thanks to flipkart for this product.Performance wise this phone is ultimate and give best result .camera is excellent in day and night both.display very smooth no heat issue battery performance good after heavy use.design curved display look sexy slim and my suggestion for the people who want good phone and wants long durational phone go for it.",
+      "cleaned_comment": "thanks to flipkart for this product.performance wise this phone is ultimate and give best result .camera is excellent in day and night both.display very smooth no heat issue battery performance good after heavy use.design curved display look sexy slim and my suggestion for the people who want good phone and wants long durational phone go for it."
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "It is a awasome product\nMust buy\nCamera is super\nBattery also\nAll are much better",
+      "cleaned_comment": "it is a awasome product must buy camera is super battery also all are much better"
+    },
+    {
+      "title": "horrible",
+      "raw_comment": "Camera Not upto mark it provide very blurry pictures take too much time, very slow, very high priced, no option for return, waste of money",
+      "cleaned_comment": "camera not upto mark it provide very blurry pictures take too much time, very slow, very high priced, no option for return, waste of money"
+    }
+  ]
+}

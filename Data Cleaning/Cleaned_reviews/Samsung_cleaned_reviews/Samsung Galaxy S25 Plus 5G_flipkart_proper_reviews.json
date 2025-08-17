@@ -1,0 +1,29 @@
+{
+  "product": "Samsung Galaxy S25 Plus 5G",
+  "total_initial_review_count": 10,
+  "total_final_review_count": 4,
+  "overall_rating": 4.8,
+  "total_ratings_count": 47,
+  "cleaned_reviews": [
+    {
+      "title": "good choice",
+      "raw_comment": "I wanted to experience something new.\nUpgraded from\nHere are few things i need to point out\n1 - Camera is Good but need updates Camera needs to be optimised\n2 - Performance is just great but phone is heating which is causing battery draning issue\n\n3 - battery is too bad it's just giving 3 to 4 hours of screen on time..\n\nOverall the phone is good\n\nBut I'm disappointed in BATTERY\n\nSamsung need to roll out updates soon to optimised battery , and improving camera",
+      "cleaned_comment": "i wanted to experience something new. upgraded from here are few things i need to point out 1 - camera is good but need updates camera needs to be optimised 2 - performance is just great but phone is heating which is causing battery draning issue 3 - battery is too bad it's just giving 3 to 4 hours of screen on time. overall the phone is good but i'm disappointed in battery samsung need to roll out updates soon to optimised battery , and improving camera"
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "Good phone, Camera is good, design and performance is also good. But taking everything in totality, price is little higher",
+      "cleaned_comment": "good phone, camera is good, design and performance is also good. but taking everything in totality, price is little higher"
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "Camera is good but could have been better, rest all far better than my old iphone 11, loving it, performance is super, battery is lasting me more than 1 day (using light performance mode), screen is amazing even in FHD, screen on time would be around 9 hrs.\nUI is THE best, speakers are nice, Samsung AI features are amazing.",
+      "cleaned_comment": "camera is good but could have been better, rest all far better than my old iphone 11, loving it, performance is super, battery is lasting me more than 1 day (using light performance mode), screen is amazing even in fhd, screen on time would be around 9 hrs. ui is the best, speakers are nice, samsung ai features are amazing."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Impressed with the performance. Value for money.camera zoom quality is really good.",
+      "cleaned_comment": "impressed with the performance. value for money.camera zoom quality is really good."
+    }
+  ]
+}

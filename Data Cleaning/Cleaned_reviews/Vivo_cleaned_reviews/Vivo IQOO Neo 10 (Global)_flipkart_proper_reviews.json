@@ -1,0 +1,54 @@
+{
+  "product": "Vivo IQOO Neo 10 (Global)",
+  "total_initial_review_count": 45,
+  "total_final_review_count": 9,
+  "overall_rating": 4.5,
+  "total_ratings_count": 689,
+  "cleaned_reviews": [
+    {
+      "title": "must buy!",
+      "raw_comment": "Good balanced phone. Camera, Battery and performance of this mobile is fabulous 🤩",
+      "cleaned_comment": "good balanced phone. camera, battery and performance of this mobile is fabulous"
+    },
+    {
+      "title": "best phone under 40k",
+      "raw_comment": "After one month of usage here is my review:\nPros:\nThe processor is just too good.\nI can play BGMI at 90 fps smooth. and also HDR/ extreme\nIt does not over heat much.\nThe charging is fast and the battery life is good\nCamera is decent and good enough for photography.\n\nCons:\nThere is some level of bloatware and its not a clean UI with some advertisements in the UI.\nThe build does not feel very premium compared to glass.\nThe video quality is not that good. but its ok for normal use",
+      "cleaned_comment": "after one month of usage here is my review: pros: the processor is just too good. i can play bgmi at 90 fps smooth. and also hdr extreme it does not over heat much. the charging is fast and the battery life is good camera is decent and good enough for photography. cons: there is some level of bloatware and its not a clean ui with some advertisements in the ui. the build does not feel very premium compared to glass. the video quality is not that good. but its ok for normal use"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "This phone is value for money mobile if you have 40k then buy it without thinking ⚡. Amazing performance,\nCamera quality is also good, And the leather finish in back is also looks premium.",
+      "cleaned_comment": "this phone is value for money mobile if you have 40k then buy it without thinking . amazing performance, camera quality is also good, and the leather finish in back is also looks premium."
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "After 1 month of use,\nGreat Performance,\nGood Camera, specially for video(4k 60fps)\nBattery consumption is average good.",
+      "cleaned_comment": "after 1 month of use, great performance, good camera, specially for video(4k 60fps) battery consumption is average good."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "It's Just amazing phone and its gaming experience is to smooth 😁 value for money 🤑 phone",
+      "cleaned_comment": "it's just amazing phone and its gaming experience is to smooth value for money phone"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "Excellent handset beast performance,camera also good\nGamming experience is best of best",
+      "cleaned_comment": "excellent handset beast performance,camera also good gamming experience is best of best"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Beast in this Price Rage No Lag at all in BGMI 🔥🔥",
+      "cleaned_comment": "beast in this price rage no lag at all in bgmi"
+    },
+    {
+      "title": "good choice",
+      "raw_comment": "Its good you should purchase even in 2024 nice deal with this price loved it and continuing the love",
+      "cleaned_comment": "its good you should purchase even in 2024 nice deal with this price loved it and continuing the love"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Amazing phone for what it is designed. Gaming is a flawless experience in this phone. I have never experienced any issues since last 2 months that I ordered this phone. Camera os alright. Good enough for a gaming phone. Overall a great deal.",
+      "cleaned_comment": "amazing phone for what it is designed. gaming is a flawless experience in this phone. i have never experienced any issues since last 2 months that i ordered this phone. camera os alright. good enough for a gaming phone. overall a great deal."
+    }
+  ]
+}

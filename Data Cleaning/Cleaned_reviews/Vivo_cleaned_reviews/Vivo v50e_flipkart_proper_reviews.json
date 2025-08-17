@@ -1,0 +1,59 @@
+{
+  "product": "Vivo v50e",
+  "total_initial_review_count": 93,
+  "total_final_review_count": 10,
+  "overall_rating": 4.4,
+  "total_ratings_count": 1337,
+  "cleaned_reviews": [
+    {
+      "title": "awesome",
+      "raw_comment": "Very nice camera 📸🤳\nDisplay 9/10\nBattery 10/10\nPerformance 8/10\nCamera quality 9/10\nDesign 9/10",
+      "cleaned_comment": "very nice camera display 910 battery 1010 performance 810 camera quality 910 design 910"
+    },
+    {
+      "title": "very good",
+      "raw_comment": "Value For Money 💰\nGood to Use this Phone since it was launched...\nMight be sure You will be too Happy to use after buying this Phone.",
+      "cleaned_comment": "value for money good to use this phone since it was launched. might be sure you will be too happy to use after buying this phone."
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "Good phone\nCamara quality is good\nBut zoom is 10x it is avarage\nBattery backup good\nSound not loud",
+      "cleaned_comment": "good phone camara quality is good but zoom is 10x it is avarage battery backup good sound not loud"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "It's great phone . Long life battry. Camera quality awesome and value for money",
+      "cleaned_comment": "it's great phone . long life battry. camera quality awesome and value for money"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Good for casual use\nCamera, battery and charging seep also Good\nPerformance is average",
+      "cleaned_comment": "good for casual use camera, battery and charging seep also good performance is average"
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "A total multitasking maniac\n\nThe charging is super fast\nDisplay is great\nCamera is just 🤌🏻✨✨\nAnd PERFORMANCE... Tried playing bgmi on 90fps for more than 2 hours never lagged one bit",
+      "cleaned_comment": "a total multitasking maniac the charging is super fast display is great camera is just and performance. tried playing bgmi on 90fps for more than 2 hours never lagged one bit"
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Super product I have been used this product from 20 days.. it's performance is awesome...",
+      "cleaned_comment": "super product i have been used this product from 20 days. it's performance is awesome."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Everything is Fine 👌.\nDisplay Quality Excellent\nCamera 👌\nBattery 🔋👍\nDesign and weight 👌👍\nPrice 👍",
+      "cleaned_comment": "everything is fine . display quality excellent camera battery design and weight price"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "I like the overall performance.. The camera is excellent.. Display, Sound, Batter also excellent performance.. I like Vivo Mobiles... Bcz Mobile quality is superb... I love Vivo Mobiles..",
+      "cleaned_comment": "i like the overall performance. the camera is excellent. display, sound, batter also excellent performance. i like vivo mobiles. bcz mobile quality is superb. i love vivo mobiles."
+    },
+    {
+      "title": "fair",
+      "raw_comment": "The battery doesn't last that long. The phone is not very good for this price range.",
+      "cleaned_comment": "the battery doesn't last that long. the phone is not very good for this price range."
+    }
+  ]
+}

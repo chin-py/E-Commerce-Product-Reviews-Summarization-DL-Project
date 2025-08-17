@@ -1,0 +1,74 @@
+{
+  "product": "Samsung Galaxy A72",
+  "total_initial_review_count": 31,
+  "total_final_review_count": 13,
+  "overall_rating": 4.3,
+  "total_ratings_count": 373,
+  "cleaned_reviews": [
+    {
+      "title": "fabulous!",
+      "raw_comment": "The phone is awesome 👌 Camera quality is very good 👍🏻 you can go for it ...",
+      "cleaned_comment": "the phone is awesome camera quality is very good you can go for it ."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Have been using this handset for the past 3 days.\nHonest reviews only:\n\nKey Highlights:\nCamera, Processor, Design & Battery\n\nSetbacks:\nAn improved sound & speaker interface\nNo complementary accessories provided in box.\n\nFor those interested, please keep one thing in mind. Please do not compare it to an iPhone. There’s absolutely no comparison. But remember it’s a beast in its budget.",
+      "cleaned_comment": "have been using this handset for the past 3 days. honest reviews only: key highlights: camera, processor, design & battery setbacks: an improved sound & speaker interface no complementary accessories provided in box. for those interested, please keep one thing in mind. please do not compare it to an iphone. theres absolutely no comparison. but remember its a beast in its budget."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "The display, performance, battery is crazy. Great camera. Loved it. Never regretted taking this mobile. Anyone trying to buy this. Go for it",
+      "cleaned_comment": "the display, performance, battery is crazy. great camera. loved it. never regretted taking this mobile. anyone trying to buy this. go for it"
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "overall phone is good but its price is little high..... below pics are in macro and 30x zoom mode, respectively.",
+      "cleaned_comment": "overall phone is good but its price is little high. below pics are in macro and 30x zoom mode, respectively."
+    },
+    {
+      "title": "pretty good",
+      "raw_comment": "The handset was delivered as usual within time on 30th April, 2021,two days after the placing the order. But some disappointment certainly occurred when I found the usual company derived soft back cover and the sound cord was missing. When I went to insert the two Sims and memory card, I was disappointed that it was a hybrid slot, which was not mentioned in the description for A 72 (dedicated sim and memory slots) but is present in A71 (purchased in July 2020)from which I am writing the revie...\nREAD MORE",
+      "cleaned_comment": "the handset was delivered as usual within time on 30th april, 2021,two days after the placing the order. but some disappointment certainly occurred when i found the usual company derived soft back cover and the sound cord was missing. when i went to insert the two sims and memory card, i was disappointed that it was a hybrid slot, which was not mentioned in the description for a 72 (dedicated sim and memory slots) but is present in a71 (purchased in july 2020)from which i am writing the."
+    },
+    {
+      "title": "good choice",
+      "raw_comment": "Overall good phone if you're not a gamer. Everyday tasks are handled well. But One UI 3.1 stutters/lags are present here and there. The same is present even on the higher end samsung phones like s21+, note 20. Hopefully it will get solved after next one ui update. If your priority is display, battery and camera, go for it. Look elsewhere if you need it for gaming.",
+      "cleaned_comment": "overall good phone if you're not a gamer. everyday tasks are handled well. but one ui 3.1 stutterslags are present here and there. the same is present even on the higher end samsung phones like s21, note 20. hopefully it will get solved after next one ui update. if your priority is display, battery and camera, go for it. look elsewhere if you need it for gaming."
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "I don't play games. For daily life usage, it is good phone.",
+      "cleaned_comment": "i don't play games. for daily life usage, it is good phone."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Value for Money....just using for a week...\nLet's see from now onwards...",
+      "cleaned_comment": "value for money. just using for a week. let's see from now onwards."
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Awesome phone, very good build quality, no unnecessary apps, even some are there you can uninstall. Don't prompt always to download from Samsung store.I can focus on what I want to do with the phone.",
+      "cleaned_comment": "awesome phone, very good build quality, no unnecessary apps, even some are there you can uninstall. don't prompt always to download from samsung store.i can focus on what i want to do with the phone."
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "The main problem is heating...after using for half-hour without playing any games. Mi10 Pro is much better comparing to this Galaxy A72.",
+      "cleaned_comment": "the main problem is heating. after using for half-hour without playing any games. mi10 pro is much better comparing to this galaxy a72."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "All features available and everything works great, only thing while a update comes, again pre installed apps gets installed automatically even if you deselect them, other than that value for money",
+      "cleaned_comment": "all features available and everything works great, only thing while a update comes, again pre installed apps gets installed automatically even if you deselect them, other than that value for money"
+    },
+    {
+      "title": "super!",
+      "raw_comment": "I'm using galaxy A72 from nov it has done 2/3 months.but the performance and camera quality didn't get any type of problem.💯👍\n\nAnd i tried waterproof test and the results was excellent.🔥\nIf you wanna buy it then, don't think you should.👍💯🔥",
+      "cleaned_comment": "i'm using galaxy a72 from nov it has done 23 months.but the performance and camera quality didn't get any type of problem. and i tried waterproof test and the results was excellent. if you wanna buy it then, don't think you should."
+    },
+    {
+      "title": "not recommended at all",
+      "raw_comment": "Most over described and pathetic phone with price of 35k..\nIts the worst phone i have ever used ,..\n\nSo many times hangs during the day ... whether you are continuosly using or not..\nMy 65 % storage is empty still i need to restart my phone 3-4 times a day..\n\nSeriously this is one of the worst phone..",
+      "cleaned_comment": "most over described and pathetic phone with price of 35k. its the worst phone i have ever used ,. so many times hangs during the day . whether you are continuosly using or not. my 65 % storage is empty still i need to restart my phone 3-4 times a day. seriously this is one of the worst phone."
+    }
+  ]
+}

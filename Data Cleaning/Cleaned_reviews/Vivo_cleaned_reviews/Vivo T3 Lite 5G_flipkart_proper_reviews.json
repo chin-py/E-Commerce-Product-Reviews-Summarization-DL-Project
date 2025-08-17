@@ -1,0 +1,49 @@
+{
+  "product": "Vivo T3 Lite 5G",
+  "total_initial_review_count": 106,
+  "total_final_review_count": 8,
+  "overall_rating": 4.4,
+  "total_ratings_count": 102562,
+  "cleaned_reviews": [
+    {
+      "title": "pretty good",
+      "raw_comment": "Good product but problem is hybrid sim slot... So make sure about it.. either two sim card using or 1 sim 1 memory card can use At same time... Battery is good.. camera is as usual regular 8MP, nice features... Love some new lighting effects. Problem is rear side camera is not flat with body. And others all good.",
+      "cleaned_comment": "good product but problem is hybrid sim slot. so make sure about it. either two sim card using or 1 sim 1 memory card can use at same time. battery is good. camera is as usual regular 8mp, nice features. love some new lighting effects. problem is rear side camera is not flat with body. and others all good."
+    },
+    {
+      "title": "worth the money",
+      "raw_comment": "I personally tested the geekbench score\nI found that the score was even less than my f14 5g that I brought earlier.\nOtherwise it is very good .",
+      "cleaned_comment": "i personally tested the geekbench score i found that the score was even less than my f14 5g that i brought earlier. otherwise it is very good ."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "Nice feathers at affordable prices just 11k,\nWow deal. Budget phone 🤳📱.But charger not included only data cable",
+      "cleaned_comment": "nice feathers at affordable prices just 11k, wow deal. budget phone .but charger not included only data cable"
+    },
+    {
+      "title": "good choice",
+      "raw_comment": "It's Good but not too much\nAs some apps aren't supported on this set but many popular apps run smoothly\nNo Hang problem\nBattery isn't good,stats for few hrs after continuous Use\nCamera is ok ok type",
+      "cleaned_comment": "it's good but not too much as some apps aren't supported on this set but many popular apps run smoothly no hang problem battery isn't good,stats for few hrs after continuous use camera is ok ok type"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Product is so Good in this price thanks vivo.but processor is not good hang problem always",
+      "cleaned_comment": "product is so good in this price thanks vivo.but processor is not good hang problem always"
+    },
+    {
+      "title": "very good",
+      "raw_comment": "The Vivo T3 Lite 5G is an entry-level 5G smartphone with a 6.56-inch LCD display and a 90Hz refresh rate for smooth visuals. Powered by the MediaTek Dimensity 6300 chipset with up to 6GB RAM, it offers decent performance for everyday use. The 50MP dual rear camera setup and 8MP front camera provide satisfactory photography. With a 5000mAh battery and fast charging support, it ensures long-lasting usage. Running on Funtouch OS, it delivers a user-friendly experience. Overall, it's a budget-fri...\nREAD MORE",
+      "cleaned_comment": "the vivo t3 lite 5g is an entry-level 5g smartphone with a 6.56-inch lcd display and a 90hz refresh rate for smooth visuals. powered by the mediatek dimensity 6300 chipset with up to 6gb ram, it offers decent performance for everyday use. the 50mp dual rear camera setup and 8mp front camera provide satisfactory photography. with a 5000mah battery and fast charging support, it ensures long-lasting usage. running on funtouch os, it delivers a user-friendly experience. overall, it's a budget-fri. read more"
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "Product was nice. I like it's gaming feature. I don't like it's battery because it drains fast.",
+      "cleaned_comment": "product was nice. i like it's gaming feature. i don't like it's battery because it drains fast."
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "A Good Budget mobile, with Vivo brand name. Very good for daily use. Camera is a little disappointed. Battery is good, display and other features are good. Os 14 is a bit updated. I liked it.",
+      "cleaned_comment": "a good budget mobile, with vivo brand name. very good for daily use. camera is a little disappointed. battery is good, display and other features are good. os 14 is a bit updated. i liked it."
+    }
+  ]
+}

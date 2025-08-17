@@ -1,0 +1,24 @@
+{
+  "product": "Vivo Y18",
+  "total_initial_review_count": 63,
+  "total_final_review_count": 3,
+  "overall_rating": 4.1,
+  "total_ratings_count": 1640,
+  "cleaned_reviews": [
+    {
+      "title": "worst experience ever!",
+      "raw_comment": "I didn't like Anything in this phone I wanted to return this not working properly",
+      "cleaned_comment": "i didn't like anything in this phone i wanted to return this not working properly"
+    },
+    {
+      "title": "worst experience ever!",
+      "raw_comment": "It's very bad product... Only phone, cable giving.... No charger.. Don't waste your money",
+      "cleaned_comment": "it's very bad product. only phone, cable giving. no charger. don't waste your money"
+    },
+    {
+      "title": "bad quality",
+      "raw_comment": "Too much slow in performance. U hv to wait for the response after one click . Internal memory is not full. Using sd card. Everything is in that card. Still the device is slow...very slow",
+      "cleaned_comment": "too much slow in performance. u hv to wait for the response after one click . internal memory is not full. using sd card. everything is in that card. still the device is slow. very slow"
+    }
+  ]
+}

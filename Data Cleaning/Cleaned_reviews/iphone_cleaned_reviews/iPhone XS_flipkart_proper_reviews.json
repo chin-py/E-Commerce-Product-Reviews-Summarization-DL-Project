@@ -1,0 +1,589 @@
+{
+  "product": "iPhone XS",
+  "total_initial_review_count": 363,
+  "total_final_review_count": 116,
+  "overall_rating": 4.7,
+  "total_ratings_count": 11941,
+  "cleaned_reviews": [
+    {
+      "title": "just wow!",
+      "raw_comment": "Got an amazing deal for this phone!!!\nThank you flipkart! Only thing which can improve is quick delivery time\nOverall I got the best phone at an unbeatable price!",
+      "cleaned_comment": "got an amazing deal for this phone!!! thank you flipkart! only thing which can improve is quick delivery time overall i got the best phone at an unbeatable price!"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "More good iphone at price of 53k and after 1 year also I cannot see any lag very good phone go for it eyes closed",
+      "cleaned_comment": "more good iphone at price of 53k and after 1 year also i cannot see any lag very good phone go for it eyes closed"
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "I am a iPhone lover & I really my iPhone within time and good quality... I appreciate the @TrueCom Seller and Flipkart... 🥰",
+      "cleaned_comment": "i am a iphone lover & i really my iphone within time and good quality. i appreciate the truecom seller and flipkart."
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "The iPhone XS has a markedly improved dual camera, delivering better photos than the iPhone X in both dark and high-contrast environments. It has a faster processor, faster face ID, adds dual-SIM support.\nFeels pretty solid and premium.",
+      "cleaned_comment": "the iphone xs has a markedly improved dual camera, delivering better photos than the iphone x in both dark and high-contrast environments. it has a faster processor, faster face id, adds dual-sim support. feels pretty solid and premium."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "I’m thrilled by this purchase. Great product at great prices. Gonna thank Flipkart for that, it was an amazing offer. I’d an iPhone X earlier need an upgrade this was good deal.Apple Performance is truly mesmerising & I love it. But battery is still a one day. Thank you.",
+      "cleaned_comment": "im thrilled by this purchase. great product at great prices. gonna thank flipkart for that, it was an amazing offer. id an iphone x earlier need an upgrade this was good deal.apple performance is truly mesmerising & i love it. but battery is still a one day. thank you."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "More good iphone at price of 53k and after 1 year also I cannot see any lag very good phone go for it eyes closed",
+      "cleaned_comment": "more good iphone at price of 53k and after 1 year also i cannot see any lag very good phone go for it eyes closed"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Superb upgrade. Went over from iphone 6 to XS, my world flipped upside down. Go for it!",
+      "cleaned_comment": "superb upgrade. went over from iphone 6 to xs, my world flipped upside down. go for it!"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Fantastic product at the price range 50-55k\nreally amazing build quality and size of the product is much better then other iPhones.",
+      "cleaned_comment": "fantastic product at the price range 50-55k really amazing build quality and size of the product is much better then other iphones."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "I ordered this phone during flipkart sale and this phone is absolutely amazing\nnow people ask why should we buy iPhone xs when iPhone 11 is available in similar price, following is the reason ,\niPhone xs has OLED display which makes huge difference in images! (Iphone 11 has LCD display which is not good at all)\nImage resolution is better in iPhone XS!\nThe most important thing is the premium feel that we get in iPhone XS due to its stainless steel body and not like aluminium used in iPhone 11!",
+      "cleaned_comment": "i ordered this phone during flipkart sale and this phone is absolutely amazing now people ask why should we buy iphone xs when iphone 11 is available in similar price, following is the reason , iphone xs has oled display which makes huge difference in images! (iphone 11 has lcd display which is not good at all) image resolution is better in iphone xs! the most important thing is the premium feel that we get in iphone xs due to its stainless steel body and not like aluminium used in iphone 11!"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "It’s really awesome\nCamera is like DSLR\n1/2 day battery life its really good\nFace unlock very fast\n☺️☺️😎\nThanks to Flipkart 😎😎for providing me this iPhone",
+      "cleaned_comment": "its really awesome camera is like dslr 12 day battery life its really good face unlock very fast thanks to flipkart for providing me this iphone"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "This is my first iPhone. Till now I used some android phone. Comparatively I feel Android phone is better as per battery, user friendly, apps and lot more. I didn’t find any extra features or other useful thing in iPhone.\nLook wise also. Specially I feel battery drain is too fast in iPhone which is very important to focus.",
+      "cleaned_comment": "this is my first iphone. till now i used some android phone. comparatively i feel android phone is better as per battery, user friendly, apps and lot more. i didnt find any extra features or other useful thing in iphone. look wise also. specially i feel battery drain is too fast in iphone which is very important to focus."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "This is my dream mobile.\n*original product\n*mass looking\n*mass display\n*Decent battery backup\n*powerful processor delivery very smooth performance(I’ll never seen in any other mobile)\n*No heating issues while charging and working time\n*good sound quality\n*compact design\n*No one can beat the apple benchmark,hardware and performance\n*camera take very very high quality pictures in normal lighting condition.but need to improve low light images.poor quality at low light",
+      "cleaned_comment": "this is my dream mobile. original product mass looking mass display decent battery backup powerful processor delivery very smooth performance(ill never seen in any other mobile) no heating issues while charging and working time good sound quality compact design no one can beat the apple benchmark,hardware and performance camera take very very high quality pictures in normal lighting condition.but need to improve low light images.poor quality at low light"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Value of the money .... excellent recommendations by flipkart .....thank you flipkart for your quick service , yoiur recommendations and also thank you for your easy and convenient services .",
+      "cleaned_comment": "value of the money . excellent recommendations by flipkart . thank you flipkart for your quick service , yoiur recommendations and also thank you for your easy and convenient services ."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Excellent mobile with premium quality. I chose this over iPhone 11 because of the screen and premium looks as I Got it for 53k in a sale. iPhones usually lasts long compared to android. So buy it without any doubt.",
+      "cleaned_comment": "excellent mobile with premium quality. i chose this over iphone 11 because of the screen and premium looks as i got it for 53k in a sale. iphones usually lasts long compared to android. so buy it without any doubt."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Waited for the price drop after iPhone 11 launch. But the Xs is unavailable and mostly sold out. Glad that I could grab the device.",
+      "cleaned_comment": "waited for the price drop after iphone 11 launch. but the xs is unavailable and mostly sold out. glad that i could grab the device."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Awesome phone :) :) It's my first apple product. Simply superb. Camera is amazing and overall very good product. Thanks to flipkart for a quick delivery :)",
+      "cleaned_comment": "awesome phone :) :) it's my first apple product. simply superb. camera is amazing and overall very good product. thanks to flipkart for a quick delivery :)"
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "It is super phone but little heating while charging and while using long time also heat a bit and night mode camera little disturb the eyes clarity, otherwise no phones beats this iphone xs and Very thanks to Flipkart to given this phone with best Offers & Discounts and also saying thanks for seller of SuperComNet to given genuine apple iphone xs as well.",
+      "cleaned_comment": "it is super phone but little heating while charging and while using long time also heat a bit and night mode camera little disturb the eyes clarity, otherwise no phones beats this iphone xs and very thanks to flipkart to given this phone with best offers & discounts and also saying thanks for seller of supercomnet to given genuine apple iphone xs as well."
+    },
+    {
+      "title": "good choice",
+      "raw_comment": "Flipkart’s delivery was really bad...i got the delivery late and their customer support is not that good..on the other hand phone is very good if you already have fast charger with you otherwise it will take more than 3 hrs to fully charge other than that phone is great and do get yourself airpods as well",
+      "cleaned_comment": "flipkarts delivery was really bad. i got the delivery late and their customer support is not that good. on the other hand phone is very good if you already have fast charger with you otherwise it will take more than 3 hrs to fully charge other than that phone is great and do get yourself airpods as well"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Got this for the price of a XR. OVERALL ITS A FLAGSHIP BUILD QUALITY. IF YOU ARE NOT TOO MUCH OBCESSED WITH THE IPHONE 11 CAMERA AND POCKETIBLITY AND SUPER BUILD IS YOUR THING GO FOR THIS. CAMERA IS REALLY GOOD BUT YOU WILL MISS THE WIDE ANGLE LENS.\nMy personal choice was a phone which would easily fit into my hand and my pocket. 11 pro was out of my budget. I had to compare between iphone 11 and iphone xs. Xs was bit cheaper and smaller did fit into my budget. This had 3d touch and amole...\nREAD MORE",
+      "cleaned_comment": "got this for the price of a xr. overall its a flagship build quality. if you are not too much obcessed with the iphone 11 camera and pocketiblity and super build is your thing go for this. camera is really good but you will miss the wide angle lens. my personal choice was a phone which would easily fit into my hand and my pocket. 11 pro was out of my budget. i had to compare between iphone 11 and iphone xs. xs was bit cheaper and smaller did fit into my budget. this had 3d touch and."
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "Got in 50k..\nBest iphone at really good price..\nCamera is far better than my previous samsung note 9..\nDon't follow youtubers review this phone will never disappoint you...",
+      "cleaned_comment": "got in 50k. best iphone at really good price. camera is far better than my previous samsung note 9. don't follow youtubers review this phone will never disappoint you."
+    },
+    {
+      "title": "worth the money",
+      "raw_comment": "Pros\n1. That premium feeling of iPhone XS is awesome\n2.camera is very good in day light and in artificial blue lights like office and stores light.\n3.Touch screen very smooth like feather\n4.Decent battery , with normal days usage after 100%. Charge in the morning 25% remains by the time i charge again. I use 24/7 internet on, lots of whats app and facebook , browsing. Note : i turned off face id.\n5.Display is very nice, better than iPhone11 .\n\nCons.\n1. In low light - camera is worst. Cann...\nREAD MORE",
+      "cleaned_comment": "pros 1. that premium feeling of iphone xs is awesome 2.camera is very good in day light and in artificial blue lights like office and stores light. 3.touch screen very smooth like feather 4.decent battery , with normal days usage after 100%. charge in the morning 25% remains by the time i charge again. i use 247 internet on, lots of whats app and facebook , browsing. note : i turned off face id. 5.display is very nice, better than iphone11 . cons. 1. in low light - camera is worst."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "I’ve been using iPhone since 2016, got the 6s model and it made me fall in love with it. Recently, due to high prices and less features, I tried migrating to Android and got the S10e but started hating as soon as I realised that I’m being fond of iOS ecosystem now.\nFinally Got this iPhone XS in a great price which seems to be an amazing deal for an Apple Premium Device, absolutely loving the screen, camera, performance as of now. Only concern is Battery life that could’ve been better, else t...\nREAD MORE",
+      "cleaned_comment": "ive been using iphone since 2016, got the 6s model and it made me fall in love with it. recently, due to high prices and less features, i tried migrating to android and got the s10e but started hating as soon as i realised that im being fond of ios ecosystem now. finally got this iphone xs in a great price which seems to be an amazing deal for an apple premium device, absolutely loving the screen, camera, performance as of now. only concern is battery life that couldve been better, else."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "This is the best deal I have got so far on Flipkart! Thanks for the timely delivery and this iPhone, it works wonder , before it I owned an iPhone XR that’s an awesome device too but this is light weight and is better in many ways apart from battery , but it sustains the whole day ! Overall it’s a beast! I bought it for 54999/- without any other deals\nThanks to the delivery team for the timely delivery n Flipkart for this irresistible deal ! Enclosed are pics clicked by this Xs Gold variant",
+      "cleaned_comment": "this is the best deal i have got so far on flipkart! thanks for the timely delivery and this iphone, it works wonder , before it i owned an iphone xr thats an awesome device too but this is light weight and is better in many ways apart from battery , but it sustains the whole day ! overall its a beast! i bought it for 54999- without any other deals thanks to the delivery team for the timely delivery n flipkart for this irresistible deal ! enclosed are pics clicked by this xs gold variant"
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "Graet phone. Camera, touch , performance wise there is no comparison with other phone. But battery backup is so less and apple still using that old 5 Watt charger which takes lot of time to charge.",
+      "cleaned_comment": "graet phone. camera, touch , performance wise there is no comparison with other phone. but battery backup is so less and apple still using that old 5 watt charger which takes lot of time to charge."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Got it during Republic Day sale .This is my first iPhone and it’s amazing in-terms of quality and performance. Lacks night mode in camera which would have made this phone even more competitive. Battery life is okay it’s because of it’s LED display which is just awesome. Handy phone at 5.8” fullscreen display for one hand operations. Premium build and feel. Touch is simply unmatched to any-other brands it just flows. It come with a 5W charger which will take more than 2 hours to charge to 100%...\nREAD MORE",
+      "cleaned_comment": "got it during republic day sale .this is my first iphone and its amazing in-terms of quality and performance. lacks night mode in camera which would have made this phone even more competitive. battery life is okay its because of its led display which is just awesome. handy phone at 5.8 fullscreen display for one hand operations. premium build and feel. touch is simply unmatched to any-other brands it just flows. it come with a 5w charger which will take more than 2 hours to charge to 100%. read more"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "iPhone XS in this price range is great.\nSome ppl will prefer iphone 11 over this due its battery & latest chip.\nBut XS is almost equal in performance with 11 & i will always prefer a less bezel oled display. Size of XS is just perfect for short hand ppl. 👍",
+      "cleaned_comment": "iphone xs in this price range is great. some ppl will prefer iphone 11 over this due its battery & latest chip. but xs is almost equal in performance with 11 & i will always prefer a less bezel oled display. size of xs is just perfect for short hand ppl."
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "Bought this phone in 2020. It’s an awesome value for money phone and had made me happy in every way possible.",
+      "cleaned_comment": "bought this phone in 2020. its an awesome value for money phone and had made me happy in every way possible."
+    },
+    {
+      "title": "great services",
+      "raw_comment": "As i ordered my phone on 26th march but due to lockdown it took nearly two months as i got on 20th may, but inspite of these hurdles.. They comminicated well and at ladt i got the phone in an amazing condition without any damage to box too.. !\nI am extremely happy as it was my first time to order phone on flipkart.",
+      "cleaned_comment": "as i ordered my phone on 26th march but due to lockdown it took nearly two months as i got on 20th may, but inspite of these hurdles. they comminicated well and at ladt i got the phone in an amazing condition without any damage to box too. ! i am extremely happy as it was my first time to order phone on flipkart."
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "After about six months of ownership, and thorough usage during the lockdown, the following observations have been made:\n\n1. All hardware materials are built to last long except the battery.\n\n2. Wireless charging is a needlessly heat generating process. More show than go. Also device heats up during movie downloads.\n\n3. Expensive but got it for 48k in a nice deal fron Flipkart.\n\n4. Battery peak charging capability is about 93% in a few months. Really?\n\n5. No real competitor with better value a...\nREAD MORE",
+      "cleaned_comment": "after about six months of ownership, and thorough usage during the lockdown, the following observations have been made: 1. all hardware materials are built to last long except the battery. 2. wireless charging is a needlessly heat generating process. more show than go. also device heats up during movie downloads. 3. expensive but got it for 48k in a nice deal fron flipkart. 4. battery peak charging capability is about 93% in a few months. really? 5. no real competitor with better value."
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "First of all,thanks to flipkart for providing me the original product of apple.\nComing to mobile,\nCamera is excellent on daytime,it was ok on nyt\nProcessor is excellent\nBattery is good for non-gamers\nSound is also good\nOLED display makes a huge difference from iphone 11,thats why i prefered XS over 11\nI was using iphone 6s and it is an excellent upgrade for me\nWorth waiting for 1month since i ordered.\nThank you TruecomRetail and Flipkart.",
+      "cleaned_comment": "first of all,thanks to flipkart for providing me the original product of apple. coming to mobile, camera is excellent on daytime,it was ok on nyt processor is excellent battery is good for non-gamers sound is also good oled display makes a huge difference from iphone 11,thats why i prefered xs over 11 i was using iphone 6s and it is an excellent upgrade for me worth waiting for 1month since i ordered. thank you truecomretail and flipkart."
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Positives- Superb Potrait Mode, 4K front camera video recording, Steel body, Perfect handling, Dolby sound with Speaker on top as well.\n\nNothing as such negative but was expecting at least a adapter with high power instead of 5V adapter.",
+      "cleaned_comment": "positives- superb potrait mode, 4k front camera video recording, steel body, perfect handling, dolby sound with speaker on top as well. nothing as such negative but was expecting at least a adapter with high power instead of 5v adapter."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "It's been a whole day and still phone is on. Battery is really improved. And Camera quality is really Awesome. But price is really not worth it. I recommend it 5 star because of its Appearance. Good phone.",
+      "cleaned_comment": "it's been a whole day and still phone is on. battery is really improved. and camera quality is really awesome. but price is really not worth it. i recommend it 5 star because of its appearance. good phone."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Replaced with my IPhone-7 and let me tell you the positives first; Battery life, there’s a significant improvement 100%-0% took 8 hrs compared to IPhone-7s 4 hrs. Was little difficult initially without the Home button but that gave more screen space.. really loved it!! Better Camera, processor are the other positives.. THE BRAND NEW IPHONEXS ALSO HEATING UP WHILE CHARGING... like old models.. tad disappointed due to this..",
+      "cleaned_comment": "replaced with my iphone-7 and let me tell you the positives first; battery life, theres a significant improvement 100%-0% took 8 hrs compared to iphone-7s 4 hrs. was little difficult initially without the home button but that gave more screen space. really loved it!! better camera, processor are the other positives. the brand new iphonexs also heating up while charging. like old models. tad disappointed due to this."
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "First of all I would like to Thanks #Flipkart & #Mastercard for giving me such a wonderful Diwali gift as a part of MasterStroke Contest.\n\nThis latest product from Apple is no doubt a value for money. Its specifications may not be that much on the higher side as compared to other low budget Chinese Phones, but it gives you more than what is says. The 12MP + 12MP dual rear camera gives you a DSLR type photos. In low light also the quality of the pics are quite good as it has quad LED Flash Li...\nREAD MORE",
+      "cleaned_comment": "first of all i would like to thanks flipkart & mastercard for giving me such a wonderful diwali gift as a part of masterstroke contest. this latest product from apple is no doubt a value for money. its specifications may not be that much on the higher side as compared to other low budget chinese phones, but it gives you more than what is says. the 12mp 12mp dual rear camera gives you a dslr type photos. in low light also the quality of the pics are quite good as it has quad led flash."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "I have i phone 11 and now this xs i can clearly say the build and disply is far better than 11 .....its too good ...no one can beat iphones",
+      "cleaned_comment": "i have i phone 11 and now this xs i can clearly say the build and disply is far better than 11 . its too good . no one can beat iphones"
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "From SE 16GB to XS 64GB\n\nTremendous Move\n\nBest Of IPhone\n\nPeople who know me asked why you chose XS instead of 11\n\nThe reason is\n\nBetter Build Quality\n\nBetter Display\n\nBetter Compactness and Handiness\n\nThere’s Only Few Changes From 11Pro to XS Nothing Much\n\nBut It’s IPhone",
+      "cleaned_comment": "from se 16gb to xs 64gb tremendous move best of iphone people who know me asked why you chose xs instead of 11 the reason is better build quality better display better compactness and handiness theres only few changes from 11pro to xs nothing much but its iphone"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "I bought this iphone on flipkart shopping days, and I received the product on discounted price, I feel very good once I was able to place the order, because the moment I place the order I saw after some time product was out of stock. this phone is superb, I m upgrading from iphone 7 so feeling very good and nice enhancements.",
+      "cleaned_comment": "i bought this iphone on flipkart shopping days, and i received the product on discounted price, i feel very good once i was able to place the order, because the moment i place the order i saw after some time product was out of stock. this phone is superb, i m upgrading from iphone 7 so feeling very good and nice enhancements."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Nothing much to say explicitly, i was using oneplus but now when i have got this beast i can feel the difference easily. Fabulous phone",
+      "cleaned_comment": "nothing much to say explicitly, i was using oneplus but now when i have got this beast i can feel the difference easily. fabulous phone"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "Battery itself take 3+ hours to get full which becomes task in itself especially when all world is moved to fast charging",
+      "cleaned_comment": "battery itself take 3 hours to get full which becomes task in itself especially when all world is moved to fast charging"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "A very Satisfactory purchase, Thanks to Flipkart for Such Great Offer.\nTo Sum it up, Apple is Something which one can't compare to others at all.\nGreat Battery, Best cameras, Sound and Display is Awesome and rest is Also Best in class.\n\n10/10 in short.",
+      "cleaned_comment": "a very satisfactory purchase, thanks to flipkart for such great offer. to sum it up, apple is something which one can't compare to others at all. great battery, best cameras, sound and display is awesome and rest is also best in class. 1010 in short."
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "A phone with all features pro camera pro screen pro design true flagship is here battery backup also too good",
+      "cleaned_comment": "a phone with all features pro camera pro screen pro design true flagship is here battery backup also too good"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "No words to say simply awesome and my smiley picture on phone says how am feeling after getting iPhone for the first time",
+      "cleaned_comment": "no words to say simply awesome and my smiley picture on phone says how am feeling after getting iphone for the first time"
+    },
+    {
+      "title": "good quality product",
+      "raw_comment": "Good, have been using it for 5 months.\nOverall ok product but I do have issues with network. Looks like it can be a phone problem. Am still trying to figure out.",
+      "cleaned_comment": "good, have been using it for 5 months. overall ok product but i do have issues with network. looks like it can be a phone problem. am still trying to figure out."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Awesome mobile... battery will last up to 1 and half a day for an average usage and will last for a day for moderate usage. With 12w Apple adapter charging is very easy and very fast(1.45 to 2 hrs). In my point it’s worth because it’s performance",
+      "cleaned_comment": "awesome mobile. battery will last up to 1 and half a day for an average usage and will last for a day for moderate usage. with 12w apple adapter charging is very easy and very fast(1.45 to 2 hrs). in my point its worth because its performance"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Amazing!!\nNo words, its a beast, stole it at rock bottom Price of 48,500. Thanks to Flipkart and team. You rocks",
+      "cleaned_comment": "amazing!! no words, its a beast, stole it at rock bottom price of 48,500. thanks to flipkart and team. you rocks"
+    },
+    {
+      "title": "super!",
+      "raw_comment": "glad to see that it comes with pre installed ios 13\nno heating issue on ist day usage.awesome build quality.look premium in hand",
+      "cleaned_comment": "glad to see that it comes with pre installed ios 13 no heating issue on ist day usage.awesome build quality.look premium in hand"
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "It was my first iPhone bought on my own.Just enjoying the display and the camera. They are just awesome. The e sim is a major improvement .Highly recommended for those who want an upgrade to their phones and haven’t already bought an iPhone X.",
+      "cleaned_comment": "it was my first iphone bought on my own.just enjoying the display and the camera. they are just awesome. the e sim is a major improvement .highly recommended for those who want an upgrade to their phones and havent already bought an iphone x."
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "Writing review after 4 months of use —\nSuperb picture quality, sdr is working fine , video quality is superb, best camera, no makeover like other cameras do.—/ super autofocus\n\nBattery— 24 hrs —-/ my screen usage time more than 4-5 hrs daily\n\nPerformance/-/ nothing to say much , you can assume in 4gb ram what apple will do...,,, flawlessly.., super fast\n\nCharging time —- as this support super fast charging but i have normal one , for me it takes 2 hrs to get charge above 90\n\nDisplay — no ...\nREAD MORE",
+      "cleaned_comment": "writing review after 4 months of use superb picture quality, sdr is working fine , video quality is superb, best camera, no makeover like other cameras do. super autofocus battery 24 hrs - my screen usage time more than 4-5 hrs daily performance- nothing to say much , you can assume in 4gb ram what apple will do. ,,, flawlessly. , super fast charging time - as this support super fast charging but i have normal one , for me it takes 2 hrs to get charge above 90 display ."
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "I bought this for my daughter for 52999. Very good deal!\nLooking again to see if it comes down to this low price to buy one more",
+      "cleaned_comment": "i bought this for my daughter for 52999. very good deal! looking again to see if it comes down to this low price to buy one more"
+    },
+    {
+      "title": "useless product",
+      "raw_comment": "Phone has display and camera problem. But flipkart refuses to replace. When i got the product seal of the box was open. There were impression of finger prints on phone. Then also flipkart says, go to service center fr it. Poor service. They are cheating consumers online.",
+      "cleaned_comment": "phone has display and camera problem. but flipkart refuses to replace. when i got the product seal of the box was open. there were impression of finger prints on phone. then also flipkart says, go to service center fr it. poor service. they are cheating consumers online."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "I was Android owner previously and this is my first iPhone(already loving it).I am not a fan of big screen phones so this phone comes quite handy and where one can operate it easily using single hand.Also the sound and video quality is very good but main issue is charging which takes hell of a time to reach 100% as it does not support fast charging,but battery can easily run for 1 day and it will require charge next day only.\nCamera is awesome and quality of video recorded is top class.\nGo fo...\nREAD MORE",
+      "cleaned_comment": "i was android owner previously and this is my first iphone(already loving it).i am not a fan of big screen phones so this phone comes quite handy and where one can operate it easily using single hand.also the sound and video quality is very good but main issue is charging which takes hell of a time to reach 100% as it does not support fast charging,but battery can easily run for 1 day and it will require charge next day only. camera is awesome and quality of video recorded is top class. go."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Amazing!!\nNo words, its a beast, stole it at rock bottom Price of 48,500. Thanks to Flipkart and team. You rocks",
+      "cleaned_comment": "amazing!! no words, its a beast, stole it at rock bottom price of 48,500. thanks to flipkart and team. you rocks"
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Apple finally delivers an iPhone with a huge screen, and for movie-watching, game-playing fans the iPhone XS Max is an exciting new addition to the range. It certainly costs a lot, but if you can get past the price (which many won't be able to) the XS Max offers up a super, supersized experience.",
+      "cleaned_comment": "apple finally delivers an iphone with a huge screen, and for movie-watching, game-playing fans the iphone xs max is an exciting new addition to the range. it certainly costs a lot, but if you can get past the price (which many won't be able to) the xs max offers up a super, supersized experience."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "I ordered this phone during flipkart sale and this phone is absolutely amazing\nnow people ask why should we buy iPhone xs when iPhone 11 is available in similar price, following is the reason ,\niPhone xs has OLED display which makes huge difference in images! (Iphone 11 has LCD display which is not good at all)\nImage resolution is better in iPhone XS!\nThe most important thing is the premium feel that we get in iPhone XS due to its stainless steel body and not like aluminium used in iPhone 11!",
+      "cleaned_comment": "i ordered this phone during flipkart sale and this phone is absolutely amazing now people ask why should we buy iphone xs when iphone 11 is available in similar price, following is the reason , iphone xs has oled display which makes huge difference in images! (iphone 11 has lcd display which is not good at all) image resolution is better in iphone xs! the most important thing is the premium feel that we get in iphone xs due to its stainless steel body and not like aluminium used in iphone 11!"
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Here is my review after a month's usage.\n\nThis phone is a beast, you can throw any app, game or performance hungry resources and iPhone will handle everything smoothly.\n\nCamera is awesome too, works perfect at both day and night.\n\nAs of now, pretty much satisfied with Jr Steve Job ;)",
+      "cleaned_comment": "here is my review after a month's usage. this phone is a beast, you can throw any app, game or performance hungry resources and iphone will handle everything smoothly. camera is awesome too, works perfect at both day and night. as of now, pretty much satisfied with jr steve job ;)"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "I m so excited because it’s an Awesome mobile with in this price range and 10 stars for the the price.",
+      "cleaned_comment": "i m so excited because its an awesome mobile with in this price range and 10 stars for the the price."
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "Nice Phone but battery life is not good..\nBattery re-charging time is to long 0 to 100% approx 3hr.\nAnd another one is phone heating problem....",
+      "cleaned_comment": "nice phone but battery life is not good. battery re-charging time is to long 0 to 100% approx 3hr. and another one is phone heating problem."
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "Stunning Quality\n\nEven though the features like IP68, Oled display and stereo speakers came late by Apple, the phone is excellent in terms of quality and performance.\n\nOnly downside the battery life could have been better, XR's battery life is better compared to this",
+      "cleaned_comment": "stunning quality even though the features like ip68, oled display and stereo speakers came late by apple, the phone is excellent in terms of quality and performance. only downside the battery life could have been better, xr's battery life is better compared to this"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "With 4 more years of support from apple, and a beautiful camera and display, at this price point, great deal from flipkart",
+      "cleaned_comment": "with 4 more years of support from apple, and a beautiful camera and display, at this price point, great deal from flipkart"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "Finally after 10 days i got this phone on my hands,feeling loved for the Flipkart republic day sale .Thank you flipkart❤️❤️",
+      "cleaned_comment": "finally after 10 days i got this phone on my hands,feeling loved for the flipkart republic day sale .thank you flipkart"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "Delivery was Swift and fast. Arrived 4days before the scheduled delivery date. Secured delivery.\n\nproduct is genuine and amazing. it has fulfilled my expectations.",
+      "cleaned_comment": "delivery was swift and fast. arrived 4days before the scheduled delivery date. secured delivery. product is genuine and amazing. it has fulfilled my expectations."
+    },
+    {
+      "title": "worth the money",
+      "raw_comment": "thanks to Flipkart for such a great deal.\nReceived genuine original product with 1 year warranty. Display is great. Battery last for a day with medium usage 4-5 hours. Slight bulky. Speakers are good. Camera is excellent in bright light only, very poor low light compared to iPhone 7. Portrait mode is amazing as it gives natural bokeh effect, compared with Samsung which is giving better bokeh image but Samsung looks artificial. Face ID is accurate and faster than Touch ID. Performance is good...\nREAD MORE",
+      "cleaned_comment": "thanks to flipkart for such a great deal. received genuine original product with 1 year warranty. display is great. battery last for a day with medium usage 4-5 hours. slight bulky. speakers are good. camera is excellent in bright light only, very poor low light compared to iphone 7. portrait mode is amazing as it gives natural bokeh effect, compared with samsung which is giving better bokeh image but samsung looks artificial. face id is accurate and faster than touch id. performance is."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "It’s really awesome\nCamera is like DSLR\n1/2 day battery life its really good\nFace unlock very fast\n☺️☺️😎\nThanks to Flipkart 😎😎for providing me this iPhone",
+      "cleaned_comment": "its really awesome camera is like dslr 12 day battery life its really good face unlock very fast thanks to flipkart for providing me this iphone"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "After a long time moving to Iphone and phone is amazing except the battery life. Got at great price 49999 so the phone desires every penny of it. Again its a great phone to hold on for years.",
+      "cleaned_comment": "after a long time moving to iphone and phone is amazing except the battery life. got at great price 49999 so the phone desires every penny of it. again its a great phone to hold on for years."
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "Phone is super and amazing performance and camera result. Apple is giving good security feature. Good phone for business person.",
+      "cleaned_comment": "phone is super and amazing performance and camera result. apple is giving good security feature. good phone for business person."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Excellent phone with an outstanding display. Battery life depends on usage but usually lasts the day. Camera is amazing and video recording at 4K is awesome.",
+      "cleaned_comment": "excellent phone with an outstanding display. battery life depends on usage but usually lasts the day. camera is amazing and video recording at 4k is awesome."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Awesome mobile... battery will last up to 1 and half a day for an average usage and will last for a day for moderate usage. With 12w Apple adapter charging is very easy and very fast(1.45 to 2 hrs). In my point it’s worth because it’s performance",
+      "cleaned_comment": "awesome mobile. battery will last up to 1 and half a day for an average usage and will last for a day for moderate usage. with 12w apple adapter charging is very easy and very fast(1.45 to 2 hrs). in my point its worth because its performance"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "This is the best smartphone in the market in my point of view. I personally didn't like the three camera design and frosty texture of the back of iPhone 11 pro. Specification wise, there is not much difference between xs and 11 series, so instead of spending one lakh on 11 pro, xs could be a better value for money at the current price of 55-60k.",
+      "cleaned_comment": "this is the best smartphone in the market in my point of view. i personally didn't like the three camera design and frosty texture of the back of iphone 11 pro. specification wise, there is not much difference between xs and 11 series, so instead of spending one lakh on 11 pro, xs could be a better value for money at the current price of 55-60k."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "The phone is really awesome am using it since last 4 months worth for money to buy in Flipkart.",
+      "cleaned_comment": "the phone is really awesome am using it since last 4 months worth for money to buy in flipkart."
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Buttery smooth and awesome transition from the existing phone to this one. And got it on time too.",
+      "cleaned_comment": "buttery smooth and awesome transition from the existing phone to this one. and got it on time too."
+    },
+    {
+      "title": "mind blowing bole to faaad!!",
+      "raw_comment": "Hello Frands,\n\nYes i have purchased iPhone XS without selling my kidneys. Because i kept them safe for Corona & Elephant.\nI personally hated the big screen phones since i have seen everyone swiping on the big screens in delhi metro. That time i was so happy with my handy iPhone 5S. I kept upgrading iPhone with new generation iPhones. With iPhone XS upgrade i personally in love with this gold beauty.\n\nDisplay : Super Gorgeous OLED display,\nPerformance : Super, Color : Gold, Face ID : Super...\nREAD MORE",
+      "cleaned_comment": "hello frands, yes i have purchased iphone xs without selling my kidneys. because i kept them safe for corona & elephant. i personally hated the big screen phones since i have seen everyone swiping on the big screens in delhi metro. that time i was so happy with my handy iphone 5s. i kept upgrading iphone with new generation iphones. with iphone xs upgrade i personally in love with this gold beauty. display : super gorgeous oled display, performance : super, color : gold, face id :."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Its perfect bt insanely overpriced.. Bt m luving it so much..display is gorgeous/sound is good too/ camera is better compared to iphone x/ battery life isnt that great..\nOne thing i dont like is Flipkart's delivery..it sucks big time.. They took 4 days to deliver 1 lac rupees product..which is bad.\nMaximum time for delivery should be 2 days.. Must deliver the product this expensive with in 1-2 days..\n2/5 star for delivery\n4/5 star for the phone",
+      "cleaned_comment": "its perfect bt insanely overpriced. bt m luving it so much. display is gorgeoussound is good too camera is better compared to iphone x battery life isnt that great. one thing i dont like is flipkart's delivery. it sucks big time. they took 4 days to deliver 1 lac rupees product. which is bad. maximum time for delivery should be 2 days. must deliver the product this expensive with in 1-2 days. 25 star for delivery 45 star for the phone"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Powerful phone and run smooth with heavy apps opened in background\nDisplay is good and fast touch response.\nSpeaker sound good with genuine bass while listening music.",
+      "cleaned_comment": "powerful phone and run smooth with heavy apps opened in background display is good and fast touch response. speaker sound good with genuine bass while listening music."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Apple always maintains its standard and its value for money,flipkart had really good price offer,so got it here and was delivered within 2days,thank you😊☺️",
+      "cleaned_comment": "apple always maintains its standard and its value for money,flipkart had really good price offer,so got it here and was delivered within 2days,thank you"
+    },
+    {
+      "title": "nice",
+      "raw_comment": "If you want to carry brand then go for it many better options in this price range. Money only for brand name",
+      "cleaned_comment": "if you want to carry brand then go for it many better options in this price range. money only for brand name"
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "Best phone ever. I have replaced i phone 7 with dis one. Amazing experience. 05 out of 05👍🏻",
+      "cleaned_comment": "best phone ever. i have replaced i phone 7 with dis one. amazing experience. 05 out of 05"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Iphone xs Bad news(No 10 days replacement for apple phone here )they are saying to go apple centre😕😕😕😕😕\nis the best decision i made\nSperb delivery from flipkart best deal also\n\nSo buy it when ever u need it. Gud job\nThankx to flipkart happy shopping guys 😚😚😚😚😚",
+      "cleaned_comment": "iphone xs bad news(no 10 days replacement for apple phone here )they are saying to go apple centre is the best decision i made sperb delivery from flipkart best deal also so buy it when ever u need it. gud job thankx to flipkart happy shopping guys"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "I have i phone 11 and now this xs i can clearly say the build and disply is far better than 11 .....its too good ...no one can beat iphones",
+      "cleaned_comment": "i have i phone 11 and now this xs i can clearly say the build and disply is far better than 11 . its too good . no one can beat iphones"
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Thanks Flipkart for such a amazing deal... :) But keep some sufficient stock so many can grab it.",
+      "cleaned_comment": "thanks flipkart for such a amazing deal. :) but keep some sufficient stock so many can grab it."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Everything is great with shipping packaging etc.\nThe best thing is it ships with ios 13.3 the latest ios released yet mens it is a newly manufactured unit love Flipkart.",
+      "cleaned_comment": "everything is great with shipping packaging etc. the best thing is it ships with ios 13.3 the latest ios released yet mens it is a newly manufactured unit love flipkart."
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "First of all,thanks to flipkart for providing me the original product of apple.\nComing to mobile,\nCamera is excellent on daytime,it was ok on nyt\nProcessor is excellent\nBattery is good for non-gamers\nSound is also good\nOLED display makes a huge difference from iphone 11,thats why i prefered XS over 11\nI was using iphone 6s and it is an excellent upgrade for me\nWorth waiting for 1month since i ordered.\nThank you TruecomRetail and Flipkart.",
+      "cleaned_comment": "first of all,thanks to flipkart for providing me the original product of apple. coming to mobile, camera is excellent on daytime,it was ok on nyt processor is excellent battery is good for non-gamers sound is also good oled display makes a huge difference from iphone 11,thats why i prefered xs over 11 i was using iphone 6s and it is an excellent upgrade for me worth waiting for 1month since i ordered. thank you truecomretail and flipkart."
+    },
+    {
+      "title": "absolute rubbish!",
+      "raw_comment": "This product is one day old and speakers are sounding like Chinese phone i dont know how is this even possible",
+      "cleaned_comment": "this product is one day old and speakers are sounding like chinese phone i dont know how is this even possible"
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "Always wanted to try an iOS device and bought this.\n\nA good phone with the optimised software, good camera, great build quality.",
+      "cleaned_comment": "always wanted to try an ios device and bought this. a good phone with the optimised software, good camera, great build quality."
+    },
+    {
+      "title": "absolute rubbish!",
+      "raw_comment": "Phone comes with low network/wifi issues\n\ni have never had issues with my iphones in the past. I happen to have oneplus 6t along with this phone and everywhere I clearly see that OnePlus has much better network quality. Indoor coverage is poor on this phone.",
+      "cleaned_comment": "phone comes with low networkwifi issues i have never had issues with my iphones in the past. i happen to have oneplus 6t along with this phone and everywhere i clearly see that oneplus has much better network quality. indoor coverage is poor on this phone."
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "I bought this iphone on flipkart shopping days, and I received the product on discounted price, I feel very good once I was able to place the order, because the moment I place the order I saw after some time product was out of stock. this phone is superb, I m upgrading from iphone 7 so feeling very good and nice enhancements.",
+      "cleaned_comment": "i bought this iphone on flipkart shopping days, and i received the product on discounted price, i feel very good once i was able to place the order, because the moment i place the order i saw after some time product was out of stock. this phone is superb, i m upgrading from iphone 7 so feeling very good and nice enhancements."
+    },
+    {
+      "title": "good quality product",
+      "raw_comment": "Front camera is still better in my pixel.\nPortraits are not as good as pixel.\nLoudspeakers are fantastic on this device as well as display.\n\nGood phone for apple fans and not for pixel or mate series owners!",
+      "cleaned_comment": "front camera is still better in my pixel. portraits are not as good as pixel. loudspeakers are fantastic on this device as well as display. good phone for apple fans and not for pixel or mate series owners!"
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "It's a great phone even though launched during Sep18, there is no lag\nThe camera with 2X optical Zoom is very useful and the picture quality is realistic\nThe screen is awesome even though the notch is little irritating.\nThe signal reception is good\nBut for the price it deserves 5star.",
+      "cleaned_comment": "it's a great phone even though launched during sep18, there is no lag the camera with 2x optical zoom is very useful and the picture quality is realistic the screen is awesome even though the notch is little irritating. the signal reception is good but for the price it deserves 5star."
+    },
+    {
+      "title": "nice",
+      "raw_comment": "Phone is gud but not great.Galaxies r much better in most of the aspects.Display wise and camera wise galaxies any day better.Build quality and Speed perspective Apple is better.After spending so much what u get is Full hd(nt 2k) screen and 5 watts charger.No option for finger print reader and face unlock also not great though oneplus excel in biometric department.I m happy wid my purchase but my impressed.",
+      "cleaned_comment": "phone is gud but not great.galaxies r much better in most of the aspects.display wise and camera wise galaxies any day better.build quality and speed perspective apple is better.after spending so much what u get is full hd(nt 2k) screen and 5 watts charger.no option for finger print reader and face unlock also not great though oneplus excel in biometric department.i m happy wid my purchase but my impressed."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Review is not required for i-phone users and review won't be accepted to other users... ;) ;)\n\nSimply Awesome...",
+      "cleaned_comment": "review is not required for i-phone users and review won't be accepted to other users. ;) ;) simply awesome."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "Terrific product.. got original sealed product bought in Republic Day sale value for money.\nThanks flipkart for delivering two days before\nPacking would have been better !!\nOther than that no issues genuine product has been delivered",
+      "cleaned_comment": "terrific product. got original sealed product bought in republic day sale value for money. thanks flipkart for delivering two days before packing would have been better !! other than that no issues genuine product has been delivered"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Iphone XS, The first Dual Sim phone by apple. Always wanted to have one but this very feature was not there until now and thats why i never bought one.\n\nReturning to Display and performance, Its best in industry no phone can match it in these 2 departments. Regarding pricing, its steep but then it is never aimed for masses. Tim cook in one of his interview had said that Apple dose not want to sell more rather they want to sell the best and hence the price.\n\nMost importantly both Jio and Airte...\nREAD MORE",
+      "cleaned_comment": "iphone xs, the first dual sim phone by apple. always wanted to have one but this very feature was not there until now and thats why i never bought one. returning to display and performance, its best in industry no phone can match it in these 2 departments. regarding pricing, its steep but then it is never aimed for masses. tim cook in one of his interview had said that apple dose not want to sell more rather they want to sell the best and hence the price. most importantly both jio and."
+    },
+    {
+      "title": "just okay",
+      "raw_comment": "Totally overpriced\nSamsung and one plus 6 always better than this\n\nIt just a brand to show off\n\nBut you want performance then go with samsung and oneplus",
+      "cleaned_comment": "totally overpriced samsung and one plus 6 always better than this it just a brand to show off but you want performance then go with samsung and oneplus"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Its my 2nd iphone XS its great in all the way i purchased this product at 54000/-. Camera quality very good. Performance very good. Face recognition speed is very fast.",
+      "cleaned_comment": "its my 2nd iphone xs its great in all the way i purchased this product at 54000-. camera quality very good. performance very good. face recognition speed is very fast."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "This review is not about the iphone but about getting a dead phone from Flipkart today - this is inspite of paying the full price!! I have complained to Flipkart and they said they have escalated the issue and will resolve by 8th Dec!\n\nThe phone I got doesn’t start and even when put on charge (like all Apple phones) doesn’t show the Apple logo or anything on the screen for that matter!\n\nI want either my money back so that I can buy it from another store or a NEW replacement phone - I will u...\nREAD MORE",
+      "cleaned_comment": "this review is not about the iphone but about getting a dead phone from flipkart today - this is inspite of paying the full price!! i have complained to flipkart and they said they have escalated the issue and will resolve by 8th dec! the phone i got doesnt start and even when put on charge (like all apple phones) doesnt show the apple logo or anything on the screen for that matter! i want either my money back so that i can buy it from another store or a new replacement phone - i will."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Oh this beautiful phone!!\nOne hell of a masterpiece, except for the fact of it being little pricey.",
+      "cleaned_comment": "oh this beautiful phone!! one hell of a masterpiece, except for the fact of it being little pricey."
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "Over all phone is awesome but some issues are there first battery backup is very less in this money value, battery drain fastly only 11 to 12 hrs backup and same time charging is very slow, it takes 3hrs to 100%. Face unlock is very fast even in dark night just a sec and phone become unlock, super.",
+      "cleaned_comment": "over all phone is awesome but some issues are there first battery backup is very less in this money value, battery drain fastly only 11 to 12 hrs backup and same time charging is very slow, it takes 3hrs to 100%. face unlock is very fast even in dark night just a sec and phone become unlock, super."
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "Costly , but gud product! Can’t say whether it is value for money ! Prices are sure to drop! Please wait to buy",
+      "cleaned_comment": "costly , but gud product! cant say whether it is value for money ! prices are sure to drop! please wait to buy"
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "It's been a whole day and still phone is on. Battery is really improved. And Camera quality is really Awesome. But price is really not worth it. I recommend it 5 star because of its Appearance. Good phone.",
+      "cleaned_comment": "it's been a whole day and still phone is on. battery is really improved. and camera quality is really awesome. but price is really not worth it. i recommend it 5 star because of its appearance. good phone."
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "received iphone xs within 24 hr .itz best apple product with light weight and best look .value for money",
+      "cleaned_comment": "received iphone xs within 24 hr .itz best apple product with light weight and best look .value for money"
+    },
+    {
+      "title": "worth the money",
+      "raw_comment": "apple slowed it, product is not as good as iphone x or xr used to be\n\ncamera quality is diminished in low light conditions\n\nscreen quality is not as good as samsung mid range\n\nspeed is an issue, lags many times a day but its absolutely manageable, this all is happening after a recent update, sometime it seems like the new phones have little different quality of hardware used. i know disappointing it is but thats reality. cosmetics of phone are brilliant no doubt whatsoever. battery is improv...\nREAD MORE",
+      "cleaned_comment": "apple slowed it, product is not as good as iphone x or xr used to be camera quality is diminished in low light conditions screen quality is not as good as samsung mid range speed is an issue, lags many times a day but its absolutely manageable, this all is happening after a recent update, sometime it seems like the new phones have little different quality of hardware used. i know disappointing it is but thats reality. cosmetics of phone are brilliant no doubt whatsoever. battery is."
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "A very Satisfactory purchase, Thanks to Flipkart for Such Great Offer.\nTo Sum it up, Apple is Something which one can't compare to others at all.\nGreat Battery, Best cameras, Sound and Display is Awesome and rest is Also Best in class.\n\n10/10 in short.",
+      "cleaned_comment": "a very satisfactory purchase, thanks to flipkart for such great offer. to sum it up, apple is something which one can't compare to others at all. great battery, best cameras, sound and display is awesome and rest is also best in class. 1010 in short."
+    },
+    {
+      "title": "iphone xs with very great price on flipkart",
+      "raw_comment": "When it comes to apple iPhone its unmatched experience with any other mobile phones\n\nnow also with dual sim and camera and apple brand value",
+      "cleaned_comment": "when it comes to apple iphone its unmatched experience with any other mobile phones now also with dual sim and camera and apple brand value"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "iPhone is awesome and you flipkart are fab. What fast service yesterday ordered today got delivered. Amazing guys. You spread smiles.",
+      "cleaned_comment": "iphone is awesome and you flipkart are fab. what fast service yesterday ordered today got delivered. amazing guys. you spread smiles."
+    },
+    {
+      "title": "4 star for my iphone xs",
+      "raw_comment": "The package and the product is good. But the delivery was delayed for a day due to various reasons.",
+      "cleaned_comment": "the package and the product is good. but the delivery was delayed for a day due to various reasons."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Product delivery was delayed due to lockdown. Product was nice nd packed well. Working great. Good phone to buy",
+      "cleaned_comment": "product delivery was delayed due to lockdown. product was nice nd packed well. working great. good phone to buy"
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Simple and Sleek Product from Apple As usual, Flipkart managed to deliver the product before expected delivery date thanks to the delivery team.keep up the good work.",
+      "cleaned_comment": "simple and sleek product from apple as usual, flipkart managed to deliver the product before expected delivery date thanks to the delivery team.keep up the good work."
+    },
+    {
+      "title": "bad quality",
+      "raw_comment": "Battery is a huge problem. Charging pace is slow. At times the phone doesn’t charge at all. Not sure of the battery quality.",
+      "cleaned_comment": "battery is a huge problem. charging pace is slow. at times the phone doesnt charge at all. not sure of the battery quality."
+    },
+    {
+      "title": "pretty good",
+      "raw_comment": "I have exchange my XR with XS , truly amazing Display and camera , but if u want tough phone than XR is better , but XS is amazing because i get only in 48k, and currently not any highend apple device available on this price",
+      "cleaned_comment": "i have exchange my xr with xs , truly amazing display and camera , but if u want tough phone than xr is better , but xs is amazing because i get only in 48k, and currently not any highend apple device available on this price"
+    },
+    {
+      "title": "just okay",
+      "raw_comment": "It could’ve the Best Buy if it wasn’t for the lacklustre battery life. The camera, display, software, performance is top notch(no pun intended) no doubt but when it comes to battery backup, it gives up in half day of normal use.",
+      "cleaned_comment": "it couldve the best buy if it wasnt for the lacklustre battery life. the camera, display, software, performance is top notch(no pun intended) no doubt but when it comes to battery backup, it gives up in half day of normal use."
+    },
+    {
+      "title": "not recommended at all",
+      "raw_comment": "Review after 3 month using my iPhone XS battery is not good only 3 hr backup and battery capacity 80% in 3 month not satisfied with iPhone nd flipkart",
+      "cleaned_comment": "review after 3 month using my iphone xs battery is not good only 3 hr backup and battery capacity 80% in 3 month not satisfied with iphone nd flipkart"
+    },
+    {
+      "title": "slightly disappointed",
+      "raw_comment": "It’s said it fast carger in 30 mins 50 percent it will take they but the actual things is it taking more than 1 hr to get 50 percent charge",
+      "cleaned_comment": "its said it fast carger in 30 mins 50 percent it will take they but the actual things is it taking more than 1 hr to get 50 percent charge"
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "It's a great phone among iPhone X series. Decent battery backup, good camera quality, great performance. The price deal was good for me comparing it's actual market price when it was last available and also the fact that this phone is unavailable even in the online market nowadays. But to be honest, it's not a value for money if you have an Android phone also in the comparison list to buy one. Since I upgraded from an iPhone to iPhone, it's a nice deal for me.",
+      "cleaned_comment": "it's a great phone among iphone x series. decent battery backup, good camera quality, great performance. the price deal was good for me comparing it's actual market price when it was last available and also the fact that this phone is unavailable even in the online market nowadays. but to be honest, it's not a value for money if you have an android phone also in the comparison list to buy one. since i upgraded from an iphone to iphone, it's a nice deal for me."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "No need to explain much about iPhone. It’s one of a kind and no competition. You should experience the portrait mode on this phone. Awesome",
+      "cleaned_comment": "no need to explain much about iphone. its one of a kind and no competition. you should experience the portrait mode on this phone. awesome"
+    },
+    {
+      "title": "super!",
+      "raw_comment": "The product is really good. It is a very best choice in 2021,no doubt in it. Got for it...Awesome phone😊😊😊",
+      "cleaned_comment": "the product is really good. it is a very best choice in 2021,no doubt in it. got for it. awesome phone"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "Excellent touch reactiveness with very high refresh rates. Loved the screen display especially the dust resistant feature.",
+      "cleaned_comment": "excellent touch reactiveness with very high refresh rates. loved the screen display especially the dust resistant feature."
+    },
+    {
+      "title": "value for money.",
+      "raw_comment": "Although the phone came out 2 years ago, it's still better than a lot of top end android phones. iOS, although a bit restrictive, is a delight. The timely update and long term support is something that Android has a lot of catching up to do.\n\nThe build quality is just top notch with a gorgeous display. The camera is great but is a little dependent on good lighting. My pixel 2XL camera would beat it under most conditions.\n\nOverall, a great phone to buy at this price if you want to experience a...\nREAD MORE",
+      "cleaned_comment": "although the phone came out 2 years ago, it's still better than a lot of top end android phones. ios, although a bit restrictive, is a delight. the timely update and long term support is something that android has a lot of catching up to do. the build quality is just top notch with a gorgeous display. the camera is great but is a little dependent on good lighting. my pixel 2xl camera would beat it under most conditions. overall, a great phone to buy at this price if you want to experience."
+    }
+  ]
+}

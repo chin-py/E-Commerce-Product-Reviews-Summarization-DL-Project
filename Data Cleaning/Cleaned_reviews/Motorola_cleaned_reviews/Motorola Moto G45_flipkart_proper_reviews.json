@@ -1,0 +1,404 @@
+{
+  "product": "Motorola Moto G45",
+  "total_initial_review_count": 410,
+  "total_final_review_count": 79,
+  "overall_rating": 4.3,
+  "total_ratings_count": 189015,
+  "cleaned_reviews": [
+    {
+      "title": "pretty good",
+      "raw_comment": "Outstanding phone in this price segment. Design is good with a vegan leather finish instead of glass back. Buttery smooth and lag free. Available RAM is around 3.2GB out of 7.34GB which is good for a regular user like me. Connectivity is awesome with 13 5G Bands. But the only thing that disappoints is that display which is 720p not 1080p. Camera is good for outdoor lighting conditions; takes decent shots but takes little bit of time in processing the image. Battery can last upto 2 days in a s...\nREAD MORE",
+      "cleaned_comment": "outstanding phone in this price segment. design is good with a vegan leather finish instead of glass back. buttery smooth and lag free. available ram is around 3.2gb out of 7.34gb which is good for a regular user like me. connectivity is awesome with 13 5g bands. but the only thing that disappoints is that display which is 720p not 1080p. camera is good for outdoor lighting conditions; takes decent shots but takes little bit of time in processing the image. battery can last upto 2 days in a."
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "I am reviewing for this product after 20 days use that's why i am giving real opinion\nTrust me this is the great phone\nPhone dimension, Sound, Battery, Performance everything is awesome",
+      "cleaned_comment": "i am reviewing for this product after 20 days use that's why i am giving real opinion trust me this is the great phone phone dimension, sound, battery, performance everything is awesome"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Good Phone, was searching for this colour in images to see how it looks in real, so posting it for someone who might be looking to buy in this colour",
+      "cleaned_comment": "good phone, was searching for this colour in images to see how it looks in real, so posting it for someone who might be looking to buy in this colour"
+    },
+    {
+      "title": "nice",
+      "raw_comment": "Firstly secured packaging charge is a fraud by Flipkart. No protective bubble wrap or cushion as they were used to provide in past years. Now they are charging for it and not providing any secured packaging. Nonsense.\n\nEverything is fine in this price range except HD display, pixels are clearly noticeable.\nBattery is draining little faster than other 5000mah phones.\nScreen time max 10 hrs on average use.(should be 12 hrs)\nCharging time is more than 2 hrs.\nSignal reception in Indoor is not as...\nREAD MORE",
+      "cleaned_comment": "firstly secured packaging charge is a fraud by flipkart. no protective bubble wrap or cushion as they were used to provide in past years. now they are charging for it and not providing any secured packaging. nonsense. everything is fine in this price range except hd display, pixels are clearly noticeable. battery is draining little faster than other 5000mah phones. screen time max 10 hrs on average use.(should be 12 hrs) charging time is more than 2 hrs. signal reception in indoor is not."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "The Moto G45 is a budget-friendly phone that offers great value for its price Here are some of its key features and pros and cons\n\nDesign and Display\nThe Moto G45 has a stylish design with a vegan leather back and a 6.5-inch HD+ IPS LCD display However, the display brightness could be better, and it's not ideal for outdoor use\n\nPerformance\nThe phone is powered by a Qualcomm Snapdragon 6s Gen 3 processor and comes with up to 8GB of RAM and 128GB of storage It performs well for everyday tas...\nREAD MORE",
+      "cleaned_comment": "the moto g45 is a budget-friendly phone that offers great value for its price here are some of its key features and pros and cons design and display the moto g45 has a stylish design with a vegan leather back and a 6.5-inch hd ips lcd display however, the display brightness could be better, and it's not ideal for outdoor use performance the phone is powered by a qualcomm snapdragon 6s gen 3 processor and comes with up to 8gb of ram and 128gb of storage it performs well for everyday."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Pros : Dolby dual speakers,crisp clear sound on earpieces as well, decent battery, awesome looks, audiojack, silicon case in box, clean ui without any bloatware, dual sim + expandable micro sd\nCons : hd+ display (fhd should have been there)",
+      "cleaned_comment": "pros : dolby dual speakers,crisp clear sound on earpieces as well, decent battery, awesome looks, audiojack, silicon case in box, clean ui without any bloatware, dual sim expandable micro sd cons : hd display (fhd should have been there)"
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "The Product is very Nice but unfortunately on the 3rd day of delivery someone picked my pocket and I lost my precious new phone.",
+      "cleaned_comment": "the product is very nice but unfortunately on the 3rd day of delivery someone picked my pocket and i lost my precious new phone."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Great product (4.6/5)\n\nCamera excellent at *this* price range(OIS could have been better)\nBattery and design no complain\nOLED display could have been better. Hd+ is decent.\nPerformance is very strong.\nConnectivities are working properly.\nLoved the loud speakers.\nSolid security but could have given at least 2 years of OS updates.\nMacro camera could have been raised to standard 8mp or 12mp.",
+      "cleaned_comment": "great product (4.65) camera excellent at this price range(ois could have been better) battery and design no complain oled display could have been better. hd is decent. performance is very strong. connectivities are working properly. loved the loud speakers. solid security but could have given at least 2 years of os updates. macro camera could have been raised to standard 8mp or 12mp."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "1. Best Budget Phone,\n2. Worth for Money,\n3. Back-Side Vegan Leather looks Premium\n4. Enough Battery Standing Time\n5. No Fussy Pre-Installed App like Chinese Phones\n6. Processor is Beyond this Price Range",
+      "cleaned_comment": "1. best budget phone, 2. worth for money, 3. back-side vegan leather looks premium 4. enough battery standing time 5. no fussy pre-installed app like chinese phones 6. processor is beyond this price range"
+    },
+    {
+      "title": "good quality product",
+      "raw_comment": "Phone is suprb. Descent spec considering budget. Where we can get warrenty related services? Is it available in all states?",
+      "cleaned_comment": "phone is suprb. descent spec considering budget. where we can get warrenty related services? is it available in all states?"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Best for the budget segment.. Balanced performance as expected by moto products.. screen resolution could have been better.. as the pixel is visible while zooming the picture.. Also not good for content viewing",
+      "cleaned_comment": "best for the budget segment. balanced performance as expected by moto products. screen resolution could have been better. as the pixel is visible while zooming the picture. also not good for content viewing"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "It's a best phone for normal use like For watching videos and phone calls some social apps like that would be best . i brought this for my mom and it's good for the price so I also buy it for my cousin brother 🤌🏻✨",
+      "cleaned_comment": "it's a best phone for normal use like for watching videos and phone calls some social apps like that would be best . i brought this for my mom and it's good for the price so i also buy it for my cousin brother"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Just Awesome\n\nVery Good Mobile under Budget.\nThe camera is decent, very good light adjustment, and the picture quality is good, and the Front camera is also capturing decent pics\nBattery backup is also awesome.\nLight weight mobile, Nice motorola gesture.\n\nI am using a motorola edge 50, bought this Moto G45 for my wife.\nI recommend this mobile to all looking for a budget mobile.\n\nSimple Super",
+      "cleaned_comment": "just awesome very good mobile under budget. the camera is decent, very good light adjustment, and the picture quality is good, and the front camera is also capturing decent pics battery backup is also awesome. light weight mobile, nice motorola gesture. i am using a motorola edge 50, bought this moto g45 for my wife. i recommend this mobile to all looking for a budget mobile. simple super"
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "Battery Performance not good I have 2 more moto mobile but moto g 45 battery Performance very bad",
+      "cleaned_comment": "battery performance not good i have 2 more moto mobile but moto g 45 battery performance very bad"
+    },
+    {
+      "title": "just okay",
+      "raw_comment": "Delivery by Flipkart was good, received the phone in a day. When validating the IMEI # it said Motorola G34 5G. Though the specs of both the models are mostly similar, this is a cheap strategy by Motorola.",
+      "cleaned_comment": "delivery by flipkart was good, received the phone in a day. when validating the imei it said motorola g34 5g. though the specs of both the models are mostly similar, this is a cheap strategy by motorola."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Value for money! Got it for dad. He wanted a stock android mobile.And he's highly satisfied",
+      "cleaned_comment": "value for money! got it for dad. he wanted a stock android mobile.and he's highly satisfied"
+    },
+    {
+      "title": "just okay",
+      "raw_comment": "Very bugs and heating essue\nBattery only one day after full charge without uses.\nReview after 5 day uses",
+      "cleaned_comment": "very bugs and heating essue battery only one day after full charge without uses. review after 5 day uses"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "The best phone in the range of 13k compare with redmi, oppo, samsung, iqoo etc. Dolby sound is really a great performance, best design and a good camera quality. Battery backup is also satisfactory. Overall a very best choice. Go for it without any doubt. There are so many negative reviews but this phone makes it all wrong, it's a best choice.",
+      "cleaned_comment": "the best phone in the range of 13k compare with redmi, oppo, samsung, iqoo etc. dolby sound is really a great performance, best design and a good camera quality. battery backup is also satisfactory. overall a very best choice. go for it without any doubt. there are so many negative reviews but this phone makes it all wrong, it's a best choice."
+    },
+    {
+      "title": "just okay",
+      "raw_comment": "Don't buy Waste of money product\n1) no system default application for gallery, music, file manager\n2) no real-time network speed function\n3) no app lock - app encryption\n4) no private safe\n5) can't see how much data used today\n6) less ringtones\n7) heating problem\n8) complicated UI design",
+      "cleaned_comment": "don't buy waste of money product 1) no system default application for gallery, music, file manager 2) no real-time network speed function 3) no app lock - app encryption 4) no private safe 5) can't see how much data used today 6) less ringtones 7) heating problem 8) complicated ui design"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "14 days user experience phone is really good mobile phone is good phone in this price it looks cool display is very good no heating issue at all phone is good fast can play free fire games etc very well some photos of this phone camera test photos of this phone I am giving below photos is giving",
+      "cleaned_comment": "14 days user experience phone is really good mobile phone is good phone in this price it looks cool display is very good no heating issue at all phone is good fast can play free fire games etc very well some photos of this phone camera test photos of this phone i am giving below photos is giving"
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "I have been using this mobile for the last 5 days and overall I\n\nam very Happy with this mobile.\n\n1. Design: The design is very eye-catching and, feels very good and confident to hold in hand.\n\n2. Camera: Camera set up is really awesome and best in this segment. I was impressed with the night photography. The best cameras.\n\n3. Screen: Very impressive screen, eye comfort, and flat screen gives a very unique look to the phone.\n\n4. Battery: Battery back is good for one full day by keeping the in...\nREAD MORE",
+      "cleaned_comment": "i have been using this mobile for the last 5 days and overall i am very happy with this mobile. 1. design: the design is very eye-catching and, feels very good and confident to hold in hand. 2. camera: camera set up is really awesome and best in this segment. i was impressed with the night photography. the best cameras. 3. screen: very impressive screen, eye comfort, and flat screen gives a very unique look to the phone. 4. battery: battery back is good for one full day by keeping the."
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "Nice phone 8.5/10 considering the price range that it comes on, and 1 year of Android update is a major down side and a useless 2 MP MACRO sensor, display resolution should be improved or its brightness nits. You can go for it without any hesitation if you are looking for daily usage of phone or daily tasks, and can handle simple tasks.\n\nPerformance: can give you up to 40 fps easily on high end games like BGMI, COD, APEX LEGEND,Genshin Impact 20-30 FPS Low to Medium settings.\n\nThe camera qua...\nREAD MORE",
+      "cleaned_comment": "nice phone 8.510 considering the price range that it comes on, and 1 year of android update is a major down side and a useless 2 mp macro sensor, display resolution should be improved or its brightness nits. you can go for it without any hesitation if you are looking for daily usage of phone or daily tasks, and can handle simple tasks. performance: can give you up to 40 fps easily on high end games like bgmi, cod, apex legend,genshin impact 20-30 fps low to medium settings. the camera."
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "Camera is really really bad. When booted, one day the call functionality was not working but when restarted, started working just fine. Rest the device is looking good. The design is really awesome and the red color is just wooooooow.",
+      "cleaned_comment": "camera is really really bad. when booted, one day the call functionality was not working but when restarted, started working just fine. rest the device is looking good. the design is really awesome and the red color is just wooooooow."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "The mobile was very nice phone and better all things like camera and\nperformance and display design the speakers were very amazing\n\n\nThanks for the nice phone",
+      "cleaned_comment": "the mobile was very nice phone and better all things like camera and performance and display design the speakers were very amazing thanks for the nice phone"
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "Just an excellent product don't worry buy it, i think you should buy viva megneta colour",
+      "cleaned_comment": "just an excellent product don't worry buy it, i think you should buy viva megneta colour"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "The processor and camera is so good at the price, the only problem is the gallery and file manager.\nMoto doesn't have gallery and file manager, but you can use Google photos and Google files",
+      "cleaned_comment": "the processor and camera is so good at the price, the only problem is the gallery and file manager. moto doesn't have gallery and file manager, but you can use google photos and google files"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "Bought this for mom, pink lavender colour and design looks great, display is so smooth, overall performance is great, just camera could have been a little better but at this price range its good",
+      "cleaned_comment": "bought this for mom, pink lavender colour and design looks great, display is so smooth, overall performance is great, just camera could have been a little better but at this price range its good"
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "For the price of 12000(with bank offer):\nthis is a fairly good and functional phone.\nHope it lasts next 5 years.\n\nthe few bloatware that are pre-installed can be easily uninstall.\ncamera performance by default is acceptable.",
+      "cleaned_comment": "for the price of 12000(with bank offer): this is a fairly good and functional phone. hope it lasts next 5 years. the few bloatware that are pre-installed can be easily uninstall. camera performance by default is acceptable."
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "Pros:\nZero Bloatware in the mobile, I have to even download Compass from playstore.\nBattery runs for a day and half if normally used.\nCons:-\nCamera could have been better.\nBrightness could have been more for outdoor usage.",
+      "cleaned_comment": "pros: zero bloatware in the mobile, i have to even download compass from playstore. battery runs for a day and half if normally used. cons:- camera could have been better. brightness could have been more for outdoor usage."
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "Mostly From My Experience I will give it 4 Star\nCamera - Decent in this Price\nBattery - Enough for a Day\nPerformance - Very Balanced Performance\nDesign - Best in this Price\nDisplay - Bright Enough feels like Amoled\nAndroid - Comes with Android 14\nSound - Best because of Dolby Atmos and also having Stereo Speakers\nCharger - Not Supports Super Vooc Charge but it comes with Typical 20 Watt Charger",
+      "cleaned_comment": "mostly from my experience i will give it 4 star camera - decent in this price battery - enough for a day performance - very balanced performance design - best in this price display - bright enough feels like amoled android - comes with android 14 sound - best because of dolby atmos and also having stereo speakers charger - not supports super vooc charge but it comes with typical 20 watt charger"
+    },
+    {
+      "title": "very good",
+      "raw_comment": "Good mobile in this price range ..camera performance can be better ..rest all good..",
+      "cleaned_comment": "good mobile in this price range . camera performance can be better . rest all good."
+    },
+    {
+      "title": "nice",
+      "raw_comment": "First time using the Motorola mobile phone Moto g 45 unfortunately the bad experience\n\n1. Anytime network issue once charge completed not available incoming and outgoing calls once restart the mobile and working fine\n\n2. All Incoming calls with once attend 4 to 5 seconds not response in the mic\n\n3. The mic is very low performance in my hand using the close to mobile and speaking to loudly\n\n4. Sometime log and hanging the mobile\n\nOverall below points only good:\nModel and design\nBuild qual...\nREAD MORE",
+      "cleaned_comment": "first time using the motorola mobile phone moto g 45 unfortunately the bad experience 1. anytime network issue once charge completed not available incoming and outgoing calls once restart the mobile and working fine 2. all incoming calls with once attend 4 to 5 seconds not response in the mic 3. the mic is very low performance in my hand using the close to mobile and speaking to loudly 4. sometime log and hanging the mobile overall below points only good: model and design build."
+    },
+    {
+      "title": "fair",
+      "raw_comment": "Performance is like okk, display is also okk, do not give smooth performance, bit heating issue, refresh rate is very low, satisfactiory but would have been much better",
+      "cleaned_comment": "performance is like okk, display is also okk, do not give smooth performance, bit heating issue, refresh rate is very low, satisfactiory but would have been much better"
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "Camera quality is very good front camera 16mp and back 50mp slow motion and portrait features are available\nBattery- If continue using phone battery work 5 to 6 hr\nBut use in limit battery run 2 days\nProcessor is best provide multitasking\nDisplay size is better then other phone, Dolby atoms present is mobile speaker\nNetwork mode is 2.4Ghz , 5G connectivity\nMotion and gesture feature are available in this phone.\nBut 1 problem in this phone was only 1 sim and 1 sd card is connect if you a...\nREAD MORE",
+      "cleaned_comment": "camera quality is very good front camera 16mp and back 50mp slow motion and portrait features are available battery- if continue using phone battery work 5 to 6 hr but use in limit battery run 2 days processor is best provide multitasking display size is better then other phone, dolby atoms present is mobile speaker network mode is 2.4ghz , 5g connectivity motion and gesture feature are available in this phone. but 1 problem in this phone was only 1 sim and 1 sd card is connect if you."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "Best phone in G series\nAlready have many G31 and bought this one\nCamera is improved than past phone\nLow light photos also great\nLight weight, speaker is lound and clear\nDisplay is also good\nOverall this phone bit all other phone in this range",
+      "cleaned_comment": "best phone in g series already have many g31 and bought this one camera is improved than past phone low light photos also great light weight, speaker is lound and clear display is also good overall this phone bit all other phone in this range"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "As per this price range i have rated this phone slefie camera is good, battery also i was worried about display because of ips lcd but it is best no issue you can buy it if you are willing",
+      "cleaned_comment": "as per this price range i have rated this phone slefie camera is good, battery also i was worried about display because of ips lcd but it is best no issue you can buy it if you are willing"
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "Good phone by motorola considering its price range. I bought this for my parents. Hoping it lasts long and perform better.",
+      "cleaned_comment": "good phone by motorola considering its price range. i bought this for my parents. hoping it lasts long and perform better."
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "Very worst battery. I don't return that mobile. Please help how to return mobile. Battery is very quickly drained. Mobile is heating problem",
+      "cleaned_comment": "very worst battery. i don't return that mobile. please help how to return mobile. battery is very quickly drained. mobile is heating problem"
+    },
+    {
+      "title": "very good",
+      "raw_comment": "The performance it offers at the lowest possible price with 20W charger in the box is the best thing with a pantone colour design. Hats off moto!",
+      "cleaned_comment": "the performance it offers at the lowest possible price with 20w charger in the box is the best thing with a pantone colour design. hats off moto!"
+    },
+    {
+      "title": "could be way better",
+      "raw_comment": "Charging problem: charging late. It charged well for the first few days but now it charges very late.",
+      "cleaned_comment": "charging problem: charging late. it charged well for the first few days but now it charges very late."
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "Phone is very lighter to use that is the greatest advantage of it. Need to work on more smooth performance of software by moto and without lags. Camera needs to be more improved as it says 50 mp but not that exact it works actually. And battery should be atleast 6000 MAH as current battery last for one day only. Rest all is good.",
+      "cleaned_comment": "phone is very lighter to use that is the greatest advantage of it. need to work on more smooth performance of software by moto and without lags. camera needs to be more improved as it says 50 mp but not that exact it works actually. and battery should be atleast 6000 mah as current battery last for one day only. rest all is good."
+    },
+    {
+      "title": "very good",
+      "raw_comment": "Its a Good premium looking phone.\n\nPros. No ads or bloatware.\nBattery backup is good.\nPerformance is good for daily life use.\nValue for money phone.\nLooks premium in this segment.\nCons.\nCamera is average.\nCustomisation is limited,\nMany Feature not present.\nDisplay is average.\nSoftware update from moto is pathetic.\nNot for gamers.",
+      "cleaned_comment": "its a good premium looking phone. pros. no ads or bloatware. battery backup is good. performance is good for daily life use. value for money phone. looks premium in this segment. cons. camera is average. customisation is limited, many feature not present. display is average. software update from moto is pathetic. not for gamers."
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "Thanks Flipkart for quick delivery!\n\nBuilt finish: Great\nProcessor performance: Great but not built for heavy gaming\nDisplay: Smooth, colors are vivid and bright too\nCamera: Descent\nUI: Very clean\nUnwanted apps: Initially very few are there and after connecting with WiFi some more are downloaded, but these can be uninstalled\n\nA Budget Awesome phone!",
+      "cleaned_comment": "thanks flipkart for quick delivery! built finish: great processor performance: great but not built for heavy gaming display: smooth, colors are vivid and bright too camera: descent ui: very clean unwanted apps: initially very few are there and after connecting with wifi some more are downloaded, but these can be uninstalled a budget awesome phone!"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "I've bought 3rd phone in same model for my\nFamily and frnds circle,I'm using it for past 6 months,at 10.5k to 11k budget a pucca phone as per this cost limit ❤️ love moto",
+      "cleaned_comment": "i've bought 3rd phone in same model for my family and frnds circle,i'm using it for past 6 months,at 10.5k to 11k budget a pucca phone as per this cost limit love moto"
+    },
+    {
+      "title": "terrible product",
+      "raw_comment": "Voice calling issue (voice breaking) all listner complaint your voice breaking. Many times voice stop while talking someone.\n\nMy old phone was working fine. Very disppointing after buying this phone. Service Center also not near by me.",
+      "cleaned_comment": "voice calling issue (voice breaking) all listner complaint your voice breaking. many times voice stop while talking someone. my old phone was working fine. very disppointing after buying this phone. service center also not near by me."
+    },
+    {
+      "title": "perfect product!",
+      "raw_comment": "Camera - 4/5\nBattery - 5/5\nDisplay - 4/5\nSpeakers - 5/5\nOverall good smartphone in this price💯",
+      "cleaned_comment": "camera - 45 battery - 55 display - 45 speakers - 55 overall good smartphone in this price"
+    },
+    {
+      "title": "absolute rubbish!",
+      "raw_comment": "Lot of Network problem is there...call drops frequently..not worthy... network issue will make u irritate u .",
+      "cleaned_comment": "lot of network problem is there. call drops frequently. not worthy. network issue will make u irritate u ."
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "Best smartphone in the given price range. The top variant is preferred looking at the price margin.",
+      "cleaned_comment": "best smartphone in the given price range. the top variant is preferred looking at the price margin."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Perfect phone for my mother. Loud sound. Good display. Light weight . Torch light with a shake. Back cover inside box. Super. 😊",
+      "cleaned_comment": "perfect phone for my mother. loud sound. good display. light weight . torch light with a shake. back cover inside box. super."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Value for money device\nBattery camera and display is good as per the price, performance is also good for average users.",
+      "cleaned_comment": "value for money device battery camera and display is good as per the price, performance is also good for average users."
+    },
+    {
+      "title": "moderate",
+      "raw_comment": "Product is OK at this price. However 3.5 mm jack is not detected and not working. Response time is slow inspite of 8gb RAM",
+      "cleaned_comment": "product is ok at this price. however 3.5 mm jack is not detected and not working. response time is slow inspite of 8gb ram"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "It's a very best mobile in affordable price don't think so much just go for it...",
+      "cleaned_comment": "it's a very best mobile in affordable price don't think so much just go for it."
+    },
+    {
+      "title": "slightly disappointed",
+      "raw_comment": "Bad product excessive battery heating and low battery performance and not recommended at all..Bad performance",
+      "cleaned_comment": "bad product excessive battery heating and low battery performance and not recommended at all. bad performance"
+    },
+    {
+      "title": "good",
+      "raw_comment": "Writing this review after a month of use.\nDesign: good\nPerformance: good\nCamera: worst because it keeps on crashing and reboots the mobile.\nOverall: average phone with impressive looks.",
+      "cleaned_comment": "writing this review after a month of use. design: good performance: good camera: worst because it keeps on crashing and reboots the mobile. overall: average phone with impressive looks."
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "For an incoming call,the ringtone was silent for the five seconds and rings only after five seconds.I tried all phone settings.The problem still persists.I missed so many calls because of this problem.It is irritating and annoying to me.",
+      "cleaned_comment": "for an incoming call,the ringtone was silent for the five seconds and rings only after five seconds.i tried all phone settings.the problem still persists.i missed so many calls because of this problem.it is irritating and annoying to me."
+    },
+    {
+      "title": "good",
+      "raw_comment": "Good phone at this price range\nOnly Display is Not good ( 720P)\nFor parents it's a best option",
+      "cleaned_comment": "good phone at this price range only display is not good ( 720p) for parents it's a best option"
+    },
+    {
+      "title": "good",
+      "raw_comment": "With this price range we can't expect a great camera. But I'm not satisfied with the battery performance. It's going down fast and fast charging also takes more time.",
+      "cleaned_comment": "with this price range we can't expect a great camera. but i'm not satisfied with the battery performance. it's going down fast and fast charging also takes more time."
+    },
+    {
+      "title": "absolute rubbish!",
+      "raw_comment": "Bad bad bad very bad product\nBattery essu\nBattery discharge very quickly\nAnd phone have not gallery",
+      "cleaned_comment": "bad bad bad very bad product battery essu battery discharge very quickly and phone have not gallery"
+    },
+    {
+      "title": "good quality product",
+      "raw_comment": "I have give 4 stars because, everything for this price is reasonable, but call voice quality is not good. I don't know if all mobiles have this problem or particularly mine only has this issue. Please everyone who have bought this mobile share review regarding voice call clarity.",
+      "cleaned_comment": "i have give 4 stars because, everything for this price is reasonable, but call voice quality is not good. i don't know if all mobiles have this problem or particularly mine only has this issue. please everyone who have bought this mobile share review regarding voice call clarity."
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "I just brought this phone degine is good , feature is also good I just use this phone only 2 hrs little concern in charging this phone little heatup it's my oveservation.\nThis phone is good for regular uses it's my opinion",
+      "cleaned_comment": "i just brought this phone degine is good , feature is also good i just use this phone only 2 hrs little concern in charging this phone little heatup it's my oveservation. this phone is good for regular uses it's my opinion"
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "Battery backup is good.\nCamera quality is average , but good at this\nLight waight, attractive disgn with lather good feeling in hand",
+      "cleaned_comment": "battery backup is good. camera quality is average , but good at this light waight, attractive disgn with lather good feeling in hand"
+    },
+    {
+      "title": "must buy!",
+      "raw_comment": "Well its been a month i am using this set. Felt uncomfortable at the start as it seemed lagging, but after the updates its smooth as a slate. The videos however lags a bit. Pics are fine. Good thing is after lenovo aquiring moto, it seemed a bit off- moto, but this set might well set the comeback of the old reliable moto. Happy with the purchase. Lets wait a few more months and i might update a. More.\nFor now, satisfied👍🏻",
+      "cleaned_comment": "well its been a month i am using this set. felt uncomfortable at the start as it seemed lagging, but after the updates its smooth as a slate. the videos however lags a bit. pics are fine. good thing is after lenovo aquiring moto, it seemed a bit off- moto, but this set might well set the comeback of the old reliable moto. happy with the purchase. lets wait a few more months and i might update a. more. for now, satisfied"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Superb,perfect, under 10 k a budget phone with good features if they had HD plus display it would be a great deal ,,but worth it completely,,talk about camera it's really nice not that you expect but it won't disappoint you for sure ..",
+      "cleaned_comment": "superb,perfect, under 10 k a budget phone with good features if they had hd plus display it would be a great deal ,,but worth it completely,,talk about camera it's really nice not that you expect but it won't disappoint you for sure ."
+    },
+    {
+      "title": "super!",
+      "raw_comment": "I recently purchased the Moto G45 5G from Flipkart and I'm pleasantly surprised by its performance given its affordable price point.\n\nKey Features and Impressions:\n\nSmooth Performance: The device runs on a capable processor that handles everyday tasks with ease. I've experienced minimal lag or stuttering, even while multitasking.\nImpressive Display: The display is bright and vibrant, offering good viewing angles. It's perfect for streaming videos, browsing the web, and gaming.\nReliable Batter...\nREAD MORE",
+      "cleaned_comment": "i recently purchased the moto g45 5g from flipkart and i'm pleasantly surprised by its performance given its affordable price point. key features and impressions: smooth performance: the device runs on a capable processor that handles everyday tasks with ease. i've experienced minimal lag or stuttering, even while multitasking. impressive display: the display is bright and vibrant, offering good viewing angles. it's perfect for streaming videos, browsing the web, and gaming. reliable."
+    },
+    {
+      "title": "absolute rubbish!",
+      "raw_comment": "Touch not response and battery drain very fast\n\nVery very disappointed with moto as I choose it first time.",
+      "cleaned_comment": "touch not response and battery drain very fast very very disappointed with moto as i choose it first time."
+    },
+    {
+      "title": "utterly disappointed",
+      "raw_comment": "Battery backup is very low , camera is not clear , speaker values very low , calling atoumatic on of .",
+      "cleaned_comment": "battery backup is very low , camera is not clear , speaker values very low , calling atoumatic on of ."
+    },
+    {
+      "title": "worthless",
+      "raw_comment": "Worst phone.\nDon't buy it.\nCamera clarity is very poor. It seems like 2 mega pixel.\nLCD screen quality not satisfied.\nI didn't expect this much poor quality from Motorola compared to my previous moto mobiles.\n\nHere after I wish to go for another brands.",
+      "cleaned_comment": "worst phone. don't buy it. camera clarity is very poor. it seems like 2 mega pixel. lcd screen quality not satisfied. i didn't expect this much poor quality from motorola compared to my previous moto mobiles. here after i wish to go for another brands."
+    },
+    {
+      "title": "very poor",
+      "raw_comment": "One of the worst mobiles from Don't buy this product.Camera is too bad and display is also bad . According to price this product is just disgusting. The best part of this mobile is battery.Overall it's a very bad product from motorola. Worst part is camera and display.Dont waste your money to buy this product",
+      "cleaned_comment": "one of the worst mobiles from don't buy this product.camera is too bad and display is also bad . according to price this product is just disgusting. the best part of this mobile is battery.overall it's a very bad product from motorola. worst part is camera and display.dont waste your money to buy this product"
+    },
+    {
+      "title": "did not meet expectations",
+      "raw_comment": "Don't Buy this Mobile!! It's not good at all for the prize we are paying.\n\nVery poor display\nAverage Camera\nUI is totally Crap\nLagging is there\n\nAltogether, it's a disaster",
+      "cleaned_comment": "don't buy this mobile!! it's not good at all for the prize we are paying. very poor display average camera ui is totally crap lagging is there altogether, it's a disaster"
+    },
+    {
+      "title": "horrible",
+      "raw_comment": "Ofter use of 2 days slow charging but long lasting battery on normal use ,Display is not good ,snapdragon 6s Generation3 with software 15 excellent performance no hanging issues faced in two days .",
+      "cleaned_comment": "ofter use of 2 days slow charging but long lasting battery on normal use ,display is not good ,snapdragon 6s generation3 with software 15 excellent performance no hanging issues faced in two days ."
+    },
+    {
+      "title": "hated it!",
+      "raw_comment": "Very slow charging and battery backup very worst , charger too heating problem I want to return this item",
+      "cleaned_comment": "very slow charging and battery backup very worst , charger too heating problem i want to return this item"
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Beautiful device, good display, decent battery backup. Only issue is that it heats a bit when used for long time when the room temperature is higher than normal.",
+      "cleaned_comment": "beautiful device, good display, decent battery backup. only issue is that it heats a bit when used for long time when the room temperature is higher than normal."
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "Charged once in the morning will stay 40 % by noon. I will switch off until night. 😡",
+      "cleaned_comment": "charged once in the morning will stay 40 % by noon. i will switch off until night."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "It's a decent phone for normal usage camera is good at this price range, phone can handle day to day usage",
+      "cleaned_comment": "it's a decent phone for normal usage camera is good at this price range, phone can handle day to day usage"
+    },
+    {
+      "title": "could be way better",
+      "raw_comment": "Very bad experience in this phone. Plz don't buy this ।\nTwo sim not working, only one sim work।",
+      "cleaned_comment": "very bad experience in this phone. plz don't buy this two sim not working, only one sim work"
+    },
+    {
+      "title": "nice",
+      "raw_comment": "Phone performance is good. But camera is just average. Display disappointed me a lot. It can be better",
+      "cleaned_comment": "phone performance is good. but camera is just average. display disappointed me a lot. it can be better"
+    },
+    {
+      "title": "waste of money!",
+      "raw_comment": "Device not working properly, issues - overheating Device in normal use . 5g not working, battery drain faster overall 2hr battery backup. And replacement Device option can't work",
+      "cleaned_comment": "device not working properly, issues - overheating device in normal use . 5g not working, battery drain faster overall 2hr battery backup. and replacement device option can't work"
+    },
+    {
+      "title": "nice",
+      "raw_comment": "Looking at the price it's a deal alright. Shifting from a poco m4 pro, felt like a big letdown. The display is lcd and you can tell just by looking at it. The front camera is alright but the rear is not, the rear cam lacks sharpness and the photos come out very dull and depressed. But the biggest letdown is the microphone, you need to talk extra loud and almost scream at times in order to communicate. Overall a decent buy if you're low on budget, network connectivity is good and 5g connection...\nREAD MORE",
+      "cleaned_comment": "looking at the price it's a deal alright. shifting from a poco m4 pro, felt like a big letdown. the display is lcd and you can tell just by looking at it. the front camera is alright but the rear is not, the rear cam lacks sharpness and the photos come out very dull and depressed. but the biggest letdown is the microphone, you need to talk extra loud and almost scream at times in order to communicate. overall a decent buy if you're low on budget, network connectivity is good and 5g."
+    },
+    {
+      "title": "did not meet expectations",
+      "raw_comment": "Battery back is very poor, battery back up not stand for full day.? After full chaged?",
+      "cleaned_comment": "battery back is very poor, battery back up not stand for full day.? after full chaged?"
+    }
+  ]
+}

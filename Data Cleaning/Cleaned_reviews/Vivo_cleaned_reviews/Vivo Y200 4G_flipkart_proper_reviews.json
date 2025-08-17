@@ -1,0 +1,69 @@
+{
+  "product": "Vivo Y200 4G",
+  "total_initial_review_count": 223,
+  "total_final_review_count": 12,
+  "overall_rating": 4.4,
+  "total_ratings_count": 3431,
+  "cleaned_reviews": [
+    {
+      "title": "simply awesome",
+      "raw_comment": "#Good battery backup\n#Nice cemara quality with aura light\n#Display brightness also superb\n#No face heating or hanging issue\n#Value for money\n09/10",
+      "cleaned_comment": "good battery backup nice cemara quality with aura light display brightness also superb no face heating or hanging issue value for money 0910"
+    },
+    {
+      "title": "super!",
+      "raw_comment": "Camera quality is very good slim phone easy to carry design is very good function ☺️ excellent",
+      "cleaned_comment": "camera quality is very good slim phone easy to carry design is very good function excellent"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Excellent phone and performance also. 5G network showing rairly. But 4g running good. Fast charging and display is really awesome.5G network issues In this phone.",
+      "cleaned_comment": "excellent phone and performance also. 5g network showing rairly. but 4g running good. fast charging and display is really awesome.5g network issues in this phone."
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "Camera average otherwise phone perfect in design and performance.... Back cover is not very good totally cheap",
+      "cleaned_comment": "camera average otherwise phone perfect in design and performance. back cover is not very good totally cheap"
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "It was great mobile\n1.Battery: come to battery background,it was the little bit disadvantage because it drains fast\n2.Camera: 64 mp ,it is best camera among this gen range phones in cost also and This is the reason why l buy this mobile\n3. Performance: performance also good no hang issues\n4.Games: So I think this mobile is not suitable for playing games because it takes lot of charge",
+      "cleaned_comment": "it was great mobile 1.battery: come to battery background,it was the little bit disadvantage because it drains fast 2.camera: 64 mp ,it is best camera among this gen range phones in cost also and this is the reason why l buy this mobile 3. performance: performance also good no hang issues 4.games: so i think this mobile is not suitable for playing games because it takes lot of charge"
+    },
+    {
+      "title": "great product",
+      "raw_comment": "The product very nice very good camera battery backup display everything is good product Vivo y 200 5G",
+      "cleaned_comment": "the product very nice very good camera battery backup display everything is good product vivo y 200 5g"
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "Awesome phone good battery And good performance and beautiful design.but camera is good but slightly blur image in zooming mode.but phone is perfect",
+      "cleaned_comment": "awesome phone good battery and good performance and beautiful design.but camera is good but slightly blur image in zooming mode.but phone is perfect"
+    },
+    {
+      "title": "moderate",
+      "raw_comment": "In this price software was not good.don't buy this. After some days when switch on it's tak more than 2 minutes",
+      "cleaned_comment": "in this price software was not good.don't buy this. after some days when switch on it's tak more than 2 minutes"
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "It's a good phone. The photo is not up to the mark as compared with the other brands in the same budget. Overall my experience is good.",
+      "cleaned_comment": "it's a good phone. the photo is not up to the mark as compared with the other brands in the same budget. overall my experience is good."
+    },
+    {
+      "title": "fair",
+      "raw_comment": "I bought this mobile 3 sep.\nOver all good\nBoth camera is good .\nI recommend go for it.\nWorth money",
+      "cleaned_comment": "i bought this mobile 3 sep. over all good both camera is good . i recommend go for it. worth money"
+    },
+    {
+      "title": "utterly disappointed",
+      "raw_comment": "The phone has heating issues even when we use it for a few minutes\nThe main camera quality is stuck in 4 mb even after changing it to 64 mb mode\nThe battery backup is very poor; it charges very fast but the battery backup won't last long, it only last for 1 hour.",
+      "cleaned_comment": "the phone has heating issues even when we use it for a few minutes the main camera quality is stuck in 4 mb even after changing it to 64 mb mode the battery backup is very poor; it charges very fast but the battery backup won't last long, it only last for 1 hour."
+    },
+    {
+      "title": "fair",
+      "raw_comment": "Excellent smartphone nice display, but it is negative side is there is no memory card slot/ extended storage,,\nOnly internal storage capacity.... Very sad..",
+      "cleaned_comment": "excellent smartphone nice display, but it is negative side is there is no memory card slot extended storage,, only internal storage capacity. very sad."
+    }
+  ]
+}

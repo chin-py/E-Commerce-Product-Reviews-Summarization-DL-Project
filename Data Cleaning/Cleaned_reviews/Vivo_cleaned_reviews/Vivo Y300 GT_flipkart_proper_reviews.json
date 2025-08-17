@@ -1,0 +1,34 @@
+{
+  "product": "Vivo Y300 GT",
+  "total_initial_review_count": 116,
+  "total_final_review_count": 5,
+  "overall_rating": 4.4,
+  "total_ratings_count": 2685,
+  "cleaned_reviews": [
+    {
+      "title": "very good",
+      "raw_comment": "Firstly got confused by reviews of others, but as I'm using the mobile now I tell u guys it's good mobile with decent features with this price segment, anybody wanting to buy this mobile go for it without any confusion (user of Android since 2010, used many mobiles like Asus,Samsung moto,one plus etc)..",
+      "cleaned_comment": "firstly got confused by reviews of others, but as i'm using the mobile now i tell u guys it's good mobile with decent features with this price segment, anybody wanting to buy this mobile go for it without any confusion (user of android since 2010, used many mobiles like asus,samsung moto,one plus etc)."
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "Phone is very nice camera quality is superb. Volume is very high. Recommended to buy this",
+      "cleaned_comment": "phone is very nice camera quality is superb. volume is very high. recommended to buy this"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "In this edition this phone is very good in performance wise and also daily use wise really i love it ...And battery is very good 👍🏻👍🏻👍🏻👍🏻 really I like it\n.....",
+      "cleaned_comment": "in this edition this phone is very good in performance wise and also daily use wise really i love it . and battery is very good really i like it ."
+    },
+    {
+      "title": "utterly disappointed",
+      "raw_comment": "Screen quality is poor. Camera is very worst. Company called it 50 and 32 mega pixels but its not like that.",
+      "cleaned_comment": "screen quality is poor. camera is very worst. company called it 50 and 32 mega pixels but its not like that."
+    },
+    {
+      "title": "very good",
+      "raw_comment": "Firstly got confused by reviews of others, but as I'm using the mobile now I tell u guys it's good mobile with decent features with this price segment, anybody wanting to buy this mobile go for it without any confusion (user of Android since 2010, used many mobiles like Asus,Samsung moto,one plus etc)..",
+      "cleaned_comment": "firstly got confused by reviews of others, but as i'm using the mobile now i tell u guys it's good mobile with decent features with this price segment, anybody wanting to buy this mobile go for it without any confusion (user of android since 2010, used many mobiles like asus,samsung moto,one plus etc)."
+    }
+  ]
+}

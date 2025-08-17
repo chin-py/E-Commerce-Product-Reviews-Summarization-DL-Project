@@ -1,0 +1,59 @@
+{
+  "product": "Boult Curve Buds Pro",
+  "total_initial_review_count": 100,
+  "total_final_review_count": 10,
+  "overall_rating": 3.7,
+  "total_ratings_count": 6826,
+  "cleaned_reviews": [
+    {
+      "title": "awesome",
+      "raw_comment": "Nice product launched by boult..the best thing is it has an equaliser setup which can enhance the sound experience in this range of tws.\nThe music clarity and quality is really nice.. thanks Flipkart for same day delivery...",
+      "cleaned_comment": "nice product launched by boult. the best thing is it has an equaliser setup which can enhance the sound experience in this range of tws. the music clarity and quality is really nice. thanks flipkart for same day delivery."
+    },
+    {
+      "title": "wonderful",
+      "raw_comment": "1. I got today 😊 Superb build quality and scratchless body.\n\n2. Sound like 8.5 out of 10.\n\n(Wait). It will take more time about battery review 100hrs or not so i can't tell now.\n\n3. Call , ENC , touch response, 3 EQ modes are also nice .\n\n❌ One bad thing i noticed that when buds are in charging mode outer charging indicator lights don't off until charging completed .\n\nSuch a nice earbud under 1000 . You can go for it ✅",
+      "cleaned_comment": "1. i got today superb build quality and scratchless body. 2. sound like 8.5 out of 10. (wait). it will take more time about battery review 100hrs or not so i can't tell now. 3. call , enc , touch response, 3 eq modes are also nice . one bad thing i noticed that when buds are in charging mode outer charging indicator lights don't off until charging completed . such a nice earbud under 1000 . you can go for it"
+    },
+    {
+      "title": "bad quality",
+      "raw_comment": "Case quality pu matt finish not good 5/2\nEarbuds quality 5/3 and finishing 5/5\nMusic 5/3.5\nBass 5/3.5\nTuch control 5/3\nBattery backup 50 hours\n10days use waste money\nBuy price 999\n600 to 700 price range\nEarbuds good quality\nCase low quality",
+      "cleaned_comment": "case quality pu matt finish not good 52 earbuds quality 53 and finishing 55 music 53.5 bass 53.5 tuch control 53 battery backup 50 hours 10days use waste money buy price 999 600 to 700 price range earbuds good quality case low quality"
+    },
+    {
+      "title": "good quality product",
+      "raw_comment": "Reviewing after using it for some months.\nPros: ●The sound quality is top.\n●The battery lasts for days.\nCons: ● The golden color starts to fade after just few months.\n● It's quite annoying to take the buds out of the box as the top cover doesn't fully open.\n● The lights on the box stays on for quite long (sometimes) and off only when you take the buds out and reput them in.",
+      "cleaned_comment": "reviewing after using it for some months. pros: the sound quality is top. the battery lasts for days. cons: the golden color starts to fade after just few months. it's quite annoying to take the buds out of the box as the top cover doesn't fully open. the lights on the box stays on for quite long (sometimes) and off only when you take the buds out and reput them in."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Best earbuds at this price range...Superb quality of bass and sound also..satisfy with having this product..Thanks to Boult audio also flipkart",
+      "cleaned_comment": "best earbuds at this price range. superb quality of bass and sound also. satisfy with having this product. thanks to boult audio also flipkart"
+    },
+    {
+      "title": "don't waste your money",
+      "raw_comment": "One of the bud was not geeting charged and showjng sound issues within 1 month after buying\nAnd i have returned it for new product and till now it didnt came out ..wasted the money\nGo for any other product",
+      "cleaned_comment": "one of the bud was not geeting charged and showjng sound issues within 1 month after buying and i have returned it for new product and till now it didnt came out . wasted the money go for any other product"
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "I use continuely earbuds after full charge and i got 6 hours battery backup and I try to change these mods system but I am not able to use",
+      "cleaned_comment": "i use continuely earbuds after full charge and i got 6 hours battery backup and i try to change these mods system but i am not able to use"
+    },
+    {
+      "title": "expected a better product",
+      "raw_comment": "Despite bass boost option, the level just doesn't live up to expectations. Treble just screeches out with increase in volume, total lack of balance. Seriously there is no sound check team in place or someone just doesn't care. I will have to give it up to someone as this is not for music.",
+      "cleaned_comment": "despite bass boost option, the level just doesn't live up to expectations. treble just screeches out with increase in volume, total lack of balance. seriously there is no sound check team in place or someone just doesn't care. i will have to give it up to someone as this is not for music."
+    },
+    {
+      "title": "could be way better",
+      "raw_comment": "Battery backup is good,sound is also ok\nBut case in not as much as good and colour get depreciated",
+      "cleaned_comment": "battery backup is good,sound is also ok but case in not as much as good and colour get depreciated"
+    },
+    {
+      "title": "not good",
+      "raw_comment": "I am using this boult for 1 year..sound is good.. But the skin in peeling , the look became very bad now my one side earphone is not working",
+      "cleaned_comment": "i am using this boult for 1 year. sound is good. but the skin in peeling , the look became very bad now my one side earphone is not working"
+    }
+  ]
+}

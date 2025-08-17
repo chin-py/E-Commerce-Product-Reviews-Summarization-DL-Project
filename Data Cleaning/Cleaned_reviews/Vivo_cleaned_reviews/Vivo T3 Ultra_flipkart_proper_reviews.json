@@ -1,0 +1,379 @@
+{
+  "product": "Vivo T3 Ultra",
+  "total_initial_review_count": 419,
+  "total_final_review_count": 74,
+  "overall_rating": 4.5,
+  "total_ratings_count": 9555,
+  "cleaned_reviews": [
+    {
+      "title": "good quality product",
+      "raw_comment": "Almost perfect phone in terms of style, performance and price. Only drawback is that it has fast battery draining and heating issue. Vivo can fix this with software updates.",
+      "cleaned_comment": "almost perfect phone in terms of style, performance and price. only drawback is that it has fast battery draining and heating issue. vivo can fix this with software updates."
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "Very Very Nice..... Smooth Performance 👌But Battery Slitly Drain issues and Overall good.Vivo Please Battery Optimization Update",
+      "cleaned_comment": "very very nice. smooth performance but battery slitly drain issues and overall good.vivo please battery optimization update"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "This is my first time buying Vivo company phone. I am currently using realme GT neo3t phone\nand speaking about Vivo 3T ultra this phone is well balanced for taking photos playing games and multimedia consuming and also battery backup is really good. thank you Flipkart for the delivery product on time.👍",
+      "cleaned_comment": "this is my first time buying vivo company phone. i am currently using realme gt neo3t phone and speaking about vivo 3t ultra this phone is well balanced for taking photos playing games and multimedia consuming and also battery backup is really good. thank you flipkart for the delivery product on time."
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "All r good . But need to solve the fast battery drainage problems. Hope Vivo will solve it with a new software update.",
+      "cleaned_comment": "all r good . but need to solve the fast battery drainage problems. hope vivo will solve it with a new software update."
+    },
+    {
+      "title": "super!",
+      "raw_comment": "Got it on first day of Flipkart sale and very happy with the buy. Look and feel and performance is mind blowing. Camera quality is unbelievable. Worth of money.",
+      "cleaned_comment": "got it on first day of flipkart sale and very happy with the buy. look and feel and performance is mind blowing. camera quality is unbelievable. worth of money."
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Awesome phone. I'm satisfied with it. Camera quality is also superb but processor is amazing. I recommend it.",
+      "cleaned_comment": "awesome phone. i'm satisfied with it. camera quality is also superb but processor is amazing. i recommend it."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Osm 👌 very nice pone. Beautiful camra.\nSmooth working 💪.\nBig and batter Display color 😍 👌 ✨️\nMost Help full\nThis phone is great\nSo Nice",
+      "cleaned_comment": "osm very nice pone. beautiful camra. smooth working . big and batter display color most help full this phone is great so nice"
+    },
+    {
+      "title": "excellent",
+      "raw_comment": "I love this Phone it has amazing camera and picture quality, and top level performance.\n\nThe camera of this phone is much better than iphone 13.\n\nMy ratings,\nCamera 5/5\nPerformance 5/5\nBattery 4.5/5\nDisplay 5/5\nCooling 4.3/5",
+      "cleaned_comment": "i love this phone it has amazing camera and picture quality, and top level performance. the camera of this phone is much better than iphone 13. my ratings, camera 55 performance 55 battery 4.55 display 55 cooling 4.35"
+    },
+    {
+      "title": "good choice",
+      "raw_comment": "Good product 👍\n1. AI feature\n2. Performance\n3. Battery\n4. Display\n5. Design\n6. 5G connectivity\n7. I Manager for performance booster",
+      "cleaned_comment": "good product 1. ai feature 2. performance 3. battery 4. display 5. design 6. 5g connectivity 7. i manager for performance booster"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Wonderful cemara quality 5/5\nBattery 5/5\nDesign 5/5\nPerformance 5/5\nNevar disappointed to Vivo Users\nBest Smart phone Under this price",
+      "cleaned_comment": "wonderful cemara quality 55 battery 55 design 55 performance 55 nevar disappointed to vivo users best smart phone under this price"
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Best phone under this price range...best thing of this phone is camera it will never disappoints you... battery life is good but charging speed is as compared to one plus slow...phone look is very slim n premium.. definitely i will recommended it if u love to capture ur best photos",
+      "cleaned_comment": "best phone under this price range. best thing of this phone is camera it will never disappoints you. battery life is good but charging speed is as compared to one plus slow. phone look is very slim n premium. definitely i will recommended it if u love to capture ur best photos"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "The product is good. Vivo t3 Ultra is a Specially made for photos and video quality. this is awesome.",
+      "cleaned_comment": "the product is good. vivo t3 ultra is a specially made for photos and video quality. this is awesome."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Nice product but sometimes 🔥 hot phone\nOtherwise a good phone\nBattery backup is lower than other phones\nCamera quality is super\nPerformance is super but sometimes video stops automatically\nDisplay quality super topnotch",
+      "cleaned_comment": "nice product but sometimes hot phone otherwise a good phone battery backup is lower than other phones camera quality is super performance is super but sometimes video stops automatically display quality super topnotch"
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "It's a very cool phone, no matter how much I charge, it's useful, it's very good I am so happy to day it's very nice 👍",
+      "cleaned_comment": "it's a very cool phone, no matter how much i charge, it's useful, it's very good i am so happy to day it's very nice"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Amazing phone with AI features. Battery capacity is very good. Processor is also very good. Camera features with AI is Amazing 😍😍",
+      "cleaned_comment": "amazing phone with ai features. battery capacity is very good. processor is also very good. camera features with ai is amazing"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "This phone is really good. Battery and performance is great. Camera quality is good as well. If you have a budget under 30k, this is the phone you can go for. Just the size is a little big for my liking but overall this is a good phone.",
+      "cleaned_comment": "this phone is really good. battery and performance is great. camera quality is good as well. if you have a budget under 30k, this is the phone you can go for. just the size is a little big for my liking but overall this is a good phone."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "After using it for 1 month I can say the phone is fantastic The camera clarity is excellent but the only drawback is the battery drains quite quickly overall very good 📱 phone .I am giving 4/5 for this mobile",
+      "cleaned_comment": "after using it for 1 month i can say the phone is fantastic the camera clarity is excellent but the only drawback is the battery drains quite quickly overall very good phone .i am giving 45 for this mobile"
+    },
+    {
+      "title": "good",
+      "raw_comment": "gamers don't buy this mobile free fire game medium graphics only ultra graphics settings gameplay overheating genshine impact 30 fbs only 60 fbs gameplay mobile overheating waste of money",
+      "cleaned_comment": "gamers don't buy this mobile free fire game medium graphics only ultra graphics settings gameplay overheating genshine impact 30 fbs only 60 fbs gameplay mobile overheating waste of money"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "I am vivo user since 2021 . I had vivo y51a which is working good till now. Due to 5G network I decided to upgrade my phone . Spent almost 1 month to decide which phone I should buy . I was looking a phone who has good performance, camera and battery backup. So I decided to buy this phone and on January 2025 I ordered it online. See the quality of photos, display and IP rating is also good. Overall good experience. Thanks to VIVO 🙏",
+      "cleaned_comment": "i am vivo user since 2021 . i had vivo y51a which is working good till now. due to 5g network i decided to upgrade my phone . spent almost 1 month to decide which phone i should buy . i was looking a phone who has good performance, camera and battery backup. so i decided to buy this phone and on january 2025 i ordered it online. see the quality of photos, display and ip rating is also good. overall good experience. thanks to vivo"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "An excellent Vivo T3 Ultra Gray 256 GB mobile phone has been purchased from Flipkart for my JJ Travels works. The mobile phone's overall performance is found to be outstanding.",
+      "cleaned_comment": "an excellent vivo t3 ultra gray 256 gb mobile phone has been purchased from flipkart for my jj travels works. the mobile phone's overall performance is found to be outstanding."
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "The Vivo T3 Ultra offers powerful performance, impressive cameras, and a long-lasting battery, making it a strong choice for multitasking. Its sleek design and 120Hz AMOLED display add to its appeal. However, heating issues and limited camera capabilities in certain areas are notable drawbacks.",
+      "cleaned_comment": "the vivo t3 ultra offers powerful performance, impressive cameras, and a long-lasting battery, making it a strong choice for multitasking. its sleek design and 120hz amoled display add to its appeal. however, heating issues and limited camera capabilities in certain areas are notable drawbacks."
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Terrific purchase . if you search for performance based phone this will not disappoint you display is amazing, camera also ok.battey last one day enough.so thanks for Flipkart timely delivery.",
+      "cleaned_comment": "terrific purchase . if you search for performance based phone this will not disappoint you display is amazing, camera also ok.battey last one day enough.so thanks for flipkart timely delivery."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Slightly battery drain issue in this phone camera is average and designed very well and performance is very well",
+      "cleaned_comment": "slightly battery drain issue in this phone camera is average and designed very well and performance is very well"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Searched a lot for a good camera phone with good processor capabilities since last 6 months. Ultra wide camera we don't use much. If the cameras are good and we don't have good processor, it will take lot of time to process the image after the photo is taken which is frustrating. Since Vivo is known for cameras, I specifically shortlisted Vivo and this is the only phone I could find around 25k with flagship 50 MP Sony imx 921 main camera and 50MP selfie cameras which are more than enough to c...\nREAD MORE",
+      "cleaned_comment": "searched a lot for a good camera phone with good processor capabilities since last 6 months. ultra wide camera we don't use much. if the cameras are good and we don't have good processor, it will take lot of time to process the image after the photo is taken which is frustrating. since vivo is known for cameras, i specifically shortlisted vivo and this is the only phone i could find around 25k with flagship 50 mp sony imx 921 main camera and 50mp selfie cameras which are more than enough to."
+    },
+    {
+      "title": "great product",
+      "raw_comment": "The stunning display with high resolution and smooth refresh rate makes every video and game feel immersive. The camera is a showstopper, delivering sharp, vibrant shots even in low light. Powered by a fast processor and long-lasting battery, it ensures seamless multitasking and gaming. Fast charging keeps you going without long wait times. If you want a stylish, powerful phone with a WOW factor, the Vivo T3 Ultra is a great choice!",
+      "cleaned_comment": "the stunning display with high resolution and smooth refresh rate makes every video and game feel immersive. the camera is a showstopper, delivering sharp, vibrant shots even in low light. powered by a fast processor and long-lasting battery, it ensures seamless multitasking and gaming. fast charging keeps you going without long wait times. if you want a stylish, powerful phone with a wow factor, the vivo t3 ultra is a great choice!"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "T3 Ultra nice phone and excellent camera quality, performance is up to the mark, decent design. Fast charging work properly and battery life is about 1 day.\n\nNothing to hate this phone...",
+      "cleaned_comment": "t3 ultra nice phone and excellent camera quality, performance is up to the mark, decent design. fast charging work properly and battery life is about 1 day. nothing to hate this phone."
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "Its awesome performance also so good battery is very good one and half day perfoming while charging its somehow heating but not bad. Only thing is design",
+      "cleaned_comment": "its awesome performance also so good battery is very good one and half day perfoming while charging its somehow heating but not bad. only thing is design"
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "Among all smartphones under 35000 ; this is a piece of art 🎨, perfect back design , perfect display , perfect processor , clean ui experience.",
+      "cleaned_comment": "among all smartphones under 35000 ; this is a piece of art , perfect back design , perfect display , perfect processor , clean ui experience."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Vivo T3 Ultra is very nice and superb phone, processor, camera,display is very good but battery is minor throw low So phone is also very good",
+      "cleaned_comment": "vivo t3 ultra is very nice and superb phone, processor, camera,display is very good but battery is minor throw low so phone is also very good"
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "First time I have used Vivo , this t3 ultra is amazing phone like camera, display, design, performance just go for it. 4k video like dslr",
+      "cleaned_comment": "first time i have used vivo , this t3 ultra is amazing phone like camera, display, design, performance just go for it. 4k video like dslr"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "This mobile is a true all rounder. The camera quality and Display are simply outstanding. In this price segment it is undoubtedly one of the best",
+      "cleaned_comment": "this mobile is a true all rounder. the camera quality and display are simply outstanding. in this price segment it is undoubtedly one of the best"
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "It's performance and battery phone. Display though 1.5 k amoled it is not tuned for comfort. Eyes gets hurt. There are better display panels in market with Lil higher range like One plus 12 or Realme GT6 or Xiaomi 13 phones.\n\nInfact Vivo V40 display is tuned differently and is better than T3 ultra.\n\nSome bloatware available but can be uninstalled.\n\nCooling mgmt is much better than many phones.\n\nThis is not a Camera phone but that's okay. Edit your pictures or videos later.\n\nBest part about ...\nREAD MORE",
+      "cleaned_comment": "it's performance and battery phone. display though 1.5 k amoled it is not tuned for comfort. eyes gets hurt. there are better display panels in market with lil higher range like one plus 12 or realme gt6 or xiaomi 13 phones. infact vivo v40 display is tuned differently and is better than t3 ultra. some bloatware available but can be uninstalled. cooling mgmt is much better than many phones. this is not a camera phone but that's okay. edit your pictures or videos later. best part."
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "Best phone and all rounder\nCamera excellent\nPerformance super excellent\nBattery excellent\nVery smooth feeling in this phone",
+      "cleaned_comment": "best phone and all rounder camera excellent performance super excellent battery excellent very smooth feeling in this phone"
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "Nice phone click some amazing pictures 👍👍👍,the processor and display is fantastic and battery backup is good enough,and quite slim design feel good in hand.",
+      "cleaned_comment": "nice phone click some amazing pictures ,the processor and display is fantastic and battery backup is good enough,and quite slim design feel good in hand."
+    },
+    {
+      "title": "utterly disappointed",
+      "raw_comment": "Please dont buy this phone phone was lagging and call after call not working phone was before and after call 😡😡😡😡",
+      "cleaned_comment": "please dont buy this phone phone was lagging and call after call not working phone was before and after call"
+    },
+    {
+      "title": "did not meet expectations",
+      "raw_comment": "Overheating issue and network connectivity poor\n\nAnd flipkart policy very bad because no return mobile phone",
+      "cleaned_comment": "overheating issue and network connectivity poor and flipkart policy very bad because no return mobile phone"
+    },
+    {
+      "title": "nice product",
+      "raw_comment": "Good for day to day use\nGood camera one of the best in this segment\nPerformance is great\nYou can play games for hours without any lag\nBut there's heating issue.",
+      "cleaned_comment": "good for day to day use good camera one of the best in this segment performance is great you can play games for hours without any lag but there's heating issue."
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "Battery Life:\nReviews often detail how long the phone lasts on a single charge under typical usage.\nCamera:\nCustomers often comment on the quality of photos and videos taken with the phone's camera.\nDisplay:\nReviews often mention the clarity, brightness, and color accuracy of the display.\nSound Quality:\nCustomers share their experiences with listening to music and audio via the phone's speakers or headphones.\nBuild Quality:\nReviews often mention the phone's feel, durability, and overall aesth...\nREAD MORE",
+      "cleaned_comment": "battery life: reviews often detail how long the phone lasts on a single charge under typical usage. camera: customers often comment on the quality of photos and videos taken with the phone's camera. display: reviews often mention the clarity, brightness, and color accuracy of the display. sound quality: customers share their experiences with listening to music and audio via the phone's speakers or headphones. build quality: reviews often mention the phone's feel, durability, and overall."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "Wonderful cemara quality 5/5\nBattery 5/5\nDesign 5/5\nPerformance 5/5\nNevar disappointed to Vivo Users\nBest Smart phone Under this price",
+      "cleaned_comment": "wonderful cemara quality 55 battery 55 design 55 performance 55 nevar disappointed to vivo users best smart phone under this price"
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "Camera - Above average camera tbh , I was OnePlus 10r user so i would say not a major upgrade in camera except front camera\n\nBattery - It's been a month using and faced no battery issues\n\nDisplay - It has a very beautiful display with almost no to very thin Bezels\nPerformance - I've played bgmi,pubg mobile , Genshin impact and wuthering waves and it runs all of em smoothly no lags and stutter (no 120 or 90 fps in bgmi tho)\n\nOnly con is it's UI ,that too bcz of Shifting from Oxygen os to fun ...\nREAD MORE",
+      "cleaned_comment": "camera - above average camera tbh , i was oneplus 10r user so i would say not a major upgrade in camera except front camera battery - it's been a month using and faced no battery issues display - it has a very beautiful display with almost no to very thin bezels performance - i've played bgmi,pubg mobile , genshin impact and wuthering waves and it runs all of em smoothly no lags and stutter (no 120 or 90 fps in bgmi tho) only con is it's ui ,that too bcz of shifting from oxygen os to."
+    },
+    {
+      "title": "not good",
+      "raw_comment": "After using 5months I'm writing this review,\nAll good for this mobile\nOnly issue is that battery backup\n2 times need to recharge every day, with normal uses, without gaming\nVery worst experience with battery backup",
+      "cleaned_comment": "after using 5months i'm writing this review, all good for this mobile only issue is that battery backup 2 times need to recharge every day, with normal uses, without gaming very worst experience with battery backup"
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "T3 Ultra nice phone and excellent camera quality, performance is up to the mark, decent design. Fast charging work properly and battery life is about 1 day.\n\nNothing to hate this phone...",
+      "cleaned_comment": "t3 ultra nice phone and excellent camera quality, performance is up to the mark, decent design. fast charging work properly and battery life is about 1 day. nothing to hate this phone."
+    },
+    {
+      "title": "very poor",
+      "raw_comment": "Battery drainage very fast my old phone too much battery back up but 5500mah battery i think vivo company selling process people attract 5500 mah battery wrong information,battery back up like 4000 mah\nOn screen time 5 hours ......\nHeating problem minimum photo shoot if play game may be mobile blast .......",
+      "cleaned_comment": "battery drainage very fast my old phone too much battery back up but 5500mah battery i think vivo company selling process people attract 5500 mah battery wrong information,battery back up like 4000 mah on screen time 5 hours . heating problem minimum photo shoot if play game may be mobile blast ."
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "I am vivo user since 2021 . I had vivo y51a which is working good till now. Due to 5G network I decided to upgrade my phone . Spent almost 1 month to decide which phone I should buy . I was looking a phone who has good performance, camera and battery backup. So I decided to buy this phone and on January 2025 I ordered it online. See the quality of photos, display and IP rating is also good. Overall good experience. Thanks to VIVO 🙏",
+      "cleaned_comment": "i am vivo user since 2021 . i had vivo y51a which is working good till now. due to 5g network i decided to upgrade my phone . spent almost 1 month to decide which phone i should buy . i was looking a phone who has good performance, camera and battery backup. so i decided to buy this phone and on january 2025 i ordered it online. see the quality of photos, display and ip rating is also good. overall good experience. thanks to vivo"
+    },
+    {
+      "title": "fair",
+      "raw_comment": "Good product and camera quality image awesome mobile looking so beautiful and performance very high th better than Vivo V series",
+      "cleaned_comment": "good product and camera quality image awesome mobile looking so beautiful and performance very high th better than vivo v series"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "An excellent Vivo T3 Ultra Gray 256 GB mobile phone has been purchased from Flipkart for my JJ Travels works. The mobile phone's overall performance is found to be outstanding.",
+      "cleaned_comment": "an excellent vivo t3 ultra gray 256 gb mobile phone has been purchased from flipkart for my jj travels works. the mobile phone's overall performance is found to be outstanding."
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Excellent phone in this price range. Till date no issues. The camera is also great. Battery back-up is also good. Performance is good. Would definitely recommend this to anyone who wants a premium looking phone with a good camera and performance in mid range.",
+      "cleaned_comment": "excellent phone in this price range. till date no issues. the camera is also great. battery back-up is also good. performance is good. would definitely recommend this to anyone who wants a premium looking phone with a good camera and performance in mid range."
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "Overal in this segment absolutely good if anybody want to buy this Mobile instead go for V40 this is my suggestion thank you",
+      "cleaned_comment": "overal in this segment absolutely good if anybody want to buy this mobile instead go for v40 this is my suggestion thank you"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "I used to vivo t3 ultra\nProcessor is good nice picture performance is really nice but pubg mobile 120 amps not work only 60 mps Good Wark",
+      "cleaned_comment": "i used to vivo t3 ultra processor is good nice picture performance is really nice but pubg mobile 120 amps not work only 60 mps good wark"
+    },
+    {
+      "title": "nice",
+      "raw_comment": "The phone is awesome performance wise, the battery is long lasting even with gaming on hd settings, looks good too but the only issue is the camera, if you need a good camera also I would suggest going for V series.",
+      "cleaned_comment": "the phone is awesome performance wise, the battery is long lasting even with gaming on hd settings, looks good too but the only issue is the camera, if you need a good camera also i would suggest going for v series."
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "Battery shouldve been better adjusted according to software to last longer but hope it can be resolved by update in future",
+      "cleaned_comment": "battery shouldve been better adjusted according to software to last longer but hope it can be resolved by update in future"
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "First time I have used Vivo , this t3 ultra is amazing phone like camera, display, design, performance just go for it. 4k video like dslr",
+      "cleaned_comment": "first time i have used vivo , this t3 ultra is amazing phone like camera, display, design, performance just go for it. 4k video like dslr"
+    },
+    {
+      "title": "awesome",
+      "raw_comment": "Fantastic overall experience after 1 month...\nNot a single cons to mention present here...Worth for 🤑💰",
+      "cleaned_comment": "fantastic overall experience after 1 month. not a single cons to mention present here. worth for"
+    },
+    {
+      "title": "highly recommended",
+      "raw_comment": "Very Very Nice..... Smooth Performance 👌But Battery Slitly Drain issues and Overall good.Vivo Please Battery Optimization Update",
+      "cleaned_comment": "very very nice. smooth performance but battery slitly drain issues and overall good.vivo please battery optimization update"
+    },
+    {
+      "title": "great product",
+      "raw_comment": "The stunning display with high resolution and smooth refresh rate makes every video and game feel immersive. The camera is a showstopper, delivering sharp, vibrant shots even in low light. Powered by a fast processor and long-lasting battery, it ensures seamless multitasking and gaming. Fast charging keeps you going without long wait times. If you want a stylish, powerful phone with a WOW factor, the Vivo T3 Ultra is a great choice!",
+      "cleaned_comment": "the stunning display with high resolution and smooth refresh rate makes every video and game feel immersive. the camera is a showstopper, delivering sharp, vibrant shots even in low light. powered by a fast processor and long-lasting battery, it ensures seamless multitasking and gaming. fast charging keeps you going without long wait times. if you want a stylish, powerful phone with a wow factor, the vivo t3 ultra is a great choice!"
+    },
+    {
+      "title": "horrible",
+      "raw_comment": "Fully useless phone. Battery performance is very bad and no update version, it is totally poxy phone. I suggest you have do not buy this phone.",
+      "cleaned_comment": "fully useless phone. battery performance is very bad and no update version, it is totally poxy phone. i suggest you have do not buy this phone."
+    },
+    {
+      "title": "good choice",
+      "raw_comment": "Good product 👍\n1. AI feature\n2. Performance\n3. Battery\n4. Display\n5. Design\n6. 5G connectivity\n7. I Manager for performance booster",
+      "cleaned_comment": "good product 1. ai feature 2. performance 3. battery 4. display 5. design 6. 5g connectivity 7. i manager for performance booster"
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "This mobile is a true all rounder. The camera quality and Display are simply outstanding. In this price segment it is undoubtedly one of the best",
+      "cleaned_comment": "this mobile is a true all rounder. the camera quality and display are simply outstanding. in this price segment it is undoubtedly one of the best"
+    },
+    {
+      "title": "worth every penny",
+      "raw_comment": "It is good one. Camera clarity is superb in portrait mode. After 3x photo is not good in normal mode. Remaining thing it is good.\nUsage and screen wise touch is very nice.. But mobile back cover is not expected as like before.\nBattery is average one only. Once mobile network and wifi is on battery is getting drained too fast.\nDisplay is awesome. Smoothness and brightness level is very good.\nPerformance is very good.\nBut my concern is only battery and zooming camera related issue.",
+      "cleaned_comment": "it is good one. camera clarity is superb in portrait mode. after 3x photo is not good in normal mode. remaining thing it is good. usage and screen wise touch is very nice. but mobile back cover is not expected as like before. battery is average one only. once mobile network and wifi is on battery is getting drained too fast. display is awesome. smoothness and brightness level is very good. performance is very good. but my concern is only battery and zooming camera related issue."
+    },
+    {
+      "title": "terrific purchase",
+      "raw_comment": "The design of this mobile is very awesome,, attractive display,,Amoled display makes smooth,, camera is good one,,",
+      "cleaned_comment": "the design of this mobile is very awesome,, attractive display,,amoled display makes smooth,, camera is good one,,"
+    },
+    {
+      "title": "fabulous!",
+      "raw_comment": "Top class mobile no 1, after many review of so many mobile , this is perfect choice , really happy got such top performance, classy camera ,long lasting battery in many review i found @ not good performance in battery but ingore such review , i would say battery also very good go for it .......Top class mobile.",
+      "cleaned_comment": "top class mobile no 1, after many review of so many mobile , this is perfect choice , really happy got such top performance, classy camera ,long lasting battery in many review i found not good performance in battery but ingore such review , i would say battery also very good go for it . top class mobile."
+    },
+    {
+      "title": "value-for-money",
+      "raw_comment": "All r good . But need to solve the fast battery drainage problems. Hope Vivo will solve it with a new software update.",
+      "cleaned_comment": "all r good . but need to solve the fast battery drainage problems. hope vivo will solve it with a new software update."
+    },
+    {
+      "title": "mind-blowing purchase",
+      "raw_comment": "it is a nice smartphone.performance very nice battery life good and camera awesome.But keyboard not satisfactory",
+      "cleaned_comment": "it is a nice smartphone.performance very nice battery life good and camera awesome.but keyboard not satisfactory"
+    },
+    {
+      "title": "could be way better",
+      "raw_comment": "Battery getting drained very quickly,which is very disappointing for me.. Also when using some high performance apps like BGMI,etc. heating issues are there..\n\nCamera performance is reasonably good.",
+      "cleaned_comment": "battery getting drained very quickly,which is very disappointing for me. also when using some high performance apps like bgmi,etc. heating issues are there. camera performance is reasonably good."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Worth it....loved the performance....not too good battery but much better backup...overall great product must buy💖",
+      "cleaned_comment": "worth it. loved the performance. not too good battery but much better backup. overall great product must buy"
+    },
+    {
+      "title": "delightful",
+      "raw_comment": "After 2 days usage Camera not ok this price range.battery ok display ok audio system superb except camera all system superbly worked camera was disappointing me .",
+      "cleaned_comment": "after 2 days usage camera not ok this price range.battery ok display ok audio system superb except camera all system superbly worked camera was disappointing me ."
+    },
+    {
+      "title": "worst experience ever!",
+      "raw_comment": "After using 1week this phone battery backup is worst and heating problem also there camera quality average plz don't buy",
+      "cleaned_comment": "after using 1week this phone battery backup is worst and heating problem also there camera quality average plz don't buy"
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Nice product but sometimes 🔥 hot phone\nOtherwise a good phone\nBattery backup is lower than other phones\nCamera quality is super\nPerformance is super but sometimes video stops automatically\nDisplay quality super topnotch",
+      "cleaned_comment": "nice product but sometimes hot phone otherwise a good phone battery backup is lower than other phones camera quality is super performance is super but sometimes video stops automatically display quality super topnotch"
+    },
+    {
+      "title": "brilliant",
+      "raw_comment": "This is my 2nd phone from vivo and it is great.\nReally love the fast charging and IP68 waterproof features.",
+      "cleaned_comment": "this is my 2nd phone from vivo and it is great. really love the fast charging and ip68 waterproof features."
+    },
+    {
+      "title": "classy product",
+      "raw_comment": "Using Vivo for the first time\n\nAlternate phones used recently..S22 ultra..iPhone 12.. Xiaomi 11t pro..\nWud give a short review..this phone is awesome..\nOnly 1 or two improvements needed in software.. Usability..as compared to samsung.. battery is impressive..camera is also good..music.. display..all sati",
+      "cleaned_comment": "using vivo for the first time alternate phones used recently. s22 ultra. iphone 12. xiaomi 11t pro. wud give a short review. this phone is awesome. only 1 or two improvements needed in software. usability. as compared to samsung. battery is impressive. camera is also good. music. display. all sati"
+    },
+    {
+      "title": "decent product",
+      "raw_comment": "When I play game it get so much hot on the screen and camera body that is the problem rest of all good",
+      "cleaned_comment": "when i play game it get so much hot on the screen and camera body that is the problem rest of all good"
+    },
+    {
+      "title": "horrible",
+      "raw_comment": "Just average phone even less than my old moto g40\nCamera is also not so good.both rear and front.\nSound average\nDisplay average.\nNo themes or wallpaper preloaded",
+      "cleaned_comment": "just average phone even less than my old moto g40 camera is also not so good.both rear and front. sound average display average. no themes or wallpaper preloaded"
+    },
+    {
+      "title": "good",
+      "raw_comment": "gamers don't buy this mobile free fire game medium graphics only ultra graphics settings gameplay overheating genshine impact 30 fbs only 60 fbs gameplay mobile overheating waste of money",
+      "cleaned_comment": "gamers don't buy this mobile free fire game medium graphics only ultra graphics settings gameplay overheating genshine impact 30 fbs only 60 fbs gameplay mobile overheating waste of money"
+    },
+    {
+      "title": "best in the market!",
+      "raw_comment": "The product is good. Vivo t3 Ultra is a Specially made for photos and video quality. this is awesome.",
+      "cleaned_comment": "the product is good. vivo t3 ultra is a specially made for photos and video quality. this is awesome."
+    }
+  ]
+}

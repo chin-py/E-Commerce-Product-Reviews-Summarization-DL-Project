@@ -1,0 +1,64 @@
+{
+  "product": "Vivo iQOO Z10",
+  "total_initial_review_count": 103,
+  "total_final_review_count": 11,
+  "overall_rating": 4.4,
+  "total_ratings_count": 1757,
+  "cleaned_reviews": [
+    {
+      "title": "classy product",
+      "raw_comment": "Product is good and value fore maney and battery backup up to 2days on full charge",
+      "cleaned_comment": "product is good and value fore maney and battery backup up to 2days on full charge"
+    },
+    {
+      "title": "great product",
+      "raw_comment": "Camera - 10/10\nBattery - 10/10\nPerformance 10/10\nIs mobile camera is Awesome and performance is very 👍😊❤️",
+      "cleaned_comment": "camera - 1010 battery - 1010 performance 1010 is mobile camera is awesome and performance is very"
+    },
+    {
+      "title": "really nice",
+      "raw_comment": "Pros- *best camera quality\n*Super performance\n*Design -4/5\n\nCons- this phone have a major problem\nCalling problem facing in outdoor and indoor\nPlease be careful when purchase.",
+      "cleaned_comment": "pros- best camera quality super performance design -45 cons- this phone have a major problem calling problem facing in outdoor and indoor please be careful when purchase."
+    },
+    {
+      "title": "simply awesome",
+      "raw_comment": "The IQOO Z10 is superb phone with nice display, battery life and performance is top notch really amazing phone. 💕❤️",
+      "cleaned_comment": "the iqoo z10 is superb phone with nice display, battery life and performance is top notch really amazing phone."
+    },
+    {
+      "title": "very poor",
+      "raw_comment": "I never believed in Vivo phones because of their camera showing 32mp but does get clarity of 5mp also but this time I thought iQOO phones are different looking at the rating but after using this for 2 days now I'm thinking I should have gone for moto phones instead of this iQOO hyped phones.\n\nWorst camera of this phone in this segment.\n\nWill never purchase iQOO and vivo again.",
+      "cleaned_comment": "i never believed in vivo phones because of their camera showing 32mp but does get clarity of 5mp also but this time i thought iqoo phones are different looking at the rating but after using this for 2 days now i'm thinking i should have gone for moto phones instead of this iqoo hyped phones. worst camera of this phone in this segment. will never purchase iqoo and vivo again."
+    },
+    {
+      "title": "very poor",
+      "raw_comment": "I am use iQOO z10 5g but honestly but battery time is original only 22hours run.\nCamera excellent\nBattery are very bad response of battery is not stand for 1 day .\n\nTrust me I am use iQOO z10 5g about 15day this budget for this phone not good .\nBut other company give better option to this price range.",
+      "cleaned_comment": "i am use iqoo z10 5g but honestly but battery time is original only 22hours run. camera excellent battery are very bad response of battery is not stand for 1 day . trust me i am use iqoo z10 5g about 15day this budget for this phone not good . but other company give better option to this price range."
+    },
+    {
+      "title": "worth the money",
+      "raw_comment": "The product is very nice, really I Love this mobile, but the issue on this mobile is:\n1) Heating problem\n2) At first it's battery is standard but after few days it's batter\ndo not standard...\nBUT FOR THE PART TIME GAMER , THIS MOBILE IS\nPERFECT...💯👍",
+      "cleaned_comment": "the product is very nice, really i love this mobile, but the issue on this mobile is: 1) heating problem 2) at first it's battery is standard but after few days it's batter do not standard. but for the part time gamer , this mobile is perfect."
+    },
+    {
+      "title": "terrific",
+      "raw_comment": "I was using Realme 2 pro since 2018 now upgraded to this one No doubt its A Battery Beast i bought this for long battery and now am totally satisfied with the phone if you are a normal user it will last for 2 days am not camera centric but it has good camera but not better than my old phone.Go for it if you need Long lasting battery and good performance.",
+      "cleaned_comment": "i was using realme 2 pro since 2018 now upgraded to this one no doubt its a battery beast i bought this for long battery and now am totally satisfied with the phone if you are a normal user it will last for 2 days am not camera centric but it has good camera but not better than my old phone.go for it if you need long lasting battery and good performance."
+    },
+    {
+      "title": "fair",
+      "raw_comment": "Every thing in this phone is great.but two things are in concern.first it's memory is non-extendable and second is it's speaker ...since it has mono speaker ,when playing background music you can hear buzz sound over mere vibration",
+      "cleaned_comment": "every thing in this phone is great.but two things are in concern.first it's memory is non-extendable and second is it's speaker . since it has mono speaker ,when playing background music you can hear buzz sound over mere vibration"
+    },
+    {
+      "title": "worth the money",
+      "raw_comment": "Mobile is good performance is very smooth\nNetwork connectivity is very good 👍\nDual Stereo speakers needed.\nheating issue during charging\nFast charging is good as per 7300mah big battery\nCamera is average 5/4.3\nBattery backup 2day for normal users 5/4.9\nDevice build quality is poor👎 ...back panel is plastic\nBut mobile is good value for money",
+      "cleaned_comment": "mobile is good performance is very smooth network connectivity is very good dual stereo speakers needed. heating issue during charging fast charging is good as per 7300mah big battery camera is average 54.3 battery backup 2day for normal users 54.9 device build quality is poor . back panel is plastic but mobile is good value for money"
+    },
+    {
+      "title": "just wow!",
+      "raw_comment": "Mono speaker in this price that is bad but display , battery and performance is good in this price range",
+      "cleaned_comment": "mono speaker in this price that is bad but display , battery and performance is good in this price range"
+    }
+  ]
+}
