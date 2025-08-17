@@ -2,7 +2,7 @@
 # 🛍️ AI Generated E-commerce Product Review Summarization
 
 ## 🌐 Live Demo
-Access the deployed app here: **[[Your EC2 Link](http://13.233.216.37:8501)]**
+Access the deployed app here: **[[Link to Streamlit App on AWS](http://13.233.216.37:8501)]**
 
 ## 📌 Overview
 This project is inspired by Amazon’s AI product review summaries and aims to **automatically generate concise, informative summaries** from raw customer reviews scraped from **Flipkart**.  
@@ -43,7 +43,7 @@ It combines **data scraping**, **intelligent preprocessing**, **Transfer Learnin
 ---
 
 ## 🌐 Live Demo
-Access the deployed app here: **[[Your EC2 Link](http://13.233.216.37:8501)]**
+Access the deployed app here: **[[Link to Streamlit App on AWS](http://13.233.216.37:8501)]**
 
 ---
 
