@@ -43,7 +43,7 @@ It combines **data scraping**, **intelligent preprocessing**, **Transfer Learnin
 ---
 
 ## 🌐 Live Demo
-Access the deployed app here: **[Your EC2 Link]**
+Access the deployed app here: **[http://13.233.216.37:8501]**
 
 ---
 
